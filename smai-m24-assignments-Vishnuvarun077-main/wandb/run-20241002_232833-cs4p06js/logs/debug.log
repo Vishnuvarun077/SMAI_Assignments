@@ -1,0 +1,27 @@
+2024-10-02 23:28:33,649 INFO    MainThread:42542 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-02 23:28:33,649 INFO    MainThread:42542 [wandb_setup.py:_flush():79] Configure stats pid to 42542
+2024-10-02 23:28:33,649 INFO    MainThread:42542 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/.config/wandb/settings
+2024-10-02 23:28:33,649 INFO    MainThread:42542 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/settings
+2024-10-02 23:28:33,650 INFO    MainThread:42542 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'mlp-wine-quality', 'entity': 'vishnuvarun-iiit-hyderabad', 'root_dir': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077', 'run_id': 'cs4p06js', 'sweep_param_path': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/sweep-e4a9xmse/config-cs4p06js.yaml', 'sweep_id': 'e4a9xmse'}
+2024-10-02 23:28:33,650 INFO    MainThread:42542 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-02 23:28:33,650 INFO    MainThread:42542 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/mlpc.py', 'program_abspath': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py', 'program': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py'}
+2024-10-02 23:28:33,650 INFO    MainThread:42542 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-02 23:28:33,650 INFO    MainThread:42542 [wandb_init.py:_log_setup():532] Logging user logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_232833-cs4p06js/logs/debug.log
+2024-10-02 23:28:33,650 INFO    MainThread:42542 [wandb_init.py:_log_setup():533] Logging internal logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_232833-cs4p06js/logs/debug-internal.log
+2024-10-02 23:28:33,650 INFO    MainThread:42542 [wandb_init.py:init():617] calling init triggers
+2024-10-02 23:28:33,650 INFO    MainThread:42542 [wandb_init.py:init():624] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 16, 'learning_rate': 0.09007375772089622, 'optimizer': 'sgd'}
+config: {}
+2024-10-02 23:28:33,650 INFO    MainThread:42542 [wandb_init.py:init():667] starting backend
+2024-10-02 23:28:33,650 INFO    MainThread:42542 [wandb_init.py:init():671] sending inform_init request
+2024-10-02 23:28:33,654 INFO    MainThread:42542 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-02 23:28:33,655 INFO    MainThread:42542 [wandb_init.py:init():684] backend started and connected
+2024-10-02 23:28:33,662 INFO    MainThread:42542 [wandb_run.py:_config_callback():1394] config_cb None None {'activation': 'sigmoid', 'batch_size': 16, 'learning_rate': 0.09007375772089622, 'optimizer': 'sgd'}
+2024-10-02 23:28:33,662 INFO    MainThread:42542 [wandb_init.py:init():779] updated telemetry
+2024-10-02 23:28:33,666 INFO    MainThread:42542 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-02 23:28:34,027 INFO    MainThread:42542 [wandb_init.py:init():863] starting run threads in backend
+2024-10-02 23:28:34,065 INFO    MainThread:42542 [wandb_run.py:_console_start():2465] atexit reg
+2024-10-02 23:28:34,065 INFO    MainThread:42542 [wandb_run.py:_redirect():2313] redirect: wrap_raw
+2024-10-02 23:28:34,065 INFO    MainThread:42542 [wandb_run.py:_redirect():2378] Wrapping output streams.
+2024-10-02 23:28:34,065 INFO    MainThread:42542 [wandb_run.py:_redirect():2403] Redirects installed.
+2024-10-02 23:28:34,065 INFO    MainThread:42542 [wandb_init.py:init():907] run started, returning control to user process
+2024-10-02 23:28:34,841 WARNING MsgRouterThr:42542 [router.py:message_loop():77] message_loop has been closed

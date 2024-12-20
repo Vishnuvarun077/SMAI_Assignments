@@ -1,0 +1,10 @@
+wandb_version: 1
+
+activation:
+  value: sigmoid
+batch_size:
+  value: 16
+learning_rate:
+  value: 0.009431985353264838
+optimizer:
+  value: batch

@@ -1,0 +1,7 @@
+[34m[1mwandb[0m: [33mWARNING[0m Ignored wandb.init() arg project when running a sweep.
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'activation' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'optimizer' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'learning_rate' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'batch_size' was locked by 'sweep' (ignored update).
+Epoch 0, Loss: 0.2188
+Early stopping at epoch 69

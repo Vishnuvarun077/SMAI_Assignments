@@ -1,0 +1,2118 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "KNeighborsClassifier",
+        "importPath": "sklearn.neighbors",
+        "description": "sklearn.neighbors",
+        "isExtraImport": true,
+        "detail": "sklearn.neighbors",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.animation",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.animation",
+        "description": "matplotlib.animation",
+        "detail": "matplotlib.animation",
+        "documentation": {}
+    },
+    {
+        "label": "KNN",
+        "importPath": "models.knn.knn",
+        "description": "models.knn.knn",
+        "isExtraImport": true,
+        "detail": "models.knn.knn",
+        "documentation": {}
+    },
+    {
+        "label": "initial_KNN",
+        "importPath": "models.knn.knn",
+        "description": "models.knn.knn",
+        "isExtraImport": true,
+        "detail": "models.knn.knn",
+        "documentation": {}
+    },
+    {
+        "label": "KNN",
+        "importPath": "models.knn.knn",
+        "description": "models.knn.knn",
+        "isExtraImport": true,
+        "detail": "models.knn.knn",
+        "documentation": {}
+    },
+    {
+        "label": "KNN",
+        "importPath": "models.knn.knn",
+        "description": "models.knn.knn",
+        "isExtraImport": true,
+        "detail": "models.knn.knn",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceMeasures",
+        "importPath": "performance_measures.performance_measures",
+        "description": "performance_measures.performance_measures",
+        "isExtraImport": true,
+        "detail": "performance_measures.performance_measures",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceMeasures",
+        "importPath": "performance_measures.performance_measures",
+        "description": "performance_measures.performance_measures",
+        "isExtraImport": true,
+        "detail": "performance_measures.performance_measures",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceMeasures",
+        "importPath": "performance_measures.performance_measures",
+        "description": "performance_measures.performance_measures",
+        "isExtraImport": true,
+        "detail": "performance_measures.performance_measures",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "models.linearregression.linearregression",
+        "description": "models.linearregression.linearregression",
+        "isExtraImport": true,
+        "detail": "models.linearregression.linearregression",
+        "documentation": {}
+    },
+    {
+        "label": "scipy.stats",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "multivariate_normal",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "scipy.cluster.hierarchy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scipy.cluster.hierarchy",
+        "description": "scipy.cluster.hierarchy",
+        "detail": "scipy.cluster.hierarchy",
+        "documentation": {}
+    },
+    {
+        "label": "fcluster",
+        "importPath": "scipy.cluster.hierarchy",
+        "description": "scipy.cluster.hierarchy",
+        "isExtraImport": true,
+        "detail": "scipy.cluster.hierarchy",
+        "documentation": {}
+    },
+    {
+        "label": "fcluster",
+        "importPath": "scipy.cluster.hierarchy",
+        "description": "scipy.cluster.hierarchy",
+        "isExtraImport": true,
+        "detail": "scipy.cluster.hierarchy",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "models.kmeans.KMeans",
+        "description": "models.kmeans.KMeans",
+        "isExtraImport": true,
+        "detail": "models.kmeans.KMeans",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "models.kmeans.KMeans",
+        "description": "models.kmeans.KMeans",
+        "isExtraImport": true,
+        "detail": "models.kmeans.KMeans",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "models.kmeans.KMeans",
+        "description": "models.kmeans.KMeans",
+        "isExtraImport": true,
+        "detail": "models.kmeans.KMeans",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "models.kmeans.KMeans",
+        "description": "models.kmeans.KMeans",
+        "isExtraImport": true,
+        "detail": "models.kmeans.KMeans",
+        "documentation": {}
+    },
+    {
+        "label": "GMM",
+        "importPath": "models.GMM.GMM",
+        "description": "models.GMM.GMM",
+        "isExtraImport": true,
+        "detail": "models.GMM.GMM",
+        "documentation": {}
+    },
+    {
+        "label": "GMM",
+        "importPath": "models.GMM.GMM",
+        "description": "models.GMM.GMM",
+        "isExtraImport": true,
+        "detail": "models.GMM.GMM",
+        "documentation": {}
+    },
+    {
+        "label": "GMM",
+        "importPath": "models.GMM.GMM",
+        "description": "models.GMM.GMM",
+        "isExtraImport": true,
+        "detail": "models.GMM.GMM",
+        "documentation": {}
+    },
+    {
+        "label": "GMM",
+        "importPath": "models.GMM.GMM",
+        "description": "models.GMM.GMM",
+        "isExtraImport": true,
+        "detail": "models.GMM.GMM",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "models.PCA.PCA",
+        "description": "models.PCA.PCA",
+        "isExtraImport": true,
+        "detail": "models.PCA.PCA",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "models.PCA.PCA",
+        "description": "models.PCA.PCA",
+        "isExtraImport": true,
+        "detail": "models.PCA.PCA",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "models.PCA.PCA",
+        "description": "models.PCA.PCA",
+        "isExtraImport": true,
+        "detail": "models.PCA.PCA",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "models.PCA.PCA",
+        "description": "models.PCA.PCA",
+        "isExtraImport": true,
+        "detail": "models.PCA.PCA",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "models.PCA.PCA",
+        "description": "models.PCA.PCA",
+        "isExtraImport": true,
+        "detail": "models.PCA.PCA",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "models.PCA.PCA",
+        "description": "models.PCA.PCA",
+        "isExtraImport": true,
+        "detail": "models.PCA.PCA",
+        "documentation": {}
+    },
+    {
+        "label": "silhouette_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "calinski_harabasz_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "wandb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "wandb",
+        "description": "wandb",
+        "detail": "wandb",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "models.MLP.MLP",
+        "description": "models.MLP.MLP",
+        "isExtraImport": true,
+        "detail": "models.MLP.MLP",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def load_data(filename):\n    df = pd.read_csv(filename, index_col=0)\n    # Dropping rows with missing values\n    df.dropna(inplace=True)\n    return df\ndef normalize_data(data):\n    data = (data - data.min()) / (data.max() - data.min())\n    return data\ndef encode_target(data, target_column):\n    if data[target_column].dtype == 'object':",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_data",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def normalize_data(data):\n    data = (data - data.min()) / (data.max() - data.min())\n    return data\ndef encode_target(data, target_column):\n    if data[target_column].dtype == 'object':\n        data[target_column] = data[target_column].astype('category').cat.codes\n    return data\ndef plot_feature_distribution(data, feature, prefix=''):\n    plt.figure(figsize=(10, 6))\n    sns.histplot(data[feature], kde=True)",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "encode_target",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def encode_target(data, target_column):\n    if data[target_column].dtype == 'object':\n        data[target_column] = data[target_column].astype('category').cat.codes\n    return data\ndef plot_feature_distribution(data, feature, prefix=''):\n    plt.figure(figsize=(10, 6))\n    sns.histplot(data[feature], kde=True)\n    plt.title('Distribution of {}'.format(feature))\n    plt.xlabel('Value')\n    plt.ylabel('Frequency')",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_distribution",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def plot_feature_distribution(data, feature, prefix=''):\n    plt.figure(figsize=(10, 6))\n    sns.histplot(data[feature], kde=True)\n    plt.title('Distribution of {}'.format(feature))\n    plt.xlabel('Value')\n    plt.ylabel('Frequency')\n    # Comments about observations\n    skewness = data[feature].skew()\n    if abs(skewness) > 1:\n        plt.annotate('Skewed (skewness: {:.2f})'.format(skewness),",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "plot_correlation_heatmap",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def plot_correlation_heatmap(data, prefix=''):\n    numeric_features = data.select_dtypes(include=[np.number])\n    corr = numeric_features.corr()\n    plt.figure(figsize=(12, 10))\n    sns.heatmap(corr, annot=True, cmap='coolwarm', vmin=-1, vmax=1, center=0)\n    plt.title('Correlation Heatmap of Features')\n    plt.savefig('assignments/1/figures/EDA/{}correlation_heatmap.png'.format(prefix))\n    plt.close()\ndef plot_feature_importance(data, target_column, prefix=''):\n    numeric_features = data.select_dtypes(include=[np.number])",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_importance",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def plot_feature_importance(data, target_column, prefix=''):\n    numeric_features = data.select_dtypes(include=[np.number])\n    correlations = numeric_features.corrwith(data[target_column]).abs().sort_values(ascending=False)\n    plt.figure(figsize=(12, 6))\n    correlations.plot(kind='bar')\n    plt.title('Feature Importance (Correlation with Target)')\n    plt.xlabel('Features')\n    plt.ylabel('Absolute Correlation')\n    plt.xticks(rotation=45, ha='right')\n    plt.tight_layout()",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "plot_pairplot",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def plot_pairplot(data, target_column, prefix=''):\n    sns.pairplot(data=data, hue=target_column)\n    plt.savefig('assignments/1/figures/EDA/{}pairplot.png'.format(prefix))\n    plt.close()\ndef remove_outliers_zscore(data, columns, threshold=3):\n    cleaned_data = data.copy()\n    for col in columns:\n        z_scores = np.abs((cleaned_data[col] - cleaned_data[col].mean()) / cleaned_data[col].std())\n        cleaned_data = cleaned_data[z_scores < threshold]\n    return cleaned_data",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "remove_outliers_zscore",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def remove_outliers_zscore(data, columns, threshold=3):\n    cleaned_data = data.copy()\n    for col in columns:\n        z_scores = np.abs((cleaned_data[col] - cleaned_data[col].mean()) / cleaned_data[col].std())\n        cleaned_data = cleaned_data[z_scores < threshold]\n    return cleaned_data\ndef exploratory_data_analysis(data, target_column):\n    print(\"Dataset Information:\")\n    print(data.info())\n    print(\"\\nSummary Statistics:\")",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "exploratory_data_analysis",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def exploratory_data_analysis(data, target_column):\n    print(\"Dataset Information:\")\n    print(data.info())\n    print(\"\\nSummary Statistics:\")\n    print(data.describe())\n    print(\"\\nMissing Values:\")\n    print(data.isnull().sum())\n    # Encode target column\n    data = encode_target(data, target_column)\n    # Remove outliers using z-score method",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def train_test_split(X, y, test_size=0.2, random_state=None):\n    if random_state is not None:\n        np.random.seed(random_state)\n    # Shuffle the data\n    indices = np.arange(X.shape[0])\n    np.random.shuffle(indices)\n    X = X.iloc[indices]\n    y = y.iloc[indices]\n    # Split the data\n    split_index = int(X.shape[0] * (1 - test_size))",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_data",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def prepare_data(data, target_column):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    numeric_data = data[numeric_columns]\n    normalized_data = normalize_data(numeric_data)\n    normalized_data[target_column] = data[target_column]\n    coulums_to_drop = ['mode','key','time_signature']\n    if any([col in normalized_data.columns for col in coulums_to_drop]):\n        normalized_data = normalized_data.drop(columns=coulums_to_drop)\n    X = normalized_data.drop(columns=[target_column])\n    y = normalized_data[target_column]",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "knn_classification",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def knn_classification(data, target_column, k, distance_metric, test_size, random_state):\n    X, y = prepare_data(data, target_column)\n    # Split the data\n    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=test_size, random_state=random_state)\n    # Initialize and fit KNN\n    knn = KNN(k=k, distance_metric=distance_metric)\n    knn.fit(X_train.values, y_train.values)\n    # Make predictions\n    y_pred = knn.predict(X_val.values)\n    # Calculate performance metrics",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_data_2",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def prepare_data_2(data, target_column):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    numeric_data = data[numeric_columns]\n    normalized_data = normalize_data(numeric_data)\n    normalized_data[target_column] = data[target_column]\n    X = normalized_data.drop(columns=[target_column])\n    y = normalized_data[target_column]\n      # Map string labels to integers if necessary\n    if y.dtype == 'object':\n        label_mapping = {label: idx for idx, label in enumerate(np.unique(y))}",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "hyperparameter_tuning",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def hyperparameter_tuning(data, target_column):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    X, y = prepare_data_2(data, target_column)\n    # Split data into 80% training and 20% remaining\n    X_train, X_remaining, y_train, y_remaining = train_test_split(X, y, test_size=0.2, random_state=42)\n    # Split remaining 20% into 50% validation and 50% test (10% each of the original data)\n    X_val, X_test, y_val, y_test = train_test_split(X_remaining, y_remaining, test_size=0.5, random_state=42)\n    # Consider only odd k values\n    k_values = [k for k in range(1, 21) if k % 2 != 0]\n    distance_metrics = ['euclidean', 'manhattan', 'cosine']",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "greedy_forward_selection",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def greedy_forward_selection(X, y, best_k, best_metric):\n    remaining_features = list(X.columns)\n    selected_features = []\n    best_accuracy = 0\n    while remaining_features:\n        best_feature = None\n        for feature in remaining_features:\n            current_features = selected_features + [feature]\n            X_temp = X[current_features]\n            X_train_temp, X_val_temp, y_train_temp, y_val_temp = train_test_split(X_temp, y, test_size=0.2, random_state=42)",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "feature_selection",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def feature_selection(data, target_column, best_k, best_metric, use_greedy=False):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    numeric_data = data[numeric_columns]\n    normalized_data = normalize_data(numeric_data)\n    normalized_data[target_column] = data[target_column]\n    data = normalized_data\n    # coulums_to_drop = ['mode','key','time_signature']\n    # if any([col in normalized_data.columns for col in coulums_to_drop]):\n    #     normalized_data = normalized_data.drop(columns=coulums_to_drop)\n    X = data.drop(columns=[target_column])",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "optimization_comparison",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def optimization_comparison(data, target_column, best_k, best_metric):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    numeric_data = data[numeric_columns]\n    normalized_data = normalize_data(numeric_data)\n    normalized_data[target_column] = data[target_column]\n    data = normalized_data\n    X = data.drop(columns=[target_column])\n    y = data[target_column]\n    if y.dtype == 'object':\n        label_mapping = {label: idx for idx, label in enumerate(np.unique(y))}",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def load_and_preprocess_data(file_path):\n    # Load the data\n    data = pd.read_csv(file_path)\n    # Separate features and target\n    X = data.drop(['track_genre'], axis=1)\n    y = data['track_genre']\n    # Convert non-numeric columns to numeric where possible\n    X = X.apply(pd.to_numeric, errors='coerce')\n    # Drop columns that cannot be converted to numeric or are boolean\n    X = X.select_dtypes(include=[np.number]).dropna(axis=1, how='any')",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_knn",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def evaluate_knn(X_train, y_train, X_val, y_val, k, distance_metric):\n    # Initialize and fit KNN\n    knn = KNN(k=k, distance_metric=distance_metric)\n    knn.fit(X_train.values, y_train.values)\n    # Make predictions\n    y_pred = knn.predict(X_val.values)\n    # Calculate performance metrics\n    pm = PerformanceMeasures()\n    accuracy = pm.accuracy(y_val.values, y_pred)\n    precision_macro = pm.precision(y_val.values, y_pred, average='macro')",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_split_data",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def load_and_split_data(file_path):\n    # Load the data\n    data = pd.read_csv(file_path)\n    # Shuffle the data\n    data = data.sample(frac=1).reset_index(drop=True)\n    # Split the data into 80% train, 10% validation, and 10% test\n    train_size = int(0.8 * len(data))\n    val_size = int(0.1 * len(data))\n    train_data = data[:train_size]\n    val_data = data[train_size:train_size + val_size]",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "visualize_data",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def visualize_data(X_train,X_val,X_test,y_train,y_val,y_test,title = 'Data_Splits'):\n   #Visulaize the splitted data\n   plt.scatter(X_train, y_train, color='blue', label='Train')\n   plt.scatter(X_val, y_val, color='green', label='Validation')\n   plt.scatter(X_test, y_test, color='red', label='Test')\n   plt.xlabel('X')\n   plt.ylabel('y')\n   plt.legend()\n   plt.title('Data Splits')\n   # Ensure the directory exists",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "simple_regression_degree1",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def simple_regression_degree1(X_train, X_val, X_test, y_train, y_val, y_test):\n    # Train the model and select the best learning rate\n    # learning_rates = [0.001, 0.01, 0.1, 1]\n    learning_rates = np.linspace(0.001, 1, 1000)\n    best_lr = None\n    best_mse = float('inf')\n    for lr in learning_rates:\n        model = LinearRegression(learning_rate=lr)\n        model.fit(X_train, y_train)\n        mse_val = model.mse(X_val, y_val)",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "simple_regression_higher_degree",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def simple_regression_higher_degree(X_train, X_val, X_test, y_train, y_val, y_test, max_degree=10):\n    results = []\n    for degree in range(2, max_degree + 1):\n        model = LinearRegression(degree=degree)\n        model.fit(X_train, y_train)\n        train_mse = model.mse(X_train, y_train)\n        test_mse = model.mse(X_test, y_test)\n        train_std = model.std_dev(X_train, y_train)\n        test_std = model.std_dev(X_test, y_test)\n        train_var = model.variance(X_train, y_train)",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "create_animation",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def create_animation(X_train, y_train, degree, learning_rate, iterations, filename):\n    model = LinearRegression(degree=degree, learning_rate=learning_rate, iterations=iterations)\n    X_poly = model.add_polynomial_features_for_animation(X_train)\n    m, n = X_poly.shape\n    coefficients = np.zeros(n)\n    fig, axs = plt.subplots(2, 2, figsize=(15, 10))\n    fig.suptitle('Degree {} Polynomial Fit Animation'.format(degree))\n    def animate(i):\n        nonlocal coefficients\n        y_pred = X_poly.dot(coefficients)",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "regularization_tasks",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def regularization_tasks(X_train, X_val, X_test, y_train, y_val, y_test, max_degree=20):\n # Create directory for figures if it doesn't exist\n    dirs = [\n        'figures/linearregression/no_reg',\n        'figures/linearregression/reg_l1',\n        'figures/linearregression/reg_l2'\n    ]\n    for directory in dirs:\n        if not os.path.exists(directory):\n            os.makedirs(directory)",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "Implementall_1",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def Implementall_1():\n    # Load data\n    data = load_data('data/external/spotify.csv')\n    # Perform exploratory data analysis\n    target_column = 'track_genre'\n    print(\"\\nPerforming exploratory data analysis...\\n\")\n    data_cleaned = exploratory_data_analysis(data, target_column)\n    print(\"\\nExploratory data analysis completed.\\n\")\n    # Perform KNN classification\n    print(\"\\nPerforming KNN base case...\\n\")",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "Implementall_2",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def Implementall_2():\n    # Load and split data\n    X_train, X_val, X_test, y_train, y_val, y_test = load_and_split_data('data/external/linreg.csv')\n    print(\"\\nPerforming simpleregrerssion with degree 1...\\n\")\n    # Visualize the data splits\n    visualize_data(X_train, X_val, X_test, y_train, y_val, y_test, title='Data_Splits_1')\n    # Simple Regression with degree <1\n    simple_regression_degree1(X_train, X_val, X_test, y_train, y_val, y_test)\n    print(\"\\nSimple regression with degree 1 completed.\\n\")\n    print(\"\\nPerforming simple regression with degree greater than 1...\\n\")",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "knn_tasks",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def knn_tasks():\n    while True:\n        print(\"KNN Tasks:\")\n        print(\"1. Exploratory Data Analysis\")\n        print(\"2. KNN Base Case\")\n        print(\"3. Hyperparameter Tuning (without feature selection)\")\n        print(\"4. Feature Selection\")\n        print(\"5. Optimization\")\n        print(\"6. Second Data Set\")\n        print(\"7. Implement all\")",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "linear_regression_tasks",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def linear_regression_tasks():\n    while True:\n        print(\"Linear Regression Tasks:\")\n        print(\"1. Simple Regression with Degree 1\")\n        print(\"2. Simple Regression with Degree Greater than 1\")\n        print(\"3. Animation\")\n        print(\"4. Regularization\")\n        print(\"5. Implement all\")\n        print(\"6. Return to Main Menu\")\n        print(\"7. Exit\")",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "assignments.1.a1",
+        "description": "assignments.1.a1",
+        "peekOfCode": "def main():\n    while True:\n        print(\"Welcome to the Assignment 1 Solutions!\")\n        print(\"1. KNN Tasks\")\n        print(\"2. Linear Regression Tasks\")\n        print(\"3. Exit\")\n        choice = input(\"Enter your choice (1-3): \")\n        if choice == '1':\n            knn_tasks()\n        elif choice == '2':",
+        "detail": "assignments.1.a1",
+        "documentation": {}
+    },
+    {
+        "label": "Q3_main",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def Q3_main():\n    def load_data(filename):\n        df = pd.read_feather(filename)\n        df.dropna(inplace=True)\n        return df\n    def standardize_data(data):\n        return (data - data.mean()) / data.std()\n    def elbow_method(X, max_k):\n        wcss = []\n        for k in range(1, max_k + 1):",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "load_data2",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def load_data2(filename):\n    # Load the dataset (word-embeddings.feather)\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    # Normalize the data\n    X = (X - X.mean(axis=0)) / X.std(axis=0)\n    return X\ndef compute_bic(X, gmm):\n    # Compute BIC for the GMM model\n    n_samples, n_features = X.shape",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "compute_bic",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def compute_bic(X, gmm):\n    # Compute BIC for the GMM model\n    n_samples, n_features = X.shape\n    log_likelihood = gmm.getLikelihood(X)\n    # n_params: Number of parameters (means, covariances, and mixing coefficients)\n    n_params = gmm.n_components * (n_features + 1 + n_features * (n_features + 1) / 2) - 1\n    return -2 * log_likelihood + n_params * np.log(n_samples)\ndef compute_aic(X, gmm):\n    # Compute AIC for the GMM model\n    log_likelihood = gmm.getLikelihood(X)",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "compute_aic",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def compute_aic(X, gmm):\n    # Compute AIC for the GMM model\n    log_likelihood = gmm.getLikelihood(X)\n    n_params = gmm.n_components * (X.shape[1] + 1 + X.shape[1] * (X.shape[1] + 1) / 2) - 1\n    return 2 * n_params - 2 * log_likelihood\ndef find_optimal_gmm(X, max_k):\n    # Test different numbers of components and compute BIC and AIC scores\n    bic_values = []\n    aic_values = []\n    for k in range(1, max_k + 1):",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "find_optimal_gmm",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def find_optimal_gmm(X, max_k):\n    # Test different numbers of components and compute BIC and AIC scores\n    bic_values = []\n    aic_values = []\n    for k in range(1, max_k + 1):\n        try:\n            gmm = GMM(n_components=k)\n            gmm.fit(X)\n            bic = compute_bic(X, gmm)\n            aic = compute_aic(X, gmm)",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "Q4_main",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def Q4_main():\n    # Load and preprocess the data (word embeddings)\n    X = load_data2('data/external/word-embeddings.feather')\n    # Find the optimal number of clusters using BIC and AIC\n    max_k = 20  # Max number of clusters to test\n    kgmm1_bic, kgmm1_aic, bic_values, aic_values = find_optimal_gmm(X, max_k)\n    print(\"Optimal number of clusters (BIC): {}\".format(kgmm1_bic))\n    print(\"Optimal number of clusters (AIC): {}\".format(kgmm1_aic))\n    # Plot the BIC and AIC values to visualize the optimal k\n    if len(bic_values) > 0:",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def load_data(filename):\n    # Load the dataset (word-embeddings.feather)\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    # Normalize the data\n    X = (X - X.mean(axis=0)) / X.std(axis=0)\n    return X\ndef Q5_main():\n    # Load and preprocess the data (word embeddings)\n    X = load_data('data/external/word-embeddings.feather')",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "Q5_main",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def Q5_main():\n    # Load and preprocess the data (word embeddings)\n    X = load_data('data/external/word-embeddings.feather')\n    # Instantiate the PCA class for 2 components\n    pca_2d = PCA(n_components=2)\n    pca_2d.fit(X)\n    X_transformed_2d = pca_2d.transform(X)\n    # Verify the functionality\n    assert pca_2d.checkPCA(X), \"PCA for 2 components failed.\"\n    # Plot the 2D data",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    X = (X - X.mean(axis=0)) / X.std(axis=0)  # Normalize the data\n    return X\ndef plot_scree(pca, title):\n    plt.figure(figsize=(10, 6))\n    plt.plot(range(1, len(pca.explained_variance_ratio_) + 1), pca.explained_variance_ratio_, marker='o')\n    plt.xlabel('Number of Components')\n    plt.ylabel('Variance Explained')",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "plot_scree",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def plot_scree(pca, title):\n    plt.figure(figsize=(10, 6))\n    plt.plot(range(1, len(pca.explained_variance_ratio_) + 1), pca.explained_variance_ratio_, marker='o')\n    plt.xlabel('Number of Components')\n    plt.ylabel('Variance Explained')\n    plt.title('Scree Plot')\n    plt.savefig(title)\n    plt.show()\n    plt.close()\ndef elbow_method(X, max_k):",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "elbow_method",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def elbow_method(X, max_k):\n    wcss = []\n    for k in range(1, max_k + 1):\n        kmeans = KMeans(k=k, max_iters=100)\n        kmeans.fit(X)\n        wcss.append(kmeans.getCost())\n    return wcss\ndef plot_elbow(wcss, max_k, optimal_k, filename):\n    plt.figure(figsize=(10, 6))\n    plt.plot(range(1, max_k + 1), wcss, marker='o')",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "plot_elbow",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def plot_elbow(wcss, max_k, optimal_k, filename):\n    plt.figure(figsize=(10, 6))\n    plt.plot(range(1, max_k + 1), wcss, marker='o')\n    plt.xlabel('Number of Clusters (k)')\n    plt.ylabel('WCSS')\n    plt.title('Elbow Method for Optimal k')\n    plt.axvline(x=optimal_k, color='r', linestyle='--', label='Elbow at k={}'.format(optimal_k))\n    plt.legend()\n    plt.savefig(filename)\n    plt.show()",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "compute_bic",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def compute_bic(X, gmm):\n    n_samples, n_features = X.shape\n    log_likelihood = gmm.getLikelihood(X)\n    n_params = gmm.n_components * (n_features + 1 + n_features * (n_features + 1) / 2) - 1\n    return -2 * log_likelihood + n_params * np.log(n_samples)\ndef compute_aic(X, gmm):\n    log_likelihood = gmm.getLikelihood(X)\n    n_params = gmm.n_components * (X.shape[1] + 1 + X.shape[1] * (X.shape[1] + 1) / 2) - 1\n    return 2 * n_params - 2 * log_likelihood\ndef find_optimal_gmm(X, max_k):",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "compute_aic",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def compute_aic(X, gmm):\n    log_likelihood = gmm.getLikelihood(X)\n    n_params = gmm.n_components * (X.shape[1] + 1 + X.shape[1] * (X.shape[1] + 1) / 2) - 1\n    return 2 * n_params - 2 * log_likelihood\ndef find_optimal_gmm(X, max_k):\n    bic_values = []\n    aic_values = []\n    for k in range(1, max_k + 1):\n        try:\n            gmm = GMM(n_components=k)",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "find_optimal_gmm",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def find_optimal_gmm(X, max_k):\n    bic_values = []\n    aic_values = []\n    for k in range(1, max_k + 1):\n        try:\n            gmm = GMM(n_components=k)\n            gmm.fit(X)\n            bic = compute_bic(X, gmm)\n            aic = compute_aic(X, gmm)\n            bic_values.append(bic)",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "plot_bic_aic",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def plot_bic_aic(bic_values, aic_values, optimal_k_bic, optimal_k_aic):\n    plt.figure(figsize=(10, 6))\n    k_values = range(1, len(bic_values) + 1)\n    plt.plot(k_values, bic_values, marker='o', label='BIC')\n    plt.plot(k_values, aic_values, marker='o', label='AIC')\n    plt.axvline(x=optimal_k_bic, color='r', linestyle='--', label='Optimal k (BIC): {}'.format(optimal_k_bic))\n    plt.axvline(x=optimal_k_aic, color='g', linestyle='--', label='Optimal k (AIC): {}'.format(optimal_k_aic))\n    plt.xlabel('Number of Clusters (k)')\n    plt.ylabel('BIC / AIC Score')\n    plt.title('BIC and AIC Scores vs. Number of Clusters')",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "Q6_main",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def Q6_main():\n    # Main execution\n    X = load_data('data/external/word-embeddings.feather')\n    # 6.1 K-means Clustering Based on 2D Visualization\n    pca_2d = PCA(n_components=2)\n    pca_2d.fit(X)\n    X_transformed_pca_2d = pca_2d.transform(X)\n    k2 = 5  # Estimated from 2D visualization\n    kmeans_2d = KMeans(k=k2, max_iters=100)\n    kmeans_2d.fit(X_transformed_pca_2d)",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "Q7_main",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def Q7_main():\n    from sklearn.metrics import silhouette_score, calinski_harabasz_score\n    # Load the data from the dataset\n    def load_data(filename):\n        df = pd.read_feather(filename)\n        X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n        return X\n    # Evaluate the clustering results using multiple metrics\n    def evaluate_clusters(model, X, labels):\n        silhouette = silhouette_score(X, labels)",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    return X\n# Function to perform and plot hierarchical clustering\ndef hierarchical_clustering(X_reduced, linkage_method='complete', distance_metric='euclidean'):\n    # Compute the linkage matrix\n    linkage_matrix = sch.linkage(X_reduced, method=linkage_method, metric=distance_metric)\n    # Plot the dendrogram\n    plt.figure(figsize=(10, 6))",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "hierarchical_clustering",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def hierarchical_clustering(X_reduced, linkage_method='complete', distance_metric='euclidean'):\n    # Compute the linkage matrix\n    linkage_matrix = sch.linkage(X_reduced, method=linkage_method, metric=distance_metric)\n    # Plot the dendrogram\n    plt.figure(figsize=(10, 6))\n    sch.dendrogram(linkage_matrix)\n    plt.title('Dendrogram using {} linkage and {} metric'.format(linkage_method, distance_metric))\n    plt.xlabel('Samples')\n    plt.ylabel('Distance')\n    plt.savefig('assignments/2/figures/q8/dendrogram_{}_{}.png'.format(linkage_method, distance_metric))",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "cut_dendrogram",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def cut_dendrogram(linkage_matrix, k):\n    return fcluster(linkage_matrix, k, criterion='maxclust')\ndef Q8_main():\n    # Main execution\n    X = load_data('data/external/word-embeddings.feather')\n    # Apply PCA for dimensionality reduction before hierarchical clustering\n    pca = PCA(n_components=5)  # Choose a suitable number of components based on prior analysis\n    pca.fit(X)\n    X_reduced = pca.transform(X)\n    # Experiment with different linkage methods and distance metrics",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "Q8_main",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def Q8_main():\n    # Main execution\n    X = load_data('data/external/word-embeddings.feather')\n    # Apply PCA for dimensionality reduction before hierarchical clustering\n    pca = PCA(n_components=5)  # Choose a suitable number of components based on prior analysis\n    pca.fit(X)\n    X_reduced = pca.transform(X)\n    # Experiment with different linkage methods and distance metrics\n    linkage_methods = ['complete', 'average', 'single']\n    distance_metrics = ['euclidean', 'cosine']  # Experimenting with Euclidean and Cosine distance metrics",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def load_and_preprocess_data(file_path, target_column):\n    data = pd.read_csv(file_path)\n    # Separate features and target\n    X = data.drop([target_column], axis=1)\n    y = data[target_column]\n    # Convert non-numeric columns to numeric where possible\n    X = X.apply(pd.to_numeric, errors='coerce')\n    # Drop columns that cannot be converted to numeric\n    X = X.select_dtypes(include=[np.number]).dropna(axis=1, how='any')\n    # Normalize the features (Min-Max scaling)",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "custom_train_test_split",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def custom_train_test_split(X, y, test_size=0.2, random_state=None):\n    if random_state is not None:\n        np.random.seed(random_state)\n    indices = np.arange(X.shape[0])\n    np.random.shuffle(indices)\n    test_size = int(X.shape[0] * test_size)\n    train_indices = indices[:-test_size]\n    test_indices = indices[-test_size:]\n    X_train, X_test = X[train_indices], X[test_indices]\n    y_train, y_test = y[train_indices], y[test_indices]",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "generate_scree_plot",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def generate_scree_plot(X):\n    pca = PCA(n_components=X.shape[1])\n    pca.fit(X)\n    explained_variance_ratio = pca.explained_variance_ratio_\n    plt.figure(figsize=(10, 6))\n    plt.plot(range(1, len(explained_variance_ratio) + 1), explained_variance_ratio, marker='o')\n    plt.title(\"Scree Plot\")\n    plt.xlabel(\"Principal Components\")\n    plt.ylabel(\"Explained Variance Ratio\")\n    plt.savefig('assignments/2/figures/q9/scree_plot.png')",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "knn_classification",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def knn_classification(X_train, X_test, y_train, y_test, k, distance_metric):\n    knn = KNN(k=k, distance_metric=distance_metric)\n    knn.fit(X_train, y_train)\n    # Predict and evaluate performance\n    start_time = time.time()\n    y_pred = knn.predict(X_test)\n    inference_time = time.time() - start_time\n    pm = PerformanceMeasures()\n    accuracy = pm.accuracy(y_test, y_pred)\n    precision = pm.precision(y_test, y_pred, average='macro')",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "Q9_main",
+        "kind": 2,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "def Q9_main():\n    # Load the dataset\n    file_path = 'data/external/spotify.csv'  # Update with your dataset path\n    target_column = 'track_genre'  # Replace with the actual target column\n    # Load and preprocess data\n    X, y = load_and_preprocess_data(file_path, target_column)\n    # Step 1: Generate Scree Plot and perform PCA\n    print(\"\\nGenerating Scree Plot to determine optimal dimensions...\")\n    pca = generate_scree_plot(X)\n    # Let's assume we decide to keep 3 components based on the scree plot",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\nparent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.kmeans.KMeans import KMeans\nfrom models.GMM.GMM import GMM\nfrom models.PCA.PCA import PCA\nfrom models.knn.knn import KNN\nfrom performance_measures.performance_measures import PerformanceMeasures\n# Q3 - KMEANS\ndef Q3_main():",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "parent_dir",
+        "kind": 5,
+        "importPath": "assignments.2.a2",
+        "description": "assignments.2.a2",
+        "peekOfCode": "parent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.kmeans.KMeans import KMeans\nfrom models.GMM.GMM import GMM\nfrom models.PCA.PCA import PCA\nfrom models.knn.knn import KNN\nfrom performance_measures.performance_measures import PerformanceMeasures\n# Q3 - KMEANS\ndef Q3_main():\n    def load_data(filename):",
+        "detail": "assignments.2.a2",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "def load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    return X\n# Function to perform and plot hierarchical clustering\ndef hierarchical_clustering(X_reduced, linkage_method='complete', distance_metric='euclidean'):\n    # Compute the linkage matrix\n    linkage_matrix = sch.linkage(X_reduced, method=linkage_method, metric=distance_metric)\n    # Plot the dendrogram\n    plt.figure(figsize=(10, 6))",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "hierarchical_clustering",
+        "kind": 2,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "def hierarchical_clustering(X_reduced, linkage_method='complete', distance_metric='euclidean'):\n    # Compute the linkage matrix\n    linkage_matrix = sch.linkage(X_reduced, method=linkage_method, metric=distance_metric)\n    # Plot the dendrogram\n    plt.figure(figsize=(10, 6))\n    sch.dendrogram(linkage_matrix)\n    plt.title('Dendrogram using {} linkage and {} metric'.format(linkage_method, distance_metric))\n    plt.xlabel('Samples')\n    plt.ylabel('Distance')\n    plt.savefig('assignments/2/plots/q8/dendrogram_{}_{}.png'.format(linkage_method, distance_metric))",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "cut_dendrogram",
+        "kind": 2,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "def cut_dendrogram(linkage_matrix, k):\n    return fcluster(linkage_matrix, k, criterion='maxclust')\n# Main execution\nX = load_data('data/external/word-embeddings.feather')\n# Apply PCA for dimensionality reduction before hierarchical clustering\npca = PCA(n_components=5)  # Choose a suitable number of components based on prior analysis\npca.fit(X)\nX_reduced = pca.transform(X)\n# Experiment with different linkage methods and distance metrics\nlinkage_methods = ['complete', 'average', 'single']",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\nparent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.PCA.PCA import PCA\ndef load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    return X\n# Function to perform and plot hierarchical clustering\ndef hierarchical_clustering(X_reduced, linkage_method='complete', distance_metric='euclidean'):",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "parent_dir",
+        "kind": 5,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "parent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.PCA.PCA import PCA\ndef load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    return X\n# Function to perform and plot hierarchical clustering\ndef hierarchical_clustering(X_reduced, linkage_method='complete', distance_metric='euclidean'):\n    # Compute the linkage matrix",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "X = load_data('data/external/word-embeddings.feather')\n# Apply PCA for dimensionality reduction before hierarchical clustering\npca = PCA(n_components=5)  # Choose a suitable number of components based on prior analysis\npca.fit(X)\nX_reduced = pca.transform(X)\n# Experiment with different linkage methods and distance metrics\nlinkage_methods = ['complete', 'average', 'single']\ndistance_metrics = ['euclidean', 'cosine']  # Experimenting with Euclidean and Cosine distance metrics\n# Store the clusters for comparison\nclusters_dict = {}",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "pca",
+        "kind": 5,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "pca = PCA(n_components=5)  # Choose a suitable number of components based on prior analysis\npca.fit(X)\nX_reduced = pca.transform(X)\n# Experiment with different linkage methods and distance metrics\nlinkage_methods = ['complete', 'average', 'single']\ndistance_metrics = ['euclidean', 'cosine']  # Experimenting with Euclidean and Cosine distance metrics\n# Store the clusters for comparison\nclusters_dict = {}\nfor method in linkage_methods:\n    for metric in distance_metrics:",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "X_reduced",
+        "kind": 5,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "X_reduced = pca.transform(X)\n# Experiment with different linkage methods and distance metrics\nlinkage_methods = ['complete', 'average', 'single']\ndistance_metrics = ['euclidean', 'cosine']  # Experimenting with Euclidean and Cosine distance metrics\n# Store the clusters for comparison\nclusters_dict = {}\nfor method in linkage_methods:\n    for metric in distance_metrics:\n        print(\"Performing hierarchical clustering with {} linkage and {} metric\".format(method, metric))\n        linkage_matrix = hierarchical_clustering(X_reduced, linkage_method=method, distance_metric=metric)",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "linkage_methods",
+        "kind": 5,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "linkage_methods = ['complete', 'average', 'single']\ndistance_metrics = ['euclidean', 'cosine']  # Experimenting with Euclidean and Cosine distance metrics\n# Store the clusters for comparison\nclusters_dict = {}\nfor method in linkage_methods:\n    for metric in distance_metrics:\n        print(\"Performing hierarchical clustering with {} linkage and {} metric\".format(method, metric))\n        linkage_matrix = hierarchical_clustering(X_reduced, linkage_method=method, distance_metric=metric)\n        # Cut the dendrogram to form clusters for kbest1 (from K-means) and kbest2 (from GMM)\n        kbest1 = 5  # Best k from K-means clustering",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "distance_metrics",
+        "kind": 5,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "distance_metrics = ['euclidean', 'cosine']  # Experimenting with Euclidean and Cosine distance metrics\n# Store the clusters for comparison\nclusters_dict = {}\nfor method in linkage_methods:\n    for metric in distance_metrics:\n        print(\"Performing hierarchical clustering with {} linkage and {} metric\".format(method, metric))\n        linkage_matrix = hierarchical_clustering(X_reduced, linkage_method=method, distance_metric=metric)\n        # Cut the dendrogram to form clusters for kbest1 (from K-means) and kbest2 (from GMM)\n        kbest1 = 5  # Best k from K-means clustering\n        kbest2 = 3  # Best k from GMM clustering",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "clusters_dict",
+        "kind": 5,
+        "importPath": "assignments.2.eight",
+        "description": "assignments.2.eight",
+        "peekOfCode": "clusters_dict = {}\nfor method in linkage_methods:\n    for metric in distance_metrics:\n        print(\"Performing hierarchical clustering with {} linkage and {} metric\".format(method, metric))\n        linkage_matrix = hierarchical_clustering(X_reduced, linkage_method=method, distance_metric=metric)\n        # Cut the dendrogram to form clusters for kbest1 (from K-means) and kbest2 (from GMM)\n        kbest1 = 5  # Best k from K-means clustering\n        kbest2 = 3  # Best k from GMM clustering\n        clusters_kbest1 = cut_dendrogram(linkage_matrix, kbest1)\n        clusters_kbest2 = cut_dendrogram(linkage_matrix, kbest2)",
+        "detail": "assignments.2.eight",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "assignments.2.gmmpart",
+        "description": "assignments.2.gmmpart",
+        "peekOfCode": "def load_data(filename):\n    # Load the dataset (word-embeddings.feather)\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    # Normalize the data\n    X = (X - X.mean(axis=0)) / X.std(axis=0)\n    return X\ndef compute_bic(X, gmm):\n    # Compute BIC for the GMM model\n    n_samples, n_features = X.shape",
+        "detail": "assignments.2.gmmpart",
+        "documentation": {}
+    },
+    {
+        "label": "compute_bic",
+        "kind": 2,
+        "importPath": "assignments.2.gmmpart",
+        "description": "assignments.2.gmmpart",
+        "peekOfCode": "def compute_bic(X, gmm):\n    # Compute BIC for the GMM model\n    n_samples, n_features = X.shape\n    log_likelihood = gmm.getLikelihood(X)\n    print(\"Log-likelihood for k={}: {}\".format(gmm.n_components, log_likelihood))\n    # n_params: Number of parameters (means, covariances, and mixing coefficients)\n    n_params = gmm.n_components * (n_features + 1 + n_features * (n_features + 1) / 2) - 1\n    return -2 * log_likelihood + n_params * np.log(n_samples)\ndef compute_aic(X, gmm):\n    # Compute AIC for the GMM model",
+        "detail": "assignments.2.gmmpart",
+        "documentation": {}
+    },
+    {
+        "label": "compute_aic",
+        "kind": 2,
+        "importPath": "assignments.2.gmmpart",
+        "description": "assignments.2.gmmpart",
+        "peekOfCode": "def compute_aic(X, gmm):\n    # Compute AIC for the GMM model\n    log_likelihood = gmm.getLikelihood(X)\n    n_params = gmm.n_components * (X.shape[1] + 1 + X.shape[1] * (X.shape[1] + 1) / 2) - 1\n    return 2 * n_params - 2 * log_likelihood\ndef find_optimal_gmm(X, max_k):\n    # Test different numbers of components and compute BIC and AIC scores\n    bic_values = []\n    aic_values = []\n    for k in range(1, max_k + 1):",
+        "detail": "assignments.2.gmmpart",
+        "documentation": {}
+    },
+    {
+        "label": "find_optimal_gmm",
+        "kind": 2,
+        "importPath": "assignments.2.gmmpart",
+        "description": "assignments.2.gmmpart",
+        "peekOfCode": "def find_optimal_gmm(X, max_k):\n    # Test different numbers of components and compute BIC and AIC scores\n    bic_values = []\n    aic_values = []\n    for k in range(1, max_k + 1):\n        try:\n            gmm = GMM(n_components=k)\n            gmm.fit(X)\n            bic = compute_bic(X, gmm)\n            aic = compute_aic(X, gmm)",
+        "detail": "assignments.2.gmmpart",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "assignments.2.gmmpart",
+        "description": "assignments.2.gmmpart",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\nparent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.GMM.GMM import GMM\ndef load_data(filename):\n    # Load the dataset (word-embeddings.feather)\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    # Normalize the data\n    X = (X - X.mean(axis=0)) / X.std(axis=0)",
+        "detail": "assignments.2.gmmpart",
+        "documentation": {}
+    },
+    {
+        "label": "parent_dir",
+        "kind": 5,
+        "importPath": "assignments.2.gmmpart",
+        "description": "assignments.2.gmmpart",
+        "peekOfCode": "parent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.GMM.GMM import GMM\ndef load_data(filename):\n    # Load the dataset (word-embeddings.feather)\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    # Normalize the data\n    X = (X - X.mean(axis=0)) / X.std(axis=0)\n    return X",
+        "detail": "assignments.2.gmmpart",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "assignments.2.gmmpart",
+        "description": "assignments.2.gmmpart",
+        "peekOfCode": "X = load_data('data/external/word-embeddings.feather')\n# Find the optimal number of clusters using BIC and AIC\nmax_k = 20  # Max number of clusters to test\nkgmm1_bic, kgmm1_aic, bic_values, aic_values = find_optimal_gmm(X, max_k)\nprint(\"Optimal number of clusters (BIC): {}\".format(kgmm1_bic))\nprint(\"Optimal number of clusters (AIC): {}\".format(kgmm1_aic))\n# Plot the BIC and AIC values to visualize the optimal k\nif len(bic_values) > 0:\n    plt.figure(figsize=(12, 6))\n    plt.plot(range(1, len(bic_values) + 1), bic_values, marker='o', label='BIC')",
+        "detail": "assignments.2.gmmpart",
+        "documentation": {}
+    },
+    {
+        "label": "max_k",
+        "kind": 5,
+        "importPath": "assignments.2.gmmpart",
+        "description": "assignments.2.gmmpart",
+        "peekOfCode": "max_k = 20  # Max number of clusters to test\nkgmm1_bic, kgmm1_aic, bic_values, aic_values = find_optimal_gmm(X, max_k)\nprint(\"Optimal number of clusters (BIC): {}\".format(kgmm1_bic))\nprint(\"Optimal number of clusters (AIC): {}\".format(kgmm1_aic))\n# Plot the BIC and AIC values to visualize the optimal k\nif len(bic_values) > 0:\n    plt.figure(figsize=(12, 6))\n    plt.plot(range(1, len(bic_values) + 1), bic_values, marker='o', label='BIC')\n    plt.plot(range(1, len(aic_values) + 1), aic_values, marker='o', label='AIC')\n    plt.xlabel('Number of clusters (k)')",
+        "detail": "assignments.2.gmmpart",
+        "documentation": {}
+    },
+    {
+        "label": "optimal_gmm",
+        "kind": 5,
+        "importPath": "assignments.2.gmmpart",
+        "description": "assignments.2.gmmpart",
+        "peekOfCode": "optimal_gmm = GMM(n_components=kgmm1_bic)\noptimal_gmm.fit(X)\n# Get predicted cluster memberships\nlabels = optimal_gmm.getMembership()\n# Print the size of each cluster\nunique, counts = np.unique(labels, return_counts=True)\nprint(\"\\nCluster sizes:\")\nfor cluster, size in zip(unique, counts):\n    print(\"Cluster {}: {} samples\".format(cluster, size))",
+        "detail": "assignments.2.gmmpart",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "assignments.2.gmmpart",
+        "description": "assignments.2.gmmpart",
+        "peekOfCode": "labels = optimal_gmm.getMembership()\n# Print the size of each cluster\nunique, counts = np.unique(labels, return_counts=True)\nprint(\"\\nCluster sizes:\")\nfor cluster, size in zip(unique, counts):\n    print(\"Cluster {}: {} samples\".format(cluster, size))",
+        "detail": "assignments.2.gmmpart",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "def load_data(filename):\n    df = pd.read_feather(filename)\n    df.dropna(inplace=True)\n    return df\ndef standardize_data(data):\n    return (data - data.mean()) / data.std()\ndef elbow_method(X, max_k):\n    wcss = []\n    for k in range(1, max_k + 1):\n        kmeans = KMeans(k=k, max_iters=100)",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "standardize_data",
+        "kind": 2,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "def standardize_data(data):\n    return (data - data.mean()) / data.std()\ndef elbow_method(X, max_k):\n    wcss = []\n    for k in range(1, max_k + 1):\n        kmeans = KMeans(k=k, max_iters=100)\n        kmeans.fit(X)\n        wcss.append(kmeans.getCost())\n    return wcss\ndef print_data_summary(data, title):",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "elbow_method",
+        "kind": 2,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "def elbow_method(X, max_k):\n    wcss = []\n    for k in range(1, max_k + 1):\n        kmeans = KMeans(k=k, max_iters=100)\n        kmeans.fit(X)\n        wcss.append(kmeans.getCost())\n    return wcss\ndef print_data_summary(data, title):\n    print(\"\\n{}\".format(title))\n    print(\"Shape:\", data.shape)",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "print_data_summary",
+        "kind": 2,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "def print_data_summary(data, title):\n    print(\"\\n{}\".format(title))\n    print(\"Shape:\", data.shape)\n    print(\"\\nSummary statistics:\")\n    print(data.describe())\n    print(\"\\nFirst few rows:\")\n    print(data.head())\n# Load the data\ndf = load_data('data/external/word-embeddings.feather')\n# Convert 'vit' column to a DataFrame with separate columns",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\nparent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.kmeans.KMeans import KMeans\ndef load_data(filename):\n    df = pd.read_feather(filename)\n    df.dropna(inplace=True)\n    return df\ndef standardize_data(data):\n    return (data - data.mean()) / data.std()",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "parent_dir",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "parent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.kmeans.KMeans import KMeans\ndef load_data(filename):\n    df = pd.read_feather(filename)\n    df.dropna(inplace=True)\n    return df\ndef standardize_data(data):\n    return (data - data.mean()) / data.std()\ndef elbow_method(X, max_k):",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "df = load_data('data/external/word-embeddings.feather')\n# Convert 'vit' column to a DataFrame with separate columns\nvit_df = pd.DataFrame(df['vit'].tolist(), index=df.index)\n# Print summary of raw data\nprint_data_summary(vit_df, \"Raw Data Summary\")\n# Process the data\nX = vit_df.values\nX_normalized = X\n# # Print summary of processed data\n# print_data_summary(X_normalized, \"Processed Data Summary (After normalization)\")",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "vit_df",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "vit_df = pd.DataFrame(df['vit'].tolist(), index=df.index)\n# Print summary of raw data\nprint_data_summary(vit_df, \"Raw Data Summary\")\n# Process the data\nX = vit_df.values\nX_normalized = X\n# # Print summary of processed data\n# print_data_summary(X_normalized, \"Processed Data Summary (After normalization)\")\n# Run elbow method\nvit_df = pd.DataFrame(df['vit'].tolist(), index=df.index)",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "X = vit_df.values\nX_normalized = X\n# # Print summary of processed data\n# print_data_summary(X_normalized, \"Processed Data Summary (After normalization)\")\n# Run elbow method\nvit_df = pd.DataFrame(df['vit'].tolist(), index=df.index)\n# Print summary of raw data\nprint_data_summary(vit_df, \"Raw Data Summary\")\n# Process the data\nX = vit_df.values",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "X_normalized",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "X_normalized = X\n# # Print summary of processed data\n# print_data_summary(X_normalized, \"Processed Data Summary (After normalization)\")\n# Run elbow method\nvit_df = pd.DataFrame(df['vit'].tolist(), index=df.index)\n# Print summary of raw data\nprint_data_summary(vit_df, \"Raw Data Summary\")\n# Process the data\nX = vit_df.values\nX_normalized = standardize_data(X)",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "vit_df",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "vit_df = pd.DataFrame(df['vit'].tolist(), index=df.index)\n# Print summary of raw data\nprint_data_summary(vit_df, \"Raw Data Summary\")\n# Process the data\nX = vit_df.values\nX_normalized = standardize_data(X)\nmax_k = 200\nwcss_values = elbow_method(X_normalized, max_k)\n# Print WCSS values\nprint(\"\\nWCSS values for k=1 to k=20:\")",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "X = vit_df.values\nX_normalized = standardize_data(X)\nmax_k = 200\nwcss_values = elbow_method(X_normalized, max_k)\n# Print WCSS values\nprint(\"\\nWCSS values for k=1 to k=20:\")\nfor k, wcss_value in enumerate(wcss_values, start=1):\n    print(\"k={}: {}\".format(k, wcss_value))\n# Find the elbow point\nkkmeans1 = 4",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "X_normalized",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "X_normalized = standardize_data(X)\nmax_k = 200\nwcss_values = elbow_method(X_normalized, max_k)\n# Print WCSS values\nprint(\"\\nWCSS values for k=1 to k=20:\")\nfor k, wcss_value in enumerate(wcss_values, start=1):\n    print(\"k={}: {}\".format(k, wcss_value))\n# Find the elbow point\nkkmeans1 = 4\nprint(\"\\n optimal number of clusters (kkmeans1): {}\".format(kkmeans1))",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "max_k",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "max_k = 200\nwcss_values = elbow_method(X_normalized, max_k)\n# Print WCSS values\nprint(\"\\nWCSS values for k=1 to k=20:\")\nfor k, wcss_value in enumerate(wcss_values, start=1):\n    print(\"k={}: {}\".format(k, wcss_value))\n# Find the elbow point\nkkmeans1 = 4\nprint(\"\\n optimal number of clusters (kkmeans1): {}\".format(kkmeans1))\n# Perform K-means clustering with the optimal k",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "wcss_values",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "wcss_values = elbow_method(X_normalized, max_k)\n# Print WCSS values\nprint(\"\\nWCSS values for k=1 to k=20:\")\nfor k, wcss_value in enumerate(wcss_values, start=1):\n    print(\"k={}: {}\".format(k, wcss_value))\n# Find the elbow point\nkkmeans1 = 4\nprint(\"\\n optimal number of clusters (kkmeans1): {}\".format(kkmeans1))\n# Perform K-means clustering with the optimal k\noptimal_kmeans = KMeans(k=kkmeans1, max_iters=100)",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "kkmeans1",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "kkmeans1 = 4\nprint(\"\\n optimal number of clusters (kkmeans1): {}\".format(kkmeans1))\n# Perform K-means clustering with the optimal k\noptimal_kmeans = KMeans(k=kkmeans1, max_iters=100)\noptimal_kmeans.fit(X_normalized)\nprint(\"Final WCSS: {}\".format(optimal_kmeans.getCost()))\n# Optional: Print cluster sizes\nlabels = optimal_kmeans.predict(X_normalized)\nunique, counts = np.unique(labels, return_counts=True)\nprint(\"\\nCluster sizes:\")",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "optimal_kmeans",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "optimal_kmeans = KMeans(k=kkmeans1, max_iters=100)\noptimal_kmeans.fit(X_normalized)\nprint(\"Final WCSS: {}\".format(optimal_kmeans.getCost()))\n# Optional: Print cluster sizes\nlabels = optimal_kmeans.predict(X_normalized)\nunique, counts = np.unique(labels, return_counts=True)\nprint(\"\\nCluster sizes:\")\nfor cluster, size in zip(unique, counts):\n    print(\"Cluster {}: {} samples\".format(cluster, size))\n# Plot the elbow curve",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "labels = optimal_kmeans.predict(X_normalized)\nunique, counts = np.unique(labels, return_counts=True)\nprint(\"\\nCluster sizes:\")\nfor cluster, size in zip(unique, counts):\n    print(\"Cluster {}: {} samples\".format(cluster, size))\n# Plot the elbow curve\nplt.figure(figsize=(10, 6))\nplt.plot(range(1, max_k + 1), wcss_values)\nplt.xlabel('Number of clusters (k)')\nplt.ylabel('WCSS')",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "k2",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "k2 = 6\nprint(\"\\n optimal number of clusters (kkmeans1): {}\".format(k2))\n# Perform K-means clustering with the optimal k\noptimal_kmeans = KMeans(k=k2, max_iters=100)\noptimal_kmeans.fit(X_normalized)\nprint(\"Final WCSS: {}\".format(optimal_kmeans.getCost()))\n# Optional: Print cluster sizes\nlabels = optimal_kmeans.predict(X_normalized)\nunique, counts = np.unique(labels, return_counts=True)\nprint(\"\\nCluster sizes:\")",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "optimal_kmeans",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "optimal_kmeans = KMeans(k=k2, max_iters=100)\noptimal_kmeans.fit(X_normalized)\nprint(\"Final WCSS: {}\".format(optimal_kmeans.getCost()))\n# Optional: Print cluster sizes\nlabels = optimal_kmeans.predict(X_normalized)\nunique, counts = np.unique(labels, return_counts=True)\nprint(\"\\nCluster sizes:\")\nfor cluster, size in zip(unique, counts):\n    print(\"Cluster {}: {} samples\".format(cluster, size))",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "assignments.2.kmeanspart",
+        "description": "assignments.2.kmeanspart",
+        "peekOfCode": "labels = optimal_kmeans.predict(X_normalized)\nunique, counts = np.unique(labels, return_counts=True)\nprint(\"\\nCluster sizes:\")\nfor cluster, size in zip(unique, counts):\n    print(\"Cluster {}: {} samples\".format(cluster, size))",
+        "detail": "assignments.2.kmeanspart",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "kind": 2,
+        "importPath": "assignments.2.nine",
+        "description": "assignments.2.nine",
+        "peekOfCode": "def load_and_preprocess_data(file_path, target_column):\n    data = pd.read_csv(file_path)\n    # Separate features and target\n    X = data.drop([target_column], axis=1)\n    y = data[target_column]\n    # Convert non-numeric columns to numeric where possible\n    X = X.apply(pd.to_numeric, errors='coerce')\n    # Drop columns that cannot be converted to numeric\n    X = X.select_dtypes(include=[np.number]).dropna(axis=1, how='any')\n    # Normalize the features (Min-Max scaling)",
+        "detail": "assignments.2.nine",
+        "documentation": {}
+    },
+    {
+        "label": "custom_train_test_split",
+        "kind": 2,
+        "importPath": "assignments.2.nine",
+        "description": "assignments.2.nine",
+        "peekOfCode": "def custom_train_test_split(X, y, test_size=0.2, random_state=None):\n    if random_state is not None:\n        np.random.seed(random_state)\n    indices = np.arange(X.shape[0])\n    np.random.shuffle(indices)\n    test_size = int(X.shape[0] * test_size)\n    train_indices = indices[:-test_size]\n    test_indices = indices[-test_size:]\n    X_train, X_test = X[train_indices], X[test_indices]\n    y_train, y_test = y[train_indices], y[test_indices]",
+        "detail": "assignments.2.nine",
+        "documentation": {}
+    },
+    {
+        "label": "generate_scree_plot",
+        "kind": 2,
+        "importPath": "assignments.2.nine",
+        "description": "assignments.2.nine",
+        "peekOfCode": "def generate_scree_plot(X):\n    pca = PCA(n_components=X.shape[1])\n    pca.fit(X)\n    explained_variance_ratio = pca.explained_variance_ratio_\n    plt.figure(figsize=(10, 6))\n    plt.plot(range(1, len(explained_variance_ratio) + 1), explained_variance_ratio, marker='o')\n    plt.title(\"Scree Plot\")\n    plt.xlabel(\"Principal Components\")\n    plt.ylabel(\"Explained Variance Ratio\")\n    plt.show()",
+        "detail": "assignments.2.nine",
+        "documentation": {}
+    },
+    {
+        "label": "knn_classification",
+        "kind": 2,
+        "importPath": "assignments.2.nine",
+        "description": "assignments.2.nine",
+        "peekOfCode": "def knn_classification(X_train, X_test, y_train, y_test, k, distance_metric):\n    knn = KNN(k=k, distance_metric=distance_metric)\n    knn.fit(X_train, y_train)\n    # Predict and evaluate performance\n    start_time = time.time()\n    y_pred = knn.predict(X_test)\n    inference_time = time.time() - start_time\n    pm = PerformanceMeasures()\n    accuracy = pm.accuracy(y_test, y_pred)\n    precision = pm.precision(y_test, y_pred, average='macro')",
+        "detail": "assignments.2.nine",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "assignments.2.nine",
+        "description": "assignments.2.nine",
+        "peekOfCode": "def main():\n    # Load the dataset\n    file_path = 'data/external/spotify.csv'  # Update with your dataset path\n    target_column = 'track_genre'  # Replace with the actual target column\n    # Load and preprocess data\n    X, y = load_and_preprocess_data(file_path, target_column)\n    # Step 1: Generate Scree Plot and perform PCA\n    print(\"\\nGenerating Scree Plot to determine optimal dimensions...\")\n    pca = generate_scree_plot(X)\n    # Let's assume we decide to keep 3 components based on the scree plot",
+        "detail": "assignments.2.nine",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "assignments.2.nine",
+        "description": "assignments.2.nine",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\nparent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.PCA.PCA import PCA\nfrom models.knn.knn import KNN\nfrom performance_measures.performance_measures import PerformanceMeasures\n# Function to load and preprocess the dataset\ndef load_and_preprocess_data(file_path, target_column):\n    data = pd.read_csv(file_path)\n    # Separate features and target",
+        "detail": "assignments.2.nine",
+        "documentation": {}
+    },
+    {
+        "label": "parent_dir",
+        "kind": 5,
+        "importPath": "assignments.2.nine",
+        "description": "assignments.2.nine",
+        "peekOfCode": "parent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.PCA.PCA import PCA\nfrom models.knn.knn import KNN\nfrom performance_measures.performance_measures import PerformanceMeasures\n# Function to load and preprocess the dataset\ndef load_and_preprocess_data(file_path, target_column):\n    data = pd.read_csv(file_path)\n    # Separate features and target\n    X = data.drop([target_column], axis=1)",
+        "detail": "assignments.2.nine",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "assignments.2.pcapart",
+        "description": "assignments.2.pcapart",
+        "peekOfCode": "def load_data(filename):\n    # Load the dataset (word-embeddings.feather)\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    # Normalize the data\n    X = (X - X.mean(axis=0)) / X.std(axis=0)\n    return X\n# Load and preprocess the data (word embeddings)\nX = load_data('data/external/word-embeddings.feather')\n# Instantiate the PCA class for 2 components",
+        "detail": "assignments.2.pcapart",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "assignments.2.pcapart",
+        "description": "assignments.2.pcapart",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\nparent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.PCA.PCA import PCA\ndef load_data(filename):\n    # Load the dataset (word-embeddings.feather)\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    # Normalize the data\n    X = (X - X.mean(axis=0)) / X.std(axis=0)",
+        "detail": "assignments.2.pcapart",
+        "documentation": {}
+    },
+    {
+        "label": "parent_dir",
+        "kind": 5,
+        "importPath": "assignments.2.pcapart",
+        "description": "assignments.2.pcapart",
+        "peekOfCode": "parent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.PCA.PCA import PCA\ndef load_data(filename):\n    # Load the dataset (word-embeddings.feather)\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    # Normalize the data\n    X = (X - X.mean(axis=0)) / X.std(axis=0)\n    return X",
+        "detail": "assignments.2.pcapart",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "assignments.2.pcapart",
+        "description": "assignments.2.pcapart",
+        "peekOfCode": "X = load_data('data/external/word-embeddings.feather')\n# Instantiate the PCA class for 2 components\npca_2d = PCA(n_components=2)\npca_2d.fit(X)\nX_transformed_2d = pca_2d.transform(X)\n# Verify the functionality\nassert pca_2d.checkPCA(X), \"PCA for 2 components failed.\"\n# Plot the 2D data\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_2d[:, 0], X_transformed_2d[:, 1], c='blue', marker='o')",
+        "detail": "assignments.2.pcapart",
+        "documentation": {}
+    },
+    {
+        "label": "pca_2d",
+        "kind": 5,
+        "importPath": "assignments.2.pcapart",
+        "description": "assignments.2.pcapart",
+        "peekOfCode": "pca_2d = PCA(n_components=2)\npca_2d.fit(X)\nX_transformed_2d = pca_2d.transform(X)\n# Verify the functionality\nassert pca_2d.checkPCA(X), \"PCA for 2 components failed.\"\n# Plot the 2D data\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_2d[:, 0], X_transformed_2d[:, 1], c='blue', marker='o')\nplt.title('2D PCA')\nplt.xlabel('Principal Component 1')",
+        "detail": "assignments.2.pcapart",
+        "documentation": {}
+    },
+    {
+        "label": "X_transformed_2d",
+        "kind": 5,
+        "importPath": "assignments.2.pcapart",
+        "description": "assignments.2.pcapart",
+        "peekOfCode": "X_transformed_2d = pca_2d.transform(X)\n# Verify the functionality\nassert pca_2d.checkPCA(X), \"PCA for 2 components failed.\"\n# Plot the 2D data\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_2d[:, 0], X_transformed_2d[:, 1], c='blue', marker='o')\nplt.title('2D PCA')\nplt.xlabel('Principal Component 1')\nplt.ylabel('Principal Component 2')\nplt.savefig('assignments/2/plots/pca_2d.png')",
+        "detail": "assignments.2.pcapart",
+        "documentation": {}
+    },
+    {
+        "label": "pca_3d",
+        "kind": 5,
+        "importPath": "assignments.2.pcapart",
+        "description": "assignments.2.pcapart",
+        "peekOfCode": "pca_3d = PCA(n_components=3)\npca_3d.fit(X)\nX_transformed_3d = pca_3d.transform(X)\n# Verify the functionality\nassert pca_3d.checkPCA(X), \"PCA for 3 components failed.\"\n# Plot the 3D data\nfig = plt.figure(figsize=(10, 8))\nax = fig.add_subplot(111, projection='3d')\nax.scatter(X_transformed_3d[:, 0], X_transformed_3d[:, 1], X_transformed_3d[:, 2], c='blue', marker='o')\nax.set_title('3D PCA')",
+        "detail": "assignments.2.pcapart",
+        "documentation": {}
+    },
+    {
+        "label": "X_transformed_3d",
+        "kind": 5,
+        "importPath": "assignments.2.pcapart",
+        "description": "assignments.2.pcapart",
+        "peekOfCode": "X_transformed_3d = pca_3d.transform(X)\n# Verify the functionality\nassert pca_3d.checkPCA(X), \"PCA for 3 components failed.\"\n# Plot the 3D data\nfig = plt.figure(figsize=(10, 8))\nax = fig.add_subplot(111, projection='3d')\nax.scatter(X_transformed_3d[:, 0], X_transformed_3d[:, 1], X_transformed_3d[:, 2], c='blue', marker='o')\nax.set_title('3D PCA')\nax.set_xlabel('Principal Component 1')\nax.set_ylabel('Principal Component 2')",
+        "detail": "assignments.2.pcapart",
+        "documentation": {}
+    },
+    {
+        "label": "fig",
+        "kind": 5,
+        "importPath": "assignments.2.pcapart",
+        "description": "assignments.2.pcapart",
+        "peekOfCode": "fig = plt.figure(figsize=(10, 8))\nax = fig.add_subplot(111, projection='3d')\nax.scatter(X_transformed_3d[:, 0], X_transformed_3d[:, 1], X_transformed_3d[:, 2], c='blue', marker='o')\nax.set_title('3D PCA')\nax.set_xlabel('Principal Component 1')\nax.set_ylabel('Principal Component 2')\nax.set_zlabel('Principal Component 3')\nplt.savefig('assignments/2/plots/pca_3d.png')\nplt.show()",
+        "detail": "assignments.2.pcapart",
+        "documentation": {}
+    },
+    {
+        "label": "ax",
+        "kind": 5,
+        "importPath": "assignments.2.pcapart",
+        "description": "assignments.2.pcapart",
+        "peekOfCode": "ax = fig.add_subplot(111, projection='3d')\nax.scatter(X_transformed_3d[:, 0], X_transformed_3d[:, 1], X_transformed_3d[:, 2], c='blue', marker='o')\nax.set_title('3D PCA')\nax.set_xlabel('Principal Component 1')\nax.set_ylabel('Principal Component 2')\nax.set_zlabel('Principal Component 3')\nplt.savefig('assignments/2/plots/pca_3d.png')\nplt.show()",
+        "detail": "assignments.2.pcapart",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "def load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    return X\n# Evaluate the clustering results using multiple metrics\ndef evaluate_clusters(model, X, labels):\n    silhouette = silhouette_score(X, labels)\n    calinski_harabasz = calinski_harabasz_score(X, labels)\n    if isinstance(model, KMeans):\n        wcss = model.getCost()",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_clusters",
+        "kind": 2,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "def evaluate_clusters(model, X, labels):\n    silhouette = silhouette_score(X, labels)\n    calinski_harabasz = calinski_harabasz_score(X, labels)\n    if isinstance(model, KMeans):\n        wcss = model.getCost()\n        return silhouette, calinski_harabasz, wcss\n    elif isinstance(model, GMM):\n        log_likelihood = model.getLikelihood(X)\n        return silhouette, calinski_harabasz, log_likelihood\n# Analyze the clustering results (for both KMeans and GMM)",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_clusters",
+        "kind": 2,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "def analyze_clusters(model, X, method_name):\n    if isinstance(model, GMM):\n        membership = model.getMembership()\n        labels = np.argmax(membership, axis=1)  # Convert responsibilities to labels\n    else:\n        labels = model.predict(X)\n    metrics = evaluate_clusters(model, X, labels)\n    print(\"\\n{} Clustering Results:\".format(method_name))\n    print(\"Silhouette score: {:.4f}\".format(metrics[0]))\n    print(\"Calinski-Harabasz Index: {:.4f}\".format(metrics[1]))",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "reduce_dimensions",
+        "kind": 2,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "def reduce_dimensions(X, n_components):\n    pca = PCA(n_components=n_components)\n    pca.fit(X)  # First, fit the PCA model to the data\n    X_reduced = pca.transform(X)  # Then, transform the data\n    print(\"\\nReduced data to {} dimensions using PCA\".format(n_components))\n    return X_reduced\n# Reduce the data to 5 dimensions\nX_reduced = reduce_dimensions(X, n_components=2)\n# 7.1 K-Means Cluster Analysis\nkkmeans1, k2, kkmeans3 = 4, 5, 3",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "compare_and_plot",
+        "kind": 2,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "def compare_and_plot(kmeans_results, gmm_results):\n    plt.figure(figsize=(12, 6))\n    # Silhouette Score\n    plt.subplot(1, 2, 1)\n    plt.bar(['K-Means', 'GMM'], [kmeans_results[kkmeans][0][0], gmm_results[kgmm][0][0]])\n    plt.title('Comparison of Silhouette Scores')\n    plt.ylabel('Silhouette Score')\n    # Calinski-Harabasz Index\n    plt.subplot(1, 2, 2)\n    plt.bar(['K-Means', 'GMM'], [kmeans_results[kkmeans][0][1], gmm_results[kgmm][0][1]])",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\nparent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.PCA.PCA import PCA\nfrom models.kmeans.KMeans import KMeans  # Custom KMeans model\nfrom models.GMM.GMM import GMM  # Custom GMM model\n# Load the data from the dataset\ndef load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "parent_dir",
+        "kind": 5,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "parent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.PCA.PCA import PCA\nfrom models.kmeans.KMeans import KMeans  # Custom KMeans model\nfrom models.GMM.GMM import GMM  # Custom GMM model\n# Load the data from the dataset\ndef load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    return X",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "X = load_data('data/external/word-embeddings.feather')\n# Apply PCA for dimensionality reduction\ndef reduce_dimensions(X, n_components):\n    pca = PCA(n_components=n_components)\n    pca.fit(X)  # First, fit the PCA model to the data\n    X_reduced = pca.transform(X)  # Then, transform the data\n    print(\"\\nReduced data to {} dimensions using PCA\".format(n_components))\n    return X_reduced\n# Reduce the data to 5 dimensions\nX_reduced = reduce_dimensions(X, n_components=2)",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "X_reduced",
+        "kind": 5,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "X_reduced = reduce_dimensions(X, n_components=2)\n# 7.1 K-Means Cluster Analysis\nkkmeans1, k2, kkmeans3 = 4, 5, 3\nkmeans_models = {\n    'kkmeans1': KMeans(k=kkmeans1, max_iters=100),\n    'k2': KMeans(k=k2, max_iters=100),\n    'kkmeans3': KMeans(k=kkmeans3, max_iters=100)\n}\n# Analyze K-Means Clustering\nkmeans_results = {}",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "kmeans_models",
+        "kind": 5,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "kmeans_models = {\n    'kkmeans1': KMeans(k=kkmeans1, max_iters=100),\n    'k2': KMeans(k=k2, max_iters=100),\n    'kkmeans3': KMeans(k=kkmeans3, max_iters=100)\n}\n# Analyze K-Means Clustering\nkmeans_results = {}\nfor name, model in kmeans_models.items():\n    model.fit(X_reduced)  # Use reduced data\n    metrics, labels = analyze_clusters(model, X_reduced, \"K-Means ({})\".format(name))",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "kmeans_results",
+        "kind": 5,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "kmeans_results = {}\nfor name, model in kmeans_models.items():\n    model.fit(X_reduced)  # Use reduced data\n    metrics, labels = analyze_clusters(model, X_reduced, \"K-Means ({})\".format(name))\n    kmeans_results[name] = (metrics, labels)\n# Identify the best k for K-Means based on silhouette score\nkkmeans = max(kmeans_results, key=lambda k: kmeans_results[k][0][0])\nprint(\"\\nBest K-Means clustering: {} with silhouette score {:.4f}\".format(kkmeans, kmeans_results[kkmeans][0][0]))\n# 7.2 GMM Cluster Analysis\nkgmm1, kgmm3 = 3, 3",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "kkmeans",
+        "kind": 5,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "kkmeans = max(kmeans_results, key=lambda k: kmeans_results[k][0][0])\nprint(\"\\nBest K-Means clustering: {} with silhouette score {:.4f}\".format(kkmeans, kmeans_results[kkmeans][0][0]))\n# 7.2 GMM Cluster Analysis\nkgmm1, kgmm3 = 3, 3\ngmm_models = {\n    'kgmm1': GMM(n_components=kgmm1),\n    'k2': GMM(n_components=k2),\n    'kgmm3': GMM(n_components=kgmm3)\n}\n# Analyze GMM Clustering",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "gmm_models",
+        "kind": 5,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "gmm_models = {\n    'kgmm1': GMM(n_components=kgmm1),\n    'k2': GMM(n_components=k2),\n    'kgmm3': GMM(n_components=kgmm3)\n}\n# Analyze GMM Clustering\ngmm_results = {}\nfor name, model in gmm_models.items():\n    model.fit(X_reduced)  # Use reduced data\n    metrics, labels = analyze_clusters(model, X_reduced, \"GMM ({})\".format(name))",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "gmm_results",
+        "kind": 5,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "gmm_results = {}\nfor name, model in gmm_models.items():\n    model.fit(X_reduced)  # Use reduced data\n    metrics, labels = analyze_clusters(model, X_reduced, \"GMM ({})\".format(name))\n    gmm_results[name] = (metrics, labels)\n# Identify the best k for GMM based on silhouette score\nkgmm = max(gmm_results, key=lambda k: gmm_results[k][0][0])\nprint(\"\\nBest GMM clustering: {} with silhouette score {:.4f}\".format(kgmm, gmm_results[kgmm][0][0]))\n# 7.3 Compare K-Means and GMMs\nprint(\"\\n7.3 Comparison of K-Means and GMM\")",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "kgmm",
+        "kind": 5,
+        "importPath": "assignments.2.seven",
+        "description": "assignments.2.seven",
+        "peekOfCode": "kgmm = max(gmm_results, key=lambda k: gmm_results[k][0][0])\nprint(\"\\nBest GMM clustering: {} with silhouette score {:.4f}\".format(kgmm, gmm_results[kgmm][0][0]))\n# 7.3 Compare K-Means and GMMs\nprint(\"\\n7.3 Comparison of K-Means and GMM\")\nprint(\"Best K-Means ({}):\".format(kkmeans))\nprint(\"  Silhouette score: {:.4f}\".format(kmeans_results[kkmeans][0][0]))\nprint(\"  Calinski-Harabasz Index: {:.4f}\".format(kmeans_results[kkmeans][0][1]))\nprint(\"  WCSS: {:.4f}\".format(kmeans_results[kkmeans][0][2]))\nprint(\"\\nBest GMM ({}):\".format(kgmm))\nprint(\"  Silhouette score: {:.4f}\".format(gmm_results[kgmm][0][0]))",
+        "detail": "assignments.2.seven",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "def load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    X = (X - X.mean(axis=0)) / X.std(axis=0)  # Normalize the data\n    return X\ndef plot_scree(pca,title):\n    plt.figure(figsize=(10, 6))\n    plt.plot(range(1, len(pca.explained_variance_ratio_) + 1), pca.explained_variance_ratio_, marker='o')\n    plt.xlabel('Number of Components')\n    plt.ylabel('Variance Explained')",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "plot_scree",
+        "kind": 2,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "def plot_scree(pca,title):\n    plt.figure(figsize=(10, 6))\n    plt.plot(range(1, len(pca.explained_variance_ratio_) + 1), pca.explained_variance_ratio_, marker='o')\n    plt.xlabel('Number of Components')\n    plt.ylabel('Variance Explained')\n    plt.title('Scree Plot')\n    plt.savefig(title)\n    plt.show()\n    plt.close()\ndef elbow_method(X, max_k):",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "elbow_method",
+        "kind": 2,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "def elbow_method(X, max_k):\n    wcss = []\n    for k in range(1, max_k + 1):\n        kmeans = KMeans(k=k, max_iters=100)\n        kmeans.fit(X)\n        wcss.append(kmeans.getCost())\n    return wcss\ndef plot_elbow(wcss, max_k, optimal_k, filename):\n    plt.figure(figsize=(10, 6))\n    plt.plot(range(1, max_k + 1), wcss, marker='o')",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "plot_elbow",
+        "kind": 2,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "def plot_elbow(wcss, max_k, optimal_k, filename):\n    plt.figure(figsize=(10, 6))\n    plt.plot(range(1, max_k + 1), wcss, marker='o')\n    plt.xlabel('Number of Clusters (k)')\n    plt.ylabel('WCSS')\n    plt.title('Elbow Method for Optimal k')\n    plt.axvline(x=optimal_k, color='r', linestyle='--', label='Elbow at k={}'.format(optimal_k))\n    plt.legend()\n    plt.savefig(filename)\n    plt.show()",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "compute_bic",
+        "kind": 2,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "def compute_bic(X, gmm):\n    n_samples, n_features = X.shape\n    log_likelihood = gmm.getLikelihood(X)\n    n_params = gmm.n_components * (n_features + 1 + n_features * (n_features + 1) / 2) - 1\n    return -2 * log_likelihood + n_params * np.log(n_samples)\ndef compute_aic(X, gmm):\n    log_likelihood = gmm.getLikelihood(X)\n    n_params = gmm.n_components * (X.shape[1] + 1 + X.shape[1] * (X.shape[1] + 1) / 2) - 1\n    return 2 * n_params - 2 * log_likelihood\ndef find_optimal_gmm(X, max_k):",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "compute_aic",
+        "kind": 2,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "def compute_aic(X, gmm):\n    log_likelihood = gmm.getLikelihood(X)\n    n_params = gmm.n_components * (X.shape[1] + 1 + X.shape[1] * (X.shape[1] + 1) / 2) - 1\n    return 2 * n_params - 2 * log_likelihood\ndef find_optimal_gmm(X, max_k):\n    bic_values = []\n    aic_values = []\n    for k in range(1, max_k + 1):\n        try:\n            gmm = GMM(n_components=k)",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "find_optimal_gmm",
+        "kind": 2,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "def find_optimal_gmm(X, max_k):\n    bic_values = []\n    aic_values = []\n    for k in range(1, max_k + 1):\n        try:\n            gmm = GMM(n_components=k)\n            gmm.fit(X)\n            bic = compute_bic(X, gmm)\n            aic = compute_aic(X, gmm)\n            bic_values.append(bic)",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "plot_bic_aic",
+        "kind": 2,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "def plot_bic_aic(bic_values, aic_values, optimal_k_bic, optimal_k_aic):\n    plt.figure(figsize=(10, 6))\n    k_values = range(1, len(bic_values) + 1)\n    plt.plot(k_values, bic_values, marker='o', label='BIC')\n    plt.plot(k_values, aic_values, marker='o', label='AIC')\n    plt.axvline(x=optimal_k_bic, color='r', linestyle='--', label='Optimal k (BIC): {}'.format(optimal_k_bic))\n    plt.axvline(x=optimal_k_aic, color='g', linestyle='--', label='Optimal k (AIC): {}'.format(optimal_k_aic))\n    plt.xlabel('Number of Clusters (k)')\n    plt.ylabel('BIC / AIC Score')\n    plt.title('BIC and AIC Scores vs. Number of Clusters')",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\nparent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.kmeans.KMeans import KMeans\nfrom models.GMM.GMM import GMM\nfrom models.PCA.PCA import PCA\ndef load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    X = (X - X.mean(axis=0)) / X.std(axis=0)  # Normalize the data",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "parent_dir",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "parent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\nfrom models.kmeans.KMeans import KMeans\nfrom models.GMM.GMM import GMM\nfrom models.PCA.PCA import PCA\ndef load_data(filename):\n    df = pd.read_feather(filename)\n    X = np.array(df['vit'].tolist())  # The 512-dimensional embeddings\n    X = (X - X.mean(axis=0)) / X.std(axis=0)  # Normalize the data\n    return X",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "X = load_data('data/external/word-embeddings.feather')\n# 6.1 K-means Clustering Based on 2D Visualization\npca_2d = PCA(n_components=2)\npca_2d.fit(X)\nX_transformed_pca_2d = pca_2d.transform(X)\nk2 = 5  # Estimated from 2D visualization\nkmeans_2d = KMeans(k=k2, max_iters=100)\nkmeans_2d.fit(X_transformed_pca_2d)\nlabels_2d = kmeans_2d.predict(X_transformed_pca_2d)\nplt.figure(figsize=(8, 6))",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "pca_2d",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "pca_2d = PCA(n_components=2)\npca_2d.fit(X)\nX_transformed_pca_2d = pca_2d.transform(X)\nk2 = 5  # Estimated from 2D visualization\nkmeans_2d = KMeans(k=k2, max_iters=100)\nkmeans_2d.fit(X_transformed_pca_2d)\nlabels_2d = kmeans_2d.predict(X_transformed_pca_2d)\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_pca_2d[:, 0], X_transformed_pca_2d[:, 1], c=labels_2d, cmap='viridis', marker='o')\nplt.title('2D PCA with K-means Clustering')",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "X_transformed_pca_2d",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "X_transformed_pca_2d = pca_2d.transform(X)\nk2 = 5  # Estimated from 2D visualization\nkmeans_2d = KMeans(k=k2, max_iters=100)\nkmeans_2d.fit(X_transformed_pca_2d)\nlabels_2d = kmeans_2d.predict(X_transformed_pca_2d)\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_pca_2d[:, 0], X_transformed_pca_2d[:, 1], c=labels_2d, cmap='viridis', marker='o')\nplt.title('2D PCA with K-means Clustering')\nplt.xlabel('Principal Component 1')\nplt.ylabel('Principal Component 2')",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "k2",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "k2 = 5  # Estimated from 2D visualization\nkmeans_2d = KMeans(k=k2, max_iters=100)\nkmeans_2d.fit(X_transformed_pca_2d)\nlabels_2d = kmeans_2d.predict(X_transformed_pca_2d)\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_pca_2d[:, 0], X_transformed_pca_2d[:, 1], c=labels_2d, cmap='viridis', marker='o')\nplt.title('2D PCA with K-means Clustering')\nplt.xlabel('Principal Component 1')\nplt.ylabel('Principal Component 2')\nplt.savefig('assignments/2/plots/q6/pca_2d_kmeans.png')",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "kmeans_2d",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "kmeans_2d = KMeans(k=k2, max_iters=100)\nkmeans_2d.fit(X_transformed_pca_2d)\nlabels_2d = kmeans_2d.predict(X_transformed_pca_2d)\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_pca_2d[:, 0], X_transformed_pca_2d[:, 1], c=labels_2d, cmap='viridis', marker='o')\nplt.title('2D PCA with K-means Clustering')\nplt.xlabel('Principal Component 1')\nplt.ylabel('Principal Component 2')\nplt.savefig('assignments/2/plots/q6/pca_2d_kmeans.png')\nplt.show()",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "labels_2d",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "labels_2d = kmeans_2d.predict(X_transformed_pca_2d)\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_pca_2d[:, 0], X_transformed_pca_2d[:, 1], c=labels_2d, cmap='viridis', marker='o')\nplt.title('2D PCA with K-means Clustering')\nplt.xlabel('Principal Component 1')\nplt.ylabel('Principal Component 2')\nplt.savefig('assignments/2/plots/q6/pca_2d_kmeans.png')\nplt.show()\nplt.close()\n# 6.2 PCA + K-Means Clustering",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "pca",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "pca = PCA(n_components=X.shape[1])  # Initialize PCA with all features\npca.fit(X)\nplot_scree(pca,'assignments/2/plots/q6/scree_plot.png')\npca2 = PCA(n_components= 10)\npca2.fit(X)\nplot_scree(pca2,'assignments/2/plots/q6/scree_plot_10.png')\n# Choose optimal dimensions based on scree plot (e.g., elbow method or cumulative explained variance)\noptimal_dims = 5  # This should be determined based on the scree plot\nprint(\"Optimal number of dimensions chosen: {}\".format(optimal_dims))\npca_reduced = PCA(n_components=optimal_dims)",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "pca2",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "pca2 = PCA(n_components= 10)\npca2.fit(X)\nplot_scree(pca2,'assignments/2/plots/q6/scree_plot_10.png')\n# Choose optimal dimensions based on scree plot (e.g., elbow method or cumulative explained variance)\noptimal_dims = 5  # This should be determined based on the scree plot\nprint(\"Optimal number of dimensions chosen: {}\".format(optimal_dims))\npca_reduced = PCA(n_components=optimal_dims)\npca_reduced.fit(X)\nX_reduced = pca_reduced.transform(X)\nmax_k =20",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "optimal_dims",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "optimal_dims = 5  # This should be determined based on the scree plot\nprint(\"Optimal number of dimensions chosen: {}\".format(optimal_dims))\npca_reduced = PCA(n_components=optimal_dims)\npca_reduced.fit(X)\nX_reduced = pca_reduced.transform(X)\nmax_k =20\nwcss_values = elbow_method(X_reduced, max_k)\nkkmeans3 = 3  # This is determined based on the elbow plot\nprint(\"Optimal number of clusters for K-means (kkmeans3): {}\".format(kkmeans3))\nplot_elbow(wcss_values, max_k, kkmeans3, 'assignments/2/plots/q6/elbow_reduced.png')",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "pca_reduced",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "pca_reduced = PCA(n_components=optimal_dims)\npca_reduced.fit(X)\nX_reduced = pca_reduced.transform(X)\nmax_k =20\nwcss_values = elbow_method(X_reduced, max_k)\nkkmeans3 = 3  # This is determined based on the elbow plot\nprint(\"Optimal number of clusters for K-means (kkmeans3): {}\".format(kkmeans3))\nplot_elbow(wcss_values, max_k, kkmeans3, 'assignments/2/plots/q6/elbow_reduced.png')\nkmeans_reduced = KMeans(k=kkmeans3, max_iters=100)\nkmeans_reduced.fit(X_reduced)",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "X_reduced",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "X_reduced = pca_reduced.transform(X)\nmax_k =20\nwcss_values = elbow_method(X_reduced, max_k)\nkkmeans3 = 3  # This is determined based on the elbow plot\nprint(\"Optimal number of clusters for K-means (kkmeans3): {}\".format(kkmeans3))\nplot_elbow(wcss_values, max_k, kkmeans3, 'assignments/2/plots/q6/elbow_reduced.png')\nkmeans_reduced = KMeans(k=kkmeans3, max_iters=100)\nkmeans_reduced.fit(X_reduced)\nlabels_reduced = kmeans_reduced.predict(X_reduced)\n# 6.3 GMM Clustering Based on 2D Visualization",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "wcss_values",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "wcss_values = elbow_method(X_reduced, max_k)\nkkmeans3 = 3  # This is determined based on the elbow plot\nprint(\"Optimal number of clusters for K-means (kkmeans3): {}\".format(kkmeans3))\nplot_elbow(wcss_values, max_k, kkmeans3, 'assignments/2/plots/q6/elbow_reduced.png')\nkmeans_reduced = KMeans(k=kkmeans3, max_iters=100)\nkmeans_reduced.fit(X_reduced)\nlabels_reduced = kmeans_reduced.predict(X_reduced)\n# 6.3 GMM Clustering Based on 2D Visualization\ngmm_2d = GMM(n_components=k2)\ngmm_2d.fit(X_transformed_pca_2d)",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "kkmeans3",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "kkmeans3 = 3  # This is determined based on the elbow plot\nprint(\"Optimal number of clusters for K-means (kkmeans3): {}\".format(kkmeans3))\nplot_elbow(wcss_values, max_k, kkmeans3, 'assignments/2/plots/q6/elbow_reduced.png')\nkmeans_reduced = KMeans(k=kkmeans3, max_iters=100)\nkmeans_reduced.fit(X_reduced)\nlabels_reduced = kmeans_reduced.predict(X_reduced)\n# 6.3 GMM Clustering Based on 2D Visualization\ngmm_2d = GMM(n_components=k2)\ngmm_2d.fit(X_transformed_pca_2d)\nlabels_gmm_2d = gmm_2d.getMembership()",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "kmeans_reduced",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "kmeans_reduced = KMeans(k=kkmeans3, max_iters=100)\nkmeans_reduced.fit(X_reduced)\nlabels_reduced = kmeans_reduced.predict(X_reduced)\n# 6.3 GMM Clustering Based on 2D Visualization\ngmm_2d = GMM(n_components=k2)\ngmm_2d.fit(X_transformed_pca_2d)\nlabels_gmm_2d = gmm_2d.getMembership()\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_pca_2d[:, 0], X_transformed_pca_2d[:, 1], c=labels_gmm_2d, cmap='viridis', marker='o')\nplt.title('2D PCA with GMM Clustering')",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "labels_reduced",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "labels_reduced = kmeans_reduced.predict(X_reduced)\n# 6.3 GMM Clustering Based on 2D Visualization\ngmm_2d = GMM(n_components=k2)\ngmm_2d.fit(X_transformed_pca_2d)\nlabels_gmm_2d = gmm_2d.getMembership()\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_pca_2d[:, 0], X_transformed_pca_2d[:, 1], c=labels_gmm_2d, cmap='viridis', marker='o')\nplt.title('2D PCA with GMM Clustering')\nplt.xlabel('Principal Component 1')\nplt.ylabel('Principal Component 2')",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "gmm_2d",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "gmm_2d = GMM(n_components=k2)\ngmm_2d.fit(X_transformed_pca_2d)\nlabels_gmm_2d = gmm_2d.getMembership()\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_pca_2d[:, 0], X_transformed_pca_2d[:, 1], c=labels_gmm_2d, cmap='viridis', marker='o')\nplt.title('2D PCA with GMM Clustering')\nplt.xlabel('Principal Component 1')\nplt.ylabel('Principal Component 2')\nplt.savefig('assignments/2/plots/q6/pca_2d_gmm.png')\nplt.show()",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "labels_gmm_2d",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "labels_gmm_2d = gmm_2d.getMembership()\nplt.figure(figsize=(8, 6))\nplt.scatter(X_transformed_pca_2d[:, 0], X_transformed_pca_2d[:, 1], c=labels_gmm_2d, cmap='viridis', marker='o')\nplt.title('2D PCA with GMM Clustering')\nplt.xlabel('Principal Component 1')\nplt.ylabel('Principal Component 2')\nplt.savefig('assignments/2/plots/q6/pca_2d_gmm.png')\nplt.show()\nplt.close()\n# 6.4 PCA + GMMs",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "kgmm3",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "kgmm3 = optimal_k_bic\n# kgmm3 = optimal_k_bic  # Use BIC for optimal number of clusters\nprint(\"Optimal number of clusters for GMM (kgmm3): {}\".format(kgmm3))\ngmm_reduced = GMM(n_components=kgmm3)\ngmm_reduced.fit(X_reduced)\nlabels_gmm_reduced = gmm_reduced.getMembership()\nplt.figure(figsize=(8, 6))\nplt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=labels_gmm_reduced, cmap='viridis', marker='o')\nplt.title('Reduced PCA with GMM Clustering')\nplt.xlabel('Principal Component 1')",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "gmm_reduced",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "gmm_reduced = GMM(n_components=kgmm3)\ngmm_reduced.fit(X_reduced)\nlabels_gmm_reduced = gmm_reduced.getMembership()\nplt.figure(figsize=(8, 6))\nplt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=labels_gmm_reduced, cmap='viridis', marker='o')\nplt.title('Reduced PCA with GMM Clustering')\nplt.xlabel('Principal Component 1')\nplt.ylabel('Principal Component 2')\nplt.savefig('assignments/2/plots/q6/pca_reduced_gmm.png')\nplt.show()",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "labels_gmm_reduced",
+        "kind": 5,
+        "importPath": "assignments.2.six_3",
+        "description": "assignments.2.six_3",
+        "peekOfCode": "labels_gmm_reduced = gmm_reduced.getMembership()\nplt.figure(figsize=(8, 6))\nplt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=labels_gmm_reduced, cmap='viridis', marker='o')\nplt.title('Reduced PCA with GMM Clustering')\nplt.xlabel('Principal Component 1')\nplt.ylabel('Principal Component 2')\nplt.savefig('assignments/2/plots/q6/pca_reduced_gmm.png')\nplt.show()\nplt.close()\n# # Choose optimal dimensions based on scree plot (e.g., elbow method or cumulative explained variance)",
+        "detail": "assignments.2.six_3",
+        "documentation": {}
+    },
+    {
+        "label": "MLPWandbWrapper",
+        "kind": 6,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "class MLPWandbWrapper:\n    \"\"\"Wrapper for MLP Classifier integrated with WandB.\"\"\"\n    def __init__(self, config=None):\n        self.config = config or {}\n        self.model = MLPClassifier(\n            hidden_layers=self.config.get('hidden_layers', [64, 32]),\n            activation=self.config.get('activation', 'relu'),\n            optimizer=self.config.get('optimizer', 'sgd'),\n            learning_rate=self.config.get('learning_rate', 0.01),\n            batch_size=self.config.get('batch_size', 32),",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "load_wine_data",
+        "kind": 2,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "def load_wine_data(file_path):\n    \"\"\"Load the wine data from a CSV file.\"\"\"\n    with open(file_path, 'r') as f:\n        lines = f.readlines()\n    data = [list(map(float, line.strip().split(','))) for line in lines[1:]]\n    return np.array(data)\ndef normalize_and_standardize(data):\n    \"\"\"Normalize and standardize the data.\"\"\"\n    scaler = StandardScaler()\n    return scaler.fit_transform(data)",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_and_standardize",
+        "kind": 2,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "def normalize_and_standardize(data):\n    \"\"\"Normalize and standardize the data.\"\"\"\n    scaler = StandardScaler()\n    return scaler.fit_transform(data)\nclass MLPWandbWrapper:\n    \"\"\"Wrapper for MLP Classifier integrated with WandB.\"\"\"\n    def __init__(self, config=None):\n        self.config = config or {}\n        self.model = MLPClassifier(\n            hidden_layers=self.config.get('hidden_layers', [64, 32]),",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "hyperparameter_tuning",
+        "kind": 2,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "def hyperparameter_tuning(X, y):\n    \"\"\"Perform hyperparameter tuning with WandB sweeps.\"\"\"\n    wandb.init(project=\"mlp-wine-quality\")\n    config = wandb.config\n    config.hidden_layers = [64, 32]\n    config.activation = wandb.config.activation\n    config.optimizer = wandb.config.optimizer\n    config.learning_rate = wandb.config.learning_rate\n    config.batch_size = wandb.config.batch_size\n    config.epochs = 100",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "sweep_train",
+        "kind": 2,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "def sweep_train():\n    \"\"\"Train using the hyperparameter sweep.\"\"\"\n    wandb.init()\n    hyperparameter_tuning(X_normalized, y_one_hot)\nwandb.agent(sweep_id, sweep_train, count=20)\n# Retrieve the best model from W&B\napi = wandb.Api()\nruns = api.runs(\"vishnuvarun-iiit-hyderabad/mlp-wine-quality\")\nbest_run = sorted(runs, key=lambda run: run.summary.get('final_val_accuracy', 0), reverse=True)[0]\nprint(\"Best run: {}\".format(best_run.name))",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\nparent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\n# Importing the MLPClassifier class\nfrom models.MLP.MLP import MLPClassifier\ndef load_wine_data(file_path):\n    \"\"\"Load the wine data from a CSV file.\"\"\"\n    with open(file_path, 'r') as f:\n        lines = f.readlines()\n    data = [list(map(float, line.strip().split(','))) for line in lines[1:]]",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "parent_dir",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "parent_dir = os.path.dirname(os.path.dirname(current_dir))\nsys.path.append(parent_dir)\n# Importing the MLPClassifier class\nfrom models.MLP.MLP import MLPClassifier\ndef load_wine_data(file_path):\n    \"\"\"Load the wine data from a CSV file.\"\"\"\n    with open(file_path, 'r') as f:\n        lines = f.readlines()\n    data = [list(map(float, line.strip().split(','))) for line in lines[1:]]\n    return np.array(data)",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "file_path = 'data/external/WineQT.csv'\nwine_data = load_wine_data(file_path)\n# Prepare features (X) and labels (y)\nX, y = wine_data[:, :-1], wine_data[:, -1].astype(int)\nX_normalized = normalize_and_standardize(X)\n# One-hot encode the labels\ny_one_hot = np.zeros((y.size, int(y.max()) + 1))\ny_one_hot[np.arange(y.size), y] = 1\n# Define the sweep configuration\nsweep_config = {",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "wine_data",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "wine_data = load_wine_data(file_path)\n# Prepare features (X) and labels (y)\nX, y = wine_data[:, :-1], wine_data[:, -1].astype(int)\nX_normalized = normalize_and_standardize(X)\n# One-hot encode the labels\ny_one_hot = np.zeros((y.size, int(y.max()) + 1))\ny_one_hot[np.arange(y.size), y] = 1\n# Define the sweep configuration\nsweep_config = {\n    'method': 'random',",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "X_normalized",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "X_normalized = normalize_and_standardize(X)\n# One-hot encode the labels\ny_one_hot = np.zeros((y.size, int(y.max()) + 1))\ny_one_hot[np.arange(y.size), y] = 1\n# Define the sweep configuration\nsweep_config = {\n    'method': 'random',\n    'metric': {\n        'name': 'val_accuracy',\n        'goal': 'maximize'",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "y_one_hot",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "y_one_hot = np.zeros((y.size, int(y.max()) + 1))\ny_one_hot[np.arange(y.size), y] = 1\n# Define the sweep configuration\nsweep_config = {\n    'method': 'random',\n    'metric': {\n        'name': 'val_accuracy',\n        'goal': 'maximize'\n    },\n    'parameters': {",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "sweep_config",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "sweep_config = {\n    'method': 'random',\n    'metric': {\n        'name': 'val_accuracy',\n        'goal': 'maximize'\n    },\n    'parameters': {\n        'activation': {\n            'values': ['sigmoid', 'tanh', 'relu']\n        },",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "sweep_id",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "sweep_id = wandb.sweep(sweep_config, project=\"mlp-wine-quality\")\ndef sweep_train():\n    \"\"\"Train using the hyperparameter sweep.\"\"\"\n    wandb.init()\n    hyperparameter_tuning(X_normalized, y_one_hot)\nwandb.agent(sweep_id, sweep_train, count=20)\n# Retrieve the best model from W&B\napi = wandb.Api()\nruns = api.runs(\"vishnuvarun-iiit-hyderabad/mlp-wine-quality\")\nbest_run = sorted(runs, key=lambda run: run.summary.get('final_val_accuracy', 0), reverse=True)[0]",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "api = wandb.Api()\nruns = api.runs(\"vishnuvarun-iiit-hyderabad/mlp-wine-quality\")\nbest_run = sorted(runs, key=lambda run: run.summary.get('final_val_accuracy', 0), reverse=True)[0]\nprint(\"Best run: {}\".format(best_run.name))\nprint(\"Best configuration: {}\".format(best_run.config))\nprint(\"Best validation accuracy: {}\".format(best_run.summary.get('final_val_accuracy', 'N/A')))\n# Save the best model\nwandb.init(project=\"mlp-wine-quality\", name=\"best_model_training\")\nbest_model = MLPWandbWrapper(best_run.config)\nbest_model.train(X_normalized, y_one_hot)",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "runs",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "runs = api.runs(\"vishnuvarun-iiit-hyderabad/mlp-wine-quality\")\nbest_run = sorted(runs, key=lambda run: run.summary.get('final_val_accuracy', 0), reverse=True)[0]\nprint(\"Best run: {}\".format(best_run.name))\nprint(\"Best configuration: {}\".format(best_run.config))\nprint(\"Best validation accuracy: {}\".format(best_run.summary.get('final_val_accuracy', 'N/A')))\n# Save the best model\nwandb.init(project=\"mlp-wine-quality\", name=\"best_model_training\")\nbest_model = MLPWandbWrapper(best_run.config)\nbest_model.train(X_normalized, y_one_hot)\n# Save the model to a file",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "best_run",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "best_run = sorted(runs, key=lambda run: run.summary.get('final_val_accuracy', 0), reverse=True)[0]\nprint(\"Best run: {}\".format(best_run.name))\nprint(\"Best configuration: {}\".format(best_run.config))\nprint(\"Best validation accuracy: {}\".format(best_run.summary.get('final_val_accuracy', 'N/A')))\n# Save the best model\nwandb.init(project=\"mlp-wine-quality\", name=\"best_model_training\")\nbest_model = MLPWandbWrapper(best_run.config)\nbest_model.train(X_normalized, y_one_hot)\n# Save the model to a file\nimport pickle",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "best_model",
+        "kind": 5,
+        "importPath": "assignments.3.mlpc",
+        "description": "assignments.3.mlpc",
+        "peekOfCode": "best_model = MLPWandbWrapper(best_run.config)\nbest_model.train(X_normalized, y_one_hot)\n# Save the model to a file\nimport pickle\nwith open('best_model.pkl', 'wb') as f:\n    pickle.dump(best_model.model, f)\nprint(\"Best model saved as 'best_model.pkl'\")",
+        "detail": "assignments.3.mlpc",
+        "documentation": {}
+    },
+    {
+        "label": "GMM",
+        "kind": 6,
+        "importPath": "models.GMM.GMM",
+        "description": "models.GMM.GMM",
+        "peekOfCode": "class GMM:\n    def __init__(self, n_components, max_iter=100, tol=1e-6):\n        self.n_components = n_components\n        self.max_iter = max_iter\n        self.tol = tol\n        self.means_ = None\n        self.covariances_ = None\n        self.mixing_coefficients_ = None\n        self.resp_ = None\n    def initialize_params(self, X):",
+        "detail": "models.GMM.GMM",
+        "documentation": {}
+    },
+    {
+        "label": "determine_optimal_clusters",
+        "kind": 2,
+        "importPath": "models.GMM.GMM",
+        "description": "models.GMM.GMM",
+        "peekOfCode": "def determine_optimal_clusters(X, max_components, n_runs=5):\n    bic_scores = []\n    aic_scores = []\n    for n_components in range(1, max_components + 1):\n        bic_run = []\n        aic_run = []\n        for _ in range(n_runs):\n            gmm = GMM(n_components)\n            gmm.fit(X)\n            bic, aic = gmm.compute_bic_aic(X)",
+        "detail": "models.GMM.GMM",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "kind": 6,
+        "importPath": "models.MLP.MLP",
+        "description": "models.MLP.MLP",
+        "peekOfCode": "class MLPClassifier:\n    def __init__(self, hidden_layers, activation='sigmoid', optimizer='sgd', learning_rate=0.01, batch_size=32, epochs=100, early_stopping=False, tolerance=1e-4, patience=10):\n        self.hidden_layers = hidden_layers\n        self.activation = activation\n        self.optimizer = optimizer\n        self.learning_rate = learning_rate\n        self.batch_size = batch_size\n        self.epochs = epochs\n        self.early_stopping = early_stopping\n        self.tolerance = tolerance",
+        "detail": "models.MLP.MLP",
+        "documentation": {}
+    },
+    {
+        "label": "TestMLPClassifier",
+        "kind": 6,
+        "importPath": "models.MLP.MLP",
+        "description": "models.MLP.MLP",
+        "peekOfCode": "class TestMLPClassifier(unittest.TestCase):\n    def setUp(self):\n        \"\"\"Set up a simple MLPClassifier for testing.\"\"\"\n        self.model = MLPClassifier(hidden_layers=[5], activation='relu', optimizer='sgd', learning_rate=0.01, epochs=1)\n        self.X = np.random.randn(10, 3)  # 10 samples, 3 features\n        self.y = np.zeros((10, 2))  # 10 samples, 2 classes (one-hot encoded)\n        self.y[np.arange(10), np.random.randint(0, 2, 10)] = 1\n    def test_gradient_check(self):\n        \"\"\"Test the gradient checking method.\"\"\"\n        self.model._initialize_parameters(self.X.shape[1], self.y.shape[1])",
+        "detail": "models.MLP.MLP",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "kind": 6,
+        "importPath": "models.PCA.PCA",
+        "description": "models.PCA.PCA",
+        "peekOfCode": "class PCA:\n    def __init__(self, n_components):\n        self.n_components = n_components\n        self.components = None\n        self.mean = None\n    def fit(self, X):\n        # Center the data\n        self.mean = np.mean(X, axis=0)\n        X_centered = X - self.mean\n        # Compute the covariance matrix",
+        "detail": "models.PCA.PCA",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "kind": 6,
+        "importPath": "models.kmeans.KMeans",
+        "description": "models.kmeans.KMeans",
+        "peekOfCode": "class KMeans:\n    def __init__(self, k=3, max_iters=100):\n        self.k = k\n        self.max_iters = max_iters\n        self.clusters = [[] for _ in range(self.k)]\n        self.centroids = []\n    def fit(self, X):\n        self.X = np.array(X)\n        self.n_samples, self.n_features = self.X.shape\n        # Initialize centroids",
+        "detail": "models.kmeans.KMeans",
+        "documentation": {}
+    },
+    {
+        "label": "KNN",
+        "kind": 6,
+        "importPath": "models.knn.knn",
+        "description": "models.knn.knn",
+        "peekOfCode": "class KNN:\n    def __init__(self, k=3, distance_metric='euclidean', batch_size=100):\n        self.k = k\n        self.distance_metric = distance_metric\n        self.X_train = None\n        self.y_train = None\n        self.batch_size = batch_size\n        self.distance_functions = {\n            'euclidean': self.euclidean_distance,\n            'manhattan': self.manhattan_distance,",
+        "detail": "models.knn.knn",
+        "documentation": {}
+    },
+    {
+        "label": "initial_KNN",
+        "kind": 6,
+        "importPath": "models.knn.knn",
+        "description": "models.knn.knn",
+        "peekOfCode": "class initial_KNN:\n    def __init__(self, k=3, distance_metric='euclidean'):\n        self.k = k\n        self.distance_metric = distance_metric\n        self.X_train = None\n        self.y_train = None\n        self.distance_functions = {\n            'euclidean': self.euclidean_distance,\n            'manhattan': self.manhattan_distance,\n            'cosine': self.cosine_distance",
+        "detail": "models.knn.knn",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "kind": 6,
+        "importPath": "models.linearregression.linearregression",
+        "description": "models.linearregression.linearregression",
+        "peekOfCode": "class LinearRegression:\n    def __init__(self, learning_rate=0.01, iterations=1000, reg_type=None, lambda_=0, degree=1):\n        self.learning_rate = learning_rate\n        self.iterations = iterations\n        self.reg_type = reg_type\n        self.lambda_ = lambda_\n        self.degree = degree\n        self.coefficients = None\n        self.mse_history = []\n        self.std_dev_history = []",
+        "detail": "models.linearregression.linearregression",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceMeasures",
+        "kind": 6,
+        "importPath": "performance_measures.performance_measures",
+        "description": "performance_measures.performance_measures",
+        "peekOfCode": "class PerformanceMeasures:\n    def __init__(self):\n        pass\n    # Accuracy is the ratio of correctly predicted observation to the total observations \n    # y_true: The true labels of the data y_pred: The predicted labels of the data\n    def accuracy(self, y_true, y_pred):\n        accuracy = np.sum(y_true == y_pred) / len(y_true)\n        return accuracy\n    # Precision is the ratio of correctly predicted positive observations to the total predicted positive observations\n    # y_true: The true labels of the data y_pred: The predicted labels of the data",
+        "detail": "performance_measures.performance_measures",
+        "documentation": {}
+    }
+]

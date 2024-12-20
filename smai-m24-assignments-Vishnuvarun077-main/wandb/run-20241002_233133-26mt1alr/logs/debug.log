@@ -1,0 +1,110 @@
+2024-10-02 23:31:33,034 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-02 23:31:33,034 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Configure stats pid to 43117
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/.config/wandb/settings
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/settings
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'mlp-wine-quality', 'entity': 'vishnuvarun-iiit-hyderabad', 'root_dir': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077', 'run_id': '26mt1alr', 'sweep_param_path': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/sweep-rwygpyfm/config-26mt1alr.yaml', 'sweep_id': 'rwygpyfm'}
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/mlpc.py', 'program_abspath': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py', 'program': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py'}
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_init.py:_log_setup():532] Logging user logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug.log
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_init.py:_log_setup():533] Logging internal logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug-internal.log
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():617] calling init triggers
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():624] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 64, 'learning_rate': 0.0900534163487642, 'optimizer': 'adam'}
+config: {}
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():667] starting backend
+2024-10-02 23:31:33,035 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():671] sending inform_init request
+2024-10-02 23:31:33,038 INFO    Thread-5 (_run_job):43117 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-02 23:31:33,038 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():684] backend started and connected
+2024-10-02 23:31:33,044 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_config_callback():1394] config_cb None None {'activation': 'sigmoid', 'batch_size': 64, 'learning_rate': 0.0900534163487642, 'optimizer': 'adam'}
+2024-10-02 23:31:33,045 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():779] updated telemetry
+2024-10-02 23:31:33,049 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-02 23:31:33,414 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():863] starting run threads in backend
+2024-10-02 23:31:33,453 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_console_start():2465] atexit reg
+2024-10-02 23:31:33,453 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_redirect():2313] redirect: wrap_raw
+2024-10-02 23:31:33,453 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_redirect():2378] Wrapping output streams.
+2024-10-02 23:31:33,453 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_redirect():2403] Redirects installed.
+2024-10-02 23:31:33,454 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():907] run started, returning control to user process
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Configure stats pid to 43117
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Configure stats pid to 43117
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/.config/wandb/settings
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/.config/wandb/settings
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/settings
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/settings
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'mlp-wine-quality', 'entity': 'vishnuvarun-iiit-hyderabad', 'root_dir': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077', 'run_id': '26mt1alr', 'sweep_param_path': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/sweep-rwygpyfm/config-26mt1alr.yaml', 'sweep_id': 'rwygpyfm'}
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'mlp-wine-quality', 'entity': 'vishnuvarun-iiit-hyderabad', 'root_dir': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077', 'run_id': '26mt1alr', 'sweep_param_path': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/sweep-rwygpyfm/config-26mt1alr.yaml', 'sweep_id': 'rwygpyfm'}
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/mlpc.py', 'program_abspath': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py', 'program': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py'}
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/mlpc.py', 'program_abspath': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py', 'program': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py'}
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_init.py:_log_setup():532] Logging user logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug.log
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_init.py:_log_setup():532] Logging user logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug.log
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_init.py:_log_setup():533] Logging internal logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug-internal.log
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_init.py:_log_setup():533] Logging internal logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug-internal.log
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():617] calling init triggers
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():617] calling init triggers
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():624] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 64, 'learning_rate': 0.0900534163487642, 'optimizer': 'adam'}
+config: {}
+2024-10-02 23:31:33,458 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():624] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 64, 'learning_rate': 0.0900534163487642, 'optimizer': 'adam'}
+config: {}
+2024-10-02 23:31:33,459 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():662] wandb.init() called when a run is still active
+2024-10-02 23:31:33,459 INFO    Thread-5 (_run_job):43117 [wandb_init.py:init():662] wandb.init() called when a run is still active
+2024-10-02 23:31:33,459 INFO    Thread-5 (_run_job):43117 [wandb_config.py:__setitem__():154] config set hidden_layers = [64, 32] - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x7ae6c193df90>>
+2024-10-02 23:31:33,459 INFO    Thread-5 (_run_job):43117 [wandb_config.py:__setitem__():154] config set hidden_layers = [64, 32] - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x7ae6c193df90>>
+2024-10-02 23:31:33,459 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_config_callback():1394] config_cb hidden_layers [64, 32] None
+2024-10-02 23:31:33,459 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_config_callback():1394] config_cb hidden_layers [64, 32] None
+2024-10-02 23:31:33,459 INFO    Thread-5 (_run_job):43117 [wandb_config.py:__setitem__():154] config set epochs = 100 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x7ae6c193df90>>
+2024-10-02 23:31:33,459 INFO    Thread-5 (_run_job):43117 [wandb_config.py:__setitem__():154] config set epochs = 100 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x7ae6c193df90>>
+2024-10-02 23:31:33,459 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_config_callback():1394] config_cb epochs 100 None
+2024-10-02 23:31:33,459 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_config_callback():1394] config_cb epochs 100 None
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Configure stats pid to 43117
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Configure stats pid to 43117
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Configure stats pid to 43117
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/.config/wandb/settings
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/.config/wandb/settings
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/.config/wandb/settings
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/settings
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/settings
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Loading settings from /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/settings
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'mlp-wine-quality', 'entity': 'vishnuvarun-iiit-hyderabad', 'root_dir': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077', 'run_id': '26mt1alr', 'sweep_param_path': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/sweep-rwygpyfm/config-26mt1alr.yaml', 'sweep_id': 'rwygpyfm'}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'mlp-wine-quality', 'entity': 'vishnuvarun-iiit-hyderabad', 'root_dir': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077', 'run_id': '26mt1alr', 'sweep_param_path': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/sweep-rwygpyfm/config-26mt1alr.yaml', 'sweep_id': 'rwygpyfm'}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'mlp-wine-quality', 'entity': 'vishnuvarun-iiit-hyderabad', 'root_dir': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077', 'run_id': '26mt1alr', 'sweep_param_path': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/sweep-rwygpyfm/config-26mt1alr.yaml', 'sweep_id': 'rwygpyfm'}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/mlpc.py', 'program_abspath': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py', 'program': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py'}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/mlpc.py', 'program_abspath': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py', 'program': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py'}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'assignments/3/mlpc.py', 'program_abspath': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py', 'program': '/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py'}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:_log_setup():532] Logging user logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug.log
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:_log_setup():532] Logging user logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug.log
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:_log_setup():532] Logging user logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug.log
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:_log_setup():533] Logging internal logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug-internal.log
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:_log_setup():533] Logging internal logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug-internal.log
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:_log_setup():533] Logging internal logs to /home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_233133-26mt1alr/logs/debug-internal.log
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:init():617] calling init triggers
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:init():617] calling init triggers
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:init():617] calling init triggers
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:init():624] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 64, 'learning_rate': 0.0900534163487642, 'optimizer': 'adam'}
+config: {}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:init():624] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 64, 'learning_rate': 0.0900534163487642, 'optimizer': 'adam'}
+config: {}
+2024-10-02 23:31:33,785 INFO    MainThread:43117 [wandb_init.py:init():624] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 64, 'learning_rate': 0.0900534163487642, 'optimizer': 'adam'}
+config: {}
+2024-10-02 23:31:33,786 INFO    MainThread:43117 [wandb_init.py:init():662] wandb.init() called when a run is still active
+2024-10-02 23:31:33,786 INFO    MainThread:43117 [wandb_init.py:init():662] wandb.init() called when a run is still active
+2024-10-02 23:31:33,786 INFO    MainThread:43117 [wandb_init.py:init():662] wandb.init() called when a run is still active
+2024-10-02 23:31:35,287 WARNING MsgRouterThr:43117 [router.py:message_loop():77] message_loop has been closed
+2024-10-02 23:31:35,287 WARNING MsgRouterThr:43117 [router.py:message_loop():77] message_loop has been closed
+2024-10-02 23:31:35,287 WARNING MsgRouterThr:43117 [router.py:message_loop():77] message_loop has been closed
+2024-10-02 23:31:35,554 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_finish():2164] finishing run vishnuvarun-iiit-hyderabad/mlp-wine-quality/26mt1alr
+2024-10-02 23:31:35,554 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_finish():2164] finishing run vishnuvarun-iiit-hyderabad/mlp-wine-quality/26mt1alr
+2024-10-02 23:31:35,554 INFO    Thread-5 (_run_job):43117 [wandb_run.py:_finish():2164] finishing run vishnuvarun-iiit-hyderabad/mlp-wine-quality/26mt1alr

@@ -1,0 +1,42 @@
+       fixed acidity  volatile acidity  citric acid  residual sugar  ...    sulphates      alcohol      quality           Id
+count    1143.000000       1143.000000  1143.000000     1143.000000  ...  1143.000000  1143.000000  1143.000000  1143.000000
+mean        8.311111          0.531339     0.268364        2.532152  ...     0.657708    10.442111     5.657043   804.969379
+std         1.747595          0.179633     0.196686        1.355917  ...     0.170399     1.082196     0.805824   463.997116
+min         4.600000          0.120000     0.000000        0.900000  ...     0.330000     8.400000     3.000000     0.000000
+25%         7.100000          0.392500     0.090000        1.900000  ...     0.550000     9.500000     5.000000   411.000000
+50%         7.900000          0.520000     0.250000        2.200000  ...     0.620000    10.200000     6.000000   794.000000
+75%         9.100000          0.640000     0.420000        2.600000  ...     0.730000    11.100000     6.000000  1209.500000
+max        15.900000          1.580000     1.000000       15.500000  ...     2.000000    14.900000     8.000000  1597.000000
+
+[8 rows x 13 columns]
+Traceback (most recent call last):
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 461, in <module>
+    mlp.fit(x, y, optimizer='sgd')
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 369, in fit
+    self.sgd(x, y)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 283, in sgd
+    dW, db = self.backward_propagation(x_sample, y_sample)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 243, in backward_propagation
+    gradients[-1] = a_values[-1] - y
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/lib/python3.10/site-packages/pandas/core/generic.py", line 2171, in __array_ufunc__
+    return arraylike.array_ufunc(self, ufunc, method, *inputs, **kwargs)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 276, in array_ufunc
+    result = maybe_dispatch_ufunc_to_dunder_op(self, ufunc, method, *inputs, **kwargs)
+  File "ops_dispatch.pyx", line 113, in pandas._libs.ops_dispatch.maybe_dispatch_ufunc_to_dunder_op
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 198, in __rsub__
+    return self._arith_method(other, roperator.rsub)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/lib/python3.10/site-packages/pandas/core/series.py", line 6135, in _arith_method
+    return base.IndexOpsMixin._arith_method(self, other, op)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/lib/python3.10/site-packages/pandas/core/base.py", line 1384, in _arith_method
+    return self._construct_result(result, name=res_name)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/lib/python3.10/site-packages/pandas/core/series.py", line 6231, in _construct_result
+    out = self._constructor(result, index=self.index, dtype=dtype, copy=False)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/lib/python3.10/site-packages/pandas/core/series.py", line 584, in __init__
+    data = sanitize_array(data, index, dtype, copy)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/lib/python3.10/site-packages/pandas/core/construction.py", line 659, in sanitize_array
+    subarr = _sanitize_ndim(subarr, data, dtype, index, allow_2d=allow_2d)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/lib/python3.10/site-packages/pandas/core/construction.py", line 718, in _sanitize_ndim
+    raise ValueError(
+ValueError: Data must be 1-dimensional, got ndarray of shape (1, 6) instead

@@ -1,0 +1,240 @@
+Degree 1 (No Regularization):
+Train MSE: 0.2008
+Test MSE: 0.2606
+
+Degree 2 (No Regularization):
+Train MSE: 0.0428
+Test MSE: 0.0623
+
+Degree 3 (No Regularization):
+Train MSE: 0.1634
+Test MSE: 0.2246
+
+Degree 4 (No Regularization):
+Train MSE: 0.0388
+Test MSE: 0.0551
+
+Degree 5 (No Regularization):
+Train MSE: 0.1379
+Test MSE: 0.1915
+
+Degree 6 (No Regularization):
+Train MSE: 0.0535
+Test MSE: 0.0705
+
+Degree 7 (No Regularization):
+Train MSE: 0.1233
+Test MSE: 0.1688
+
+Degree 8 (No Regularization):
+Train MSE: 0.0693
+Test MSE: 0.0862
+
+Degree 9 (No Regularization):
+Train MSE: 0.1165
+Test MSE: 0.1546
+
+Degree 10 (No Regularization):
+Train MSE: 0.0837
+Test MSE: 0.0998
+
+Degree 11 (No Regularization):
+Train MSE: 0.1155
+Test MSE: 0.1473
+
+Degree 12 (No Regularization):
+Train MSE: 0.0967
+Test MSE: 0.1123
+
+Degree 13 (No Regularization):
+Train MSE: 0.1181
+Test MSE: 0.1455
+
+Degree 14 (No Regularization):
+Train MSE: 0.1081
+Test MSE: 0.1245
+
+Degree 15 (No Regularization):
+Train MSE: 0.1227
+Test MSE: 0.1483
+
+Degree 16 (No Regularization):
+Train MSE: 0.1178
+Test MSE: 0.1371
+
+Degree 17 (No Regularization):
+Train MSE: 0.1279
+Test MSE: 0.1545
+
+Degree 18 (No Regularization):
+Train MSE: 0.1258
+Test MSE: 0.1497
+
+Degree 19 (No Regularization):
+Train MSE: 0.1330
+Test MSE: 0.1628
+
+Degree 20 (No Regularization):
+Train MSE: 0.1326
+Test MSE: 0.1619
+
+Degree 1 (L1 Regularization):
+Train MSE: 0.2271
+Test MSE: 0.2685
+
+Degree 2 (L1 Regularization):
+Train MSE: 0.1369
+Test MSE: 0.1703
+
+Degree 3 (L1 Regularization):
+Train MSE: 0.2207
+Test MSE: 0.2631
+
+Degree 4 (L1 Regularization):
+Train MSE: 0.1359
+Test MSE: 0.1682
+
+Degree 5 (L1 Regularization):
+Train MSE: 0.2077
+Test MSE: 0.2505
+
+Degree 6 (L1 Regularization):
+Train MSE: 0.1437
+Test MSE: 0.1774
+
+Degree 7 (L1 Regularization):
+Train MSE: 0.1937
+Test MSE: 0.2364
+
+Degree 8 (L1 Regularization):
+Train MSE: 0.1473
+Test MSE: 0.1826
+
+Degree 9 (L1 Regularization):
+Train MSE: 0.1802
+Test MSE: 0.2229
+
+Degree 10 (L1 Regularization):
+Train MSE: 0.1472
+Test MSE: 0.1843
+
+Degree 11 (L1 Regularization):
+Train MSE: 0.1683
+Test MSE: 0.2114
+
+Degree 12 (L1 Regularization):
+Train MSE: 0.1457
+Test MSE: 0.1846
+
+Degree 13 (L1 Regularization):
+Train MSE: 0.1592
+Test MSE: 0.2031
+
+Degree 14 (L1 Regularization):
+Train MSE: 0.1444
+Test MSE: 0.1855
+
+Degree 15 (L1 Regularization):
+Train MSE: 0.1533
+Test MSE: 0.1984
+
+Degree 16 (L1 Regularization):
+Train MSE: 0.1443
+Test MSE: 0.1876
+
+Degree 17 (L1 Regularization):
+Train MSE: 0.1503
+Test MSE: 0.1970
+
+Degree 18 (L1 Regularization):
+Train MSE: 0.1452
+Test MSE: 0.1910
+
+Degree 19 (L1 Regularization):
+Train MSE: 0.1495
+Test MSE: 0.1980
+
+Degree 20 (L1 Regularization):
+Train MSE: 0.1467
+Test MSE: 0.1951
+
+Degree 1 (L2 Regularization):
+Train MSE: 0.2023
+Test MSE: 0.2578
+
+Degree 2 (L2 Regularization):
+Train MSE: 0.0818
+Test MSE: 0.1087
+
+Degree 3 (L2 Regularization):
+Train MSE: 0.1728
+Test MSE: 0.2276
+
+Degree 4 (L2 Regularization):
+Train MSE: 0.0783
+Test MSE: 0.1028
+
+Degree 5 (L2 Regularization):
+Train MSE: 0.1536
+Test MSE: 0.2031
+
+Degree 6 (L2 Regularization):
+Train MSE: 0.0877
+Test MSE: 0.1133
+
+Degree 7 (L2 Regularization):
+Train MSE: 0.1409
+Test MSE: 0.1858
+
+Degree 8 (L2 Regularization):
+Train MSE: 0.0965
+Test MSE: 0.1235
+
+Degree 9 (L2 Regularization):
+Train MSE: 0.1329
+Test MSE: 0.1743
+
+Degree 10 (L2 Regularization):
+Train MSE: 0.1037
+Test MSE: 0.1318
+
+Degree 11 (L2 Regularization):
+Train MSE: 0.1285
+Test MSE: 0.1674
+
+Degree 12 (L2 Regularization):
+Train MSE: 0.1102
+Test MSE: 0.1393
+
+Degree 13 (L2 Regularization):
+Train MSE: 0.1273
+Test MSE: 0.1645
+
+Degree 14 (L2 Regularization):
+Train MSE: 0.1164
+Test MSE: 0.1468
+
+Degree 15 (L2 Regularization):
+Train MSE: 0.1285
+Test MSE: 0.1650
+
+Degree 16 (L2 Regularization):
+Train MSE: 0.1226
+Test MSE: 0.1547
+
+Degree 17 (L2 Regularization):
+Train MSE: 0.1313
+Test MSE: 0.1682
+
+Degree 18 (L2 Regularization):
+Train MSE: 0.1285
+Test MSE: 0.1630
+
+Degree 19 (L2 Regularization):
+Train MSE: 0.1349
+Test MSE: 0.1733
+
+Degree 20 (L2 Regularization):
+Train MSE: 0.1340
+Test MSE: 0.1715
+

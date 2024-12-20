@@ -1,0 +1,1294 @@
+       fixed acidity  volatile acidity  citric acid  residual sugar  ...    sulphates      alcohol      quality           Id
+count    1143.000000       1143.000000  1143.000000     1143.000000  ...  1143.000000  1143.000000  1143.000000  1143.000000
+mean        8.311111          0.531339     0.268364        2.532152  ...     0.657708    10.442111     5.657043   804.969379
+std         1.747595          0.179633     0.196686        1.355917  ...     0.170399     1.082196     0.805824   463.997116
+min         4.600000          0.120000     0.000000        0.900000  ...     0.330000     8.400000     3.000000     0.000000
+25%         7.100000          0.392500     0.090000        1.900000  ...     0.550000     9.500000     5.000000   411.000000
+50%         7.900000          0.520000     0.250000        2.200000  ...     0.620000    10.200000     6.000000   794.000000
+75%         9.100000          0.640000     0.420000        2.600000  ...     0.730000    11.100000     6.000000  1209.500000
+max        15.900000          1.580000     1.000000       15.500000  ...     2.000000    14.900000     8.000000  1597.000000
+
+[8 rows x 13 columns]
+SGD Epoch 100/500 Loss: 1.1678
+SGD Epoch 200/500 Loss: 0.9349
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 300/500 Loss: 0.7954
+SGD Epoch 400/500 Loss: 0.9997
+SGD Epoch 500/500 Loss: 0.6520
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.6136
+Batch Epoch 200/500 Loss: 1.5562
+Batch Epoch 300/500 Loss: 1.5194
+Batch Epoch 400/500 Loss: 1.4851
+Batch Epoch 500/500 Loss: 1.4520
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.6135
+Mini_Batch Epoch 200/500 Loss: 1.5595
+Mini_Batch Epoch 300/500 Loss: 1.5198
+Mini_Batch Epoch 400/500 Loss: 1.4851
+Mini_Batch Epoch 500/500 Loss: 1.4511
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.5081
+SGD Epoch 200/500 Loss: 1.3226
+SGD Epoch 300/500 Loss: 1.1169
+SGD Epoch 400/500 Loss: 0.9010
+SGD Epoch 500/500 Loss: 0.7286
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.8032
+Batch Epoch 200/500 Loss: 1.6776
+Batch Epoch 300/500 Loss: 1.6605
+Batch Epoch 400/500 Loss: 1.6468
+Batch Epoch 500/500 Loss: 1.6344
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.7987
+Mini_Batch Epoch 200/500 Loss: 1.6772
+Mini_Batch Epoch 300/500 Loss: 1.6600
+Mini_Batch Epoch 400/500 Loss: 1.6466
+Mini_Batch Epoch 500/500 Loss: 1.6358
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.3363
+SGD Epoch 200/500 Loss: 1.0902
+SGD Epoch 300/500 Loss: 0.8285
+SGD Epoch 400/500 Loss: 0.7182
+SGD Epoch 500/500 Loss: 0.4364
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.6368
+Batch Epoch 200/500 Loss: 1.6024
+Batch Epoch 300/500 Loss: 1.5834
+Batch Epoch 400/500 Loss: 1.5688
+Batch Epoch 500/500 Loss: 1.5557
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.6403
+Mini_Batch Epoch 200/500 Loss: 1.6055
+Mini_Batch Epoch 300/500 Loss: 1.5876
+Mini_Batch Epoch 400/500 Loss: 1.5714
+Mini_Batch Epoch 500/500 Loss: 1.5561
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 0.9628
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 200/500 Loss: nan
+SGD Epoch 300/500 Loss: nan
+SGD Epoch 400/500 Loss: nan
+SGD Epoch 500/500 Loss: nan
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.6094
+Batch Epoch 200/500 Loss: 1.5573
+Batch Epoch 300/500 Loss: 1.5164
+Batch Epoch 400/500 Loss: 1.4770
+Batch Epoch 500/500 Loss: 1.4383
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.6080
+Mini_Batch Epoch 200/500 Loss: 1.5531
+Mini_Batch Epoch 300/500 Loss: 1.5141
+Mini_Batch Epoch 400/500 Loss: 1.4740
+Mini_Batch Epoch 500/500 Loss: 1.4294
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.5444
+SGD Epoch 200/500 Loss: 1.3950
+SGD Epoch 300/500 Loss: 1.0794
+SGD Epoch 400/500 Loss: 0.8375
+SGD Epoch 500/500 Loss: 0.6199
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.7633
+Batch Epoch 200/500 Loss: 1.6762
+Batch Epoch 300/500 Loss: 1.6591
+Batch Epoch 400/500 Loss: 1.6464
+Batch Epoch 500/500 Loss: 1.6364
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.7664
+Mini_Batch Epoch 200/500 Loss: 1.6746
+Mini_Batch Epoch 300/500 Loss: 1.6565
+Mini_Batch Epoch 400/500 Loss: 1.6435
+Mini_Batch Epoch 500/500 Loss: 1.6330
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.2927
+SGD Epoch 200/500 Loss: 1.1169
+SGD Epoch 300/500 Loss: 0.9120
+SGD Epoch 400/500 Loss: 0.6687
+SGD Epoch 500/500 Loss: 0.4769
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.6367
+Batch Epoch 200/500 Loss: 1.6082
+Batch Epoch 300/500 Loss: 1.5917
+Batch Epoch 400/500 Loss: 1.5752
+Batch Epoch 500/500 Loss: 1.5603
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.6370
+Mini_Batch Epoch 200/500 Loss: 1.6102
+Mini_Batch Epoch 300/500 Loss: 1.5961
+Mini_Batch Epoch 400/500 Loss: 1.5809
+Mini_Batch Epoch 500/500 Loss: 1.5662
+Mini_Batch Training complete!
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 100/500 Loss: 0.5097
+SGD Epoch 200/500 Loss: nan
+SGD Epoch 300/500 Loss: nan
+SGD Epoch 400/500 Loss: nan
+SGD Epoch 500/500 Loss: nan
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.9421
+Batch Epoch 200/500 Loss: 1.6377
+Batch Epoch 300/500 Loss: 1.5545
+Batch Epoch 400/500 Loss: 1.5061
+Batch Epoch 500/500 Loss: 1.4662
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.9512
+Mini_Batch Epoch 200/500 Loss: 1.6387
+Mini_Batch Epoch 300/500 Loss: 1.5616
+Mini_Batch Epoch 400/500 Loss: 1.5085
+Mini_Batch Epoch 500/500 Loss: 1.4638
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.6474
+SGD Epoch 200/500 Loss: 1.5689
+SGD Epoch 300/500 Loss: 1.5133
+SGD Epoch 400/500 Loss: 1.3275
+SGD Epoch 500/500 Loss: 1.0477
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.9718
+Batch Epoch 200/500 Loss: 1.9717
+Batch Epoch 300/500 Loss: 1.9716
+Batch Epoch 400/500 Loss: 1.9714
+Batch Epoch 500/500 Loss: 1.9712
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.9702
+Mini_Batch Epoch 200/500 Loss: 1.9700
+Mini_Batch Epoch 300/500 Loss: 1.9698
+Mini_Batch Epoch 400/500 Loss: 1.9696
+Mini_Batch Epoch 500/500 Loss: 1.9694
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.3625
+SGD Epoch 200/500 Loss: 0.9533
+SGD Epoch 300/500 Loss: 0.5882
+SGD Epoch 400/500 Loss: 0.5413
+SGD Epoch 500/500 Loss: 0.3252
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.6913
+Batch Epoch 200/500 Loss: 1.6536
+Batch Epoch 300/500 Loss: 1.6230
+Batch Epoch 400/500 Loss: 1.5881
+Batch Epoch 500/500 Loss: 1.5702
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.6933
+Mini_Batch Epoch 200/500 Loss: 1.6537
+Mini_Batch Epoch 300/500 Loss: 1.6252
+Mini_Batch Epoch 400/500 Loss: 1.5884
+Mini_Batch Epoch 500/500 Loss: 1.5711
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 0.2250
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 200/500 Loss: nan
+SGD Epoch 300/500 Loss: nan
+SGD Epoch 400/500 Loss: nan
+SGD Epoch 500/500 Loss: nan
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.8352
+Batch Epoch 200/500 Loss: 1.6083
+Batch Epoch 300/500 Loss: 1.5308
+Batch Epoch 400/500 Loss: 1.4838
+Batch Epoch 500/500 Loss: 1.4362
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.7535
+Mini_Batch Epoch 200/500 Loss: 1.6023
+Mini_Batch Epoch 300/500 Loss: 1.5262
+Mini_Batch Epoch 400/500 Loss: 1.4818
+Mini_Batch Epoch 500/500 Loss: 1.4331
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.6365
+SGD Epoch 200/500 Loss: 1.5864
+SGD Epoch 300/500 Loss: 1.5871
+SGD Epoch 400/500 Loss: 1.4534
+SGD Epoch 500/500 Loss: 1.2759
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.9739
+Batch Epoch 200/500 Loss: 1.9738
+Batch Epoch 300/500 Loss: 1.9736
+Batch Epoch 400/500 Loss: 1.9735
+Batch Epoch 500/500 Loss: 1.9733
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.9704
+Mini_Batch Epoch 200/500 Loss: 1.9718
+Mini_Batch Epoch 300/500 Loss: 1.9701
+Mini_Batch Epoch 400/500 Loss: 1.9702
+Mini_Batch Epoch 500/500 Loss: 1.9701
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.3775
+SGD Epoch 200/500 Loss: 0.9868
+SGD Epoch 300/500 Loss: 0.5821
+SGD Epoch 400/500 Loss: 0.6365
+SGD Epoch 500/500 Loss: 0.4499
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.6730
+Batch Epoch 200/500 Loss: 1.6482
+Batch Epoch 300/500 Loss: 1.6070
+Batch Epoch 400/500 Loss: 1.5797
+Batch Epoch 500/500 Loss: 1.5697
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.6716
+Mini_Batch Epoch 200/500 Loss: 1.6486
+Mini_Batch Epoch 300/500 Loss: 1.6094
+Mini_Batch Epoch 400/500 Loss: 1.5799
+Mini_Batch Epoch 500/500 Loss: 1.5700
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.1230
+SGD Epoch 200/1000 Loss: 0.8528
+SGD Epoch 300/1000 Loss: 0.8942
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 400/1000 Loss: nan
+SGD Epoch 500/1000 Loss: nan
+SGD Epoch 600/1000 Loss: nan
+SGD Epoch 700/1000 Loss: nan
+SGD Epoch 800/1000 Loss: nan
+SGD Epoch 900/1000 Loss: nan
+SGD Epoch 1000/1000 Loss: nan
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.6137
+Batch Epoch 200/1000 Loss: 1.5612
+Batch Epoch 300/1000 Loss: 1.5217
+Batch Epoch 400/1000 Loss: 1.4811
+Batch Epoch 500/1000 Loss: 1.4427
+Batch Epoch 600/1000 Loss: 1.4065
+Batch Epoch 700/1000 Loss: 1.3731
+Batch Epoch 800/1000 Loss: 1.3413
+Batch Epoch 900/1000 Loss: 1.3109
+Batch Epoch 1000/1000 Loss: 1.2823
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.6160
+Mini_Batch Epoch 200/1000 Loss: 1.5608
+Mini_Batch Epoch 300/1000 Loss: 1.5206
+Mini_Batch Epoch 400/1000 Loss: 1.4803
+Mini_Batch Epoch 500/1000 Loss: 1.4397
+Mini_Batch Epoch 600/1000 Loss: 1.4028
+Mini_Batch Epoch 700/1000 Loss: 1.3652
+Mini_Batch Epoch 800/1000 Loss: 1.3291
+Mini_Batch Epoch 900/1000 Loss: 1.2922
+Mini_Batch Epoch 1000/1000 Loss: 1.2560
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.5130
+SGD Epoch 200/1000 Loss: 1.2993
+SGD Epoch 300/1000 Loss: 1.0919
+SGD Epoch 400/1000 Loss: 0.8435
+SGD Epoch 500/1000 Loss: 0.6355
+SGD Epoch 600/1000 Loss: 0.4781
+SGD Epoch 700/1000 Loss: 0.3426
+SGD Epoch 800/1000 Loss: 0.2573
+SGD Epoch 900/1000 Loss: 0.1936
+SGD Epoch 1000/1000 Loss: 0.1547
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.8146
+Batch Epoch 200/1000 Loss: 1.6777
+Batch Epoch 300/1000 Loss: 1.6593
+Batch Epoch 400/1000 Loss: 1.6456
+Batch Epoch 500/1000 Loss: 1.6342
+Batch Epoch 600/1000 Loss: 1.6245
+Batch Epoch 700/1000 Loss: 1.6160
+Batch Epoch 800/1000 Loss: 1.6085
+Batch Epoch 900/1000 Loss: 1.6016
+Batch Epoch 1000/1000 Loss: 1.5952
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.8146
+Mini_Batch Epoch 200/1000 Loss: 1.6774
+Mini_Batch Epoch 300/1000 Loss: 1.6590
+Mini_Batch Epoch 400/1000 Loss: 1.6453
+Mini_Batch Epoch 500/1000 Loss: 1.6338
+Mini_Batch Epoch 600/1000 Loss: 1.6242
+Mini_Batch Epoch 700/1000 Loss: 1.6161
+Mini_Batch Epoch 800/1000 Loss: 1.6089
+Mini_Batch Epoch 900/1000 Loss: 1.6027
+Mini_Batch Epoch 1000/1000 Loss: 1.5967
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.3087
+SGD Epoch 200/1000 Loss: 0.9971
+SGD Epoch 300/1000 Loss: 0.7262
+SGD Epoch 400/1000 Loss: 0.5250
+SGD Epoch 500/1000 Loss: 0.3734
+SGD Epoch 600/1000 Loss: 0.3001
+SGD Epoch 700/1000 Loss: 0.2414
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 800/1000 Loss: 0.1873
+SGD Epoch 900/1000 Loss: nan
+SGD Epoch 1000/1000 Loss: nan
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.6401
+Batch Epoch 200/1000 Loss: 1.6039
+Batch Epoch 300/1000 Loss: 1.5836
+Batch Epoch 400/1000 Loss: 1.5676
+Batch Epoch 500/1000 Loss: 1.5537
+Batch Epoch 600/1000 Loss: 1.5378
+Batch Epoch 700/1000 Loss: 1.5162
+Batch Epoch 800/1000 Loss: 1.4900
+Batch Epoch 900/1000 Loss: 1.4629
+Batch Epoch 1000/1000 Loss: 1.4363
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.6388
+Mini_Batch Epoch 200/1000 Loss: 1.6024
+Mini_Batch Epoch 300/1000 Loss: 1.5811
+Mini_Batch Epoch 400/1000 Loss: 1.5638
+Mini_Batch Epoch 500/1000 Loss: 1.5480
+Mini_Batch Epoch 600/1000 Loss: 1.5307
+Mini_Batch Epoch 700/1000 Loss: 1.5092
+Mini_Batch Epoch 800/1000 Loss: 1.4838
+Mini_Batch Epoch 900/1000 Loss: 1.4572
+Mini_Batch Epoch 1000/1000 Loss: 1.4316
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 0.9571
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 200/1000 Loss: 0.8380
+SGD Epoch 300/1000 Loss: nan
+SGD Epoch 400/1000 Loss: nan
+SGD Epoch 500/1000 Loss: nan
+SGD Epoch 600/1000 Loss: nan
+SGD Epoch 700/1000 Loss: nan
+SGD Epoch 800/1000 Loss: nan
+SGD Epoch 900/1000 Loss: nan
+SGD Epoch 1000/1000 Loss: nan
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.6086
+Batch Epoch 200/1000 Loss: 1.5535
+Batch Epoch 300/1000 Loss: 1.5141
+Batch Epoch 400/1000 Loss: 1.4740
+Batch Epoch 500/1000 Loss: 1.4332
+Batch Epoch 600/1000 Loss: 1.3938
+Batch Epoch 700/1000 Loss: 1.3553
+Batch Epoch 800/1000 Loss: 1.3166
+Batch Epoch 900/1000 Loss: 1.2762
+Batch Epoch 1000/1000 Loss: 1.2347
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.6073
+Mini_Batch Epoch 200/1000 Loss: 1.5559
+Mini_Batch Epoch 300/1000 Loss: 1.5156
+Mini_Batch Epoch 400/1000 Loss: 1.4769
+Mini_Batch Epoch 500/1000 Loss: 1.4401
+Mini_Batch Epoch 600/1000 Loss: 1.3996
+Mini_Batch Epoch 700/1000 Loss: 1.3576
+Mini_Batch Epoch 800/1000 Loss: 1.3160
+Mini_Batch Epoch 900/1000 Loss: 1.2758
+Mini_Batch Epoch 1000/1000 Loss: 1.2294
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.5579
+SGD Epoch 200/1000 Loss: 1.3570
+SGD Epoch 300/1000 Loss: 1.1540
+SGD Epoch 400/1000 Loss: 0.9015
+SGD Epoch 500/1000 Loss: 0.6829
+SGD Epoch 600/1000 Loss: 0.5153
+SGD Epoch 700/1000 Loss: 0.3918
+SGD Epoch 800/1000 Loss: 0.2860
+SGD Epoch 900/1000 Loss: 0.2121
+SGD Epoch 1000/1000 Loss: 0.1705
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.7710
+Batch Epoch 200/1000 Loss: 1.6752
+Batch Epoch 300/1000 Loss: 1.6573
+Batch Epoch 400/1000 Loss: 1.6443
+Batch Epoch 500/1000 Loss: 1.6338
+Batch Epoch 600/1000 Loss: 1.6251
+Batch Epoch 700/1000 Loss: 1.6175
+Batch Epoch 800/1000 Loss: 1.6105
+Batch Epoch 900/1000 Loss: 1.6040
+Batch Epoch 1000/1000 Loss: 1.5979
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.7607
+Mini_Batch Epoch 200/1000 Loss: 1.6747
+Mini_Batch Epoch 300/1000 Loss: 1.6576
+Mini_Batch Epoch 400/1000 Loss: 1.6453
+Mini_Batch Epoch 500/1000 Loss: 1.6356
+Mini_Batch Epoch 600/1000 Loss: 1.6266
+Mini_Batch Epoch 700/1000 Loss: 1.6197
+Mini_Batch Epoch 800/1000 Loss: 1.6134
+Mini_Batch Epoch 900/1000 Loss: 1.6084
+Mini_Batch Epoch 1000/1000 Loss: 1.6029
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.3039
+SGD Epoch 200/1000 Loss: 0.9989
+SGD Epoch 300/1000 Loss: 0.8124
+SGD Epoch 400/1000 Loss: 0.5887
+SGD Epoch 500/1000 Loss: 0.5103
+SGD Epoch 600/1000 Loss: 0.3662
+SGD Epoch 700/1000 Loss: 0.2378
+SGD Epoch 800/1000 Loss: 0.1410
+SGD Epoch 900/1000 Loss: 0.0933
+SGD Epoch 1000/1000 Loss: 0.0580
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.6382
+Batch Epoch 200/1000 Loss: 1.6105
+Batch Epoch 300/1000 Loss: 1.5957
+Batch Epoch 400/1000 Loss: 1.5803
+Batch Epoch 500/1000 Loss: 1.5660
+Batch Epoch 600/1000 Loss: 1.5516
+Batch Epoch 700/1000 Loss: 1.5339
+Batch Epoch 800/1000 Loss: 1.5135
+Batch Epoch 900/1000 Loss: 1.4918
+Batch Epoch 1000/1000 Loss: 1.4686
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.6354
+Mini_Batch Epoch 200/1000 Loss: 1.6052
+Mini_Batch Epoch 300/1000 Loss: 1.5872
+Mini_Batch Epoch 400/1000 Loss: 1.5718
+Mini_Batch Epoch 500/1000 Loss: 1.5592
+Mini_Batch Epoch 600/1000 Loss: 1.5468
+Mini_Batch Epoch 700/1000 Loss: 1.5318
+Mini_Batch Epoch 800/1000 Loss: 1.5129
+Mini_Batch Epoch 900/1000 Loss: 1.4905
+Mini_Batch Epoch 1000/1000 Loss: 1.4663
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 0.6129
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 200/1000 Loss: nan
+SGD Epoch 300/1000 Loss: nan
+SGD Epoch 400/1000 Loss: nan
+SGD Epoch 500/1000 Loss: nan
+SGD Epoch 600/1000 Loss: nan
+SGD Epoch 700/1000 Loss: nan
+SGD Epoch 800/1000 Loss: nan
+SGD Epoch 900/1000 Loss: nan
+SGD Epoch 1000/1000 Loss: nan
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.9480
+Batch Epoch 200/1000 Loss: 1.6368
+Batch Epoch 300/1000 Loss: 1.5565
+Batch Epoch 400/1000 Loss: 1.5021
+Batch Epoch 500/1000 Loss: 1.4530
+Batch Epoch 600/1000 Loss: 1.3973
+Batch Epoch 700/1000 Loss: 1.3312
+Batch Epoch 800/1000 Loss: 1.2540
+Batch Epoch 900/1000 Loss: 1.1674
+Batch Epoch 1000/1000 Loss: 1.0697
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.9435
+Mini_Batch Epoch 200/1000 Loss: 1.6277
+Mini_Batch Epoch 300/1000 Loss: 1.5492
+Mini_Batch Epoch 400/1000 Loss: 1.5030
+Mini_Batch Epoch 500/1000 Loss: 1.4615
+Mini_Batch Epoch 600/1000 Loss: 1.4106
+Mini_Batch Epoch 700/1000 Loss: 1.3404
+Mini_Batch Epoch 800/1000 Loss: 1.2494
+Mini_Batch Epoch 900/1000 Loss: 1.1366
+Mini_Batch Epoch 1000/1000 Loss: 1.0119
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.6343
+SGD Epoch 200/1000 Loss: 1.5891
+SGD Epoch 300/1000 Loss: 1.5396
+SGD Epoch 400/1000 Loss: 1.3625
+SGD Epoch 500/1000 Loss: 1.0824
+SGD Epoch 600/1000 Loss: 0.6971
+SGD Epoch 700/1000 Loss: 0.3853
+SGD Epoch 800/1000 Loss: 0.1581
+SGD Epoch 900/1000 Loss: 0.0852
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 1000/1000 Loss: nan
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.9718
+Batch Epoch 200/1000 Loss: 1.9717
+Batch Epoch 300/1000 Loss: 1.9716
+Batch Epoch 400/1000 Loss: 1.9715
+Batch Epoch 500/1000 Loss: 1.9713
+Batch Epoch 600/1000 Loss: 1.9711
+Batch Epoch 700/1000 Loss: 1.9705
+Batch Epoch 800/1000 Loss: 1.9692
+Batch Epoch 900/1000 Loss: 1.9641
+Batch Epoch 1000/1000 Loss: 1.9323
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.9699
+Mini_Batch Epoch 200/1000 Loss: 1.9701
+Mini_Batch Epoch 300/1000 Loss: 1.9697
+Mini_Batch Epoch 400/1000 Loss: 1.9696
+Mini_Batch Epoch 500/1000 Loss: 1.9693
+Mini_Batch Epoch 600/1000 Loss: 1.9696
+Mini_Batch Epoch 700/1000 Loss: 1.9683
+Mini_Batch Epoch 800/1000 Loss: 1.9666
+Mini_Batch Epoch 900/1000 Loss: 1.9616
+Mini_Batch Epoch 1000/1000 Loss: 1.9327
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.3359
+SGD Epoch 200/1000 Loss: 0.9759
+SGD Epoch 300/1000 Loss: 0.4903
+SGD Epoch 400/1000 Loss: 0.5418
+SGD Epoch 500/1000 Loss: 0.2442
+SGD Epoch 600/1000 Loss: 0.1731
+SGD Epoch 700/1000 Loss: 0.3083
+SGD Epoch 800/1000 Loss: 0.3297
+SGD Epoch 900/1000 Loss: 0.0459
+SGD Epoch 1000/1000 Loss: 0.2544
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.6988
+Batch Epoch 200/1000 Loss: 1.6466
+Batch Epoch 300/1000 Loss: 1.6077
+Batch Epoch 400/1000 Loss: 1.5794
+Batch Epoch 500/1000 Loss: 1.5673
+Batch Epoch 600/1000 Loss: 1.5571
+Batch Epoch 700/1000 Loss: 1.5452
+Batch Epoch 800/1000 Loss: 1.5292
+Batch Epoch 900/1000 Loss: 1.5045
+Batch Epoch 1000/1000 Loss: 1.4713
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.6871
+Mini_Batch Epoch 200/1000 Loss: 1.6537
+Mini_Batch Epoch 300/1000 Loss: 1.6270
+Mini_Batch Epoch 400/1000 Loss: 1.5905
+Mini_Batch Epoch 500/1000 Loss: 1.5709
+Mini_Batch Epoch 600/1000 Loss: 1.5595
+Mini_Batch Epoch 700/1000 Loss: 1.5482
+Mini_Batch Epoch 800/1000 Loss: 1.5341
+Mini_Batch Epoch 900/1000 Loss: 1.5076
+Mini_Batch Epoch 1000/1000 Loss: 1.4665
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 0.2298
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 200/1000 Loss: nan
+SGD Epoch 300/1000 Loss: nan
+SGD Epoch 400/1000 Loss: nan
+SGD Epoch 500/1000 Loss: nan
+SGD Epoch 600/1000 Loss: nan
+SGD Epoch 700/1000 Loss: nan
+SGD Epoch 800/1000 Loss: nan
+SGD Epoch 900/1000 Loss: nan
+SGD Epoch 1000/1000 Loss: nan
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.7771
+Batch Epoch 200/1000 Loss: 1.5984
+Batch Epoch 300/1000 Loss: 1.5235
+Batch Epoch 400/1000 Loss: 1.4752
+Batch Epoch 500/1000 Loss: 1.4199
+Batch Epoch 600/1000 Loss: 1.3487
+Batch Epoch 700/1000 Loss: 1.2434
+Batch Epoch 800/1000 Loss: 1.1092
+Batch Epoch 900/1000 Loss: 0.9617
+Batch Epoch 1000/1000 Loss: 0.8189
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.7684
+Mini_Batch Epoch 200/1000 Loss: 1.6017
+Mini_Batch Epoch 300/1000 Loss: 1.5217
+Mini_Batch Epoch 400/1000 Loss: 1.4755
+Mini_Batch Epoch 500/1000 Loss: 1.4256
+Mini_Batch Epoch 600/1000 Loss: 1.3529
+Mini_Batch Epoch 700/1000 Loss: 1.2540
+Mini_Batch Epoch 800/1000 Loss: 1.1064
+Mini_Batch Epoch 900/1000 Loss: 0.9399
+Mini_Batch Epoch 1000/1000 Loss: 0.8082
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.6284
+SGD Epoch 200/1000 Loss: 1.5832
+SGD Epoch 300/1000 Loss: 1.5435
+SGD Epoch 400/1000 Loss: 1.4586
+SGD Epoch 500/1000 Loss: 1.3446
+SGD Epoch 600/1000 Loss: 1.1235
+SGD Epoch 700/1000 Loss: 0.6630
+SGD Epoch 800/1000 Loss: 0.3230
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 900/1000 Loss: nan
+SGD Epoch 1000/1000 Loss: nan
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.9739
+Batch Epoch 200/1000 Loss: 1.9738
+Batch Epoch 300/1000 Loss: 1.9736
+Batch Epoch 400/1000 Loss: 1.9734
+Batch Epoch 500/1000 Loss: 1.9732
+Batch Epoch 600/1000 Loss: 1.9729
+Batch Epoch 700/1000 Loss: 1.9725
+Batch Epoch 800/1000 Loss: 1.9715
+Batch Epoch 900/1000 Loss: 1.9686
+Batch Epoch 1000/1000 Loss: 1.9504
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.9721
+Mini_Batch Epoch 200/1000 Loss: 1.9701
+Mini_Batch Epoch 300/1000 Loss: 1.9701
+Mini_Batch Epoch 400/1000 Loss: 1.9700
+Mini_Batch Epoch 500/1000 Loss: 1.9701
+Mini_Batch Epoch 600/1000 Loss: 1.9698
+Mini_Batch Epoch 700/1000 Loss: 1.9695
+Mini_Batch Epoch 800/1000 Loss: 1.9670
+Mini_Batch Epoch 900/1000 Loss: 1.9469
+Mini_Batch Epoch 1000/1000 Loss: 1.7477
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.3308
+SGD Epoch 200/1000 Loss: 0.9235
+SGD Epoch 300/1000 Loss: 0.6160
+SGD Epoch 400/1000 Loss: 0.3647
+SGD Epoch 500/1000 Loss: 0.4290
+SGD Epoch 600/1000 Loss: 0.2662
+SGD Epoch 700/1000 Loss: 0.2707
+SGD Epoch 800/1000 Loss: 0.1281
+SGD Epoch 900/1000 Loss: 0.0124
+SGD Epoch 1000/1000 Loss: 0.0071
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.6714
+Batch Epoch 200/1000 Loss: 1.6463
+Batch Epoch 300/1000 Loss: 1.6040
+Batch Epoch 400/1000 Loss: 1.5782
+Batch Epoch 500/1000 Loss: 1.5694
+Batch Epoch 600/1000 Loss: 1.5618
+Batch Epoch 700/1000 Loss: 1.5532
+Batch Epoch 800/1000 Loss: 1.5416
+Batch Epoch 900/1000 Loss: 1.5227
+Batch Epoch 1000/1000 Loss: 1.4909
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.6711
+Mini_Batch Epoch 200/1000 Loss: 1.6465
+Mini_Batch Epoch 300/1000 Loss: 1.6039
+Mini_Batch Epoch 400/1000 Loss: 1.5783
+Mini_Batch Epoch 500/1000 Loss: 1.5692
+Mini_Batch Epoch 600/1000 Loss: 1.5618
+Mini_Batch Epoch 700/1000 Loss: 1.5529
+Mini_Batch Epoch 800/1000 Loss: 1.5403
+Mini_Batch Epoch 900/1000 Loss: 1.5199
+Mini_Batch Epoch 1000/1000 Loss: 1.4884
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.5210
+SGD Epoch 200/500 Loss: 1.4107
+SGD Epoch 300/500 Loss: 1.2970
+SGD Epoch 400/500 Loss: 1.1841
+SGD Epoch 500/500 Loss: 1.0621
+SGD Training complete!
+Batch Epoch 100/500 Loss: 2.6071
+Batch Epoch 200/500 Loss: 2.0543
+Batch Epoch 300/500 Loss: 1.7942
+Batch Epoch 400/500 Loss: 1.7095
+Batch Epoch 500/500 Loss: 1.6757
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 2.5979
+Mini_Batch Epoch 200/500 Loss: 2.0621
+Mini_Batch Epoch 300/500 Loss: 1.8041
+Mini_Batch Epoch 400/500 Loss: 1.7103
+Mini_Batch Epoch 500/500 Loss: 1.6757
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.6590
+SGD Epoch 200/500 Loss: 1.6222
+SGD Epoch 300/500 Loss: 1.6003
+SGD Epoch 400/500 Loss: 1.5825
+SGD Epoch 500/500 Loss: 1.5700
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.9791
+Batch Epoch 200/500 Loss: 1.9682
+Batch Epoch 300/500 Loss: 1.9635
+Batch Epoch 400/500 Loss: 1.9584
+Batch Epoch 500/500 Loss: 1.9506
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.9794
+Mini_Batch Epoch 200/500 Loss: 1.9686
+Mini_Batch Epoch 300/500 Loss: 1.9642
+Mini_Batch Epoch 400/500 Loss: 1.9596
+Mini_Batch Epoch 500/500 Loss: 1.9529
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.5826
+SGD Epoch 200/500 Loss: 1.5336
+SGD Epoch 300/500 Loss: 1.4524
+SGD Epoch 400/500 Loss: 1.3733
+SGD Epoch 500/500 Loss: 1.3019
+SGD Training complete!
+Batch Epoch 100/500 Loss: 2.6061
+Batch Epoch 200/500 Loss: 2.0161
+Batch Epoch 300/500 Loss: 1.7815
+Batch Epoch 400/500 Loss: 1.7124
+Batch Epoch 500/500 Loss: 1.6848
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 2.6264
+Mini_Batch Epoch 200/500 Loss: 2.0658
+Mini_Batch Epoch 300/500 Loss: 1.8012
+Mini_Batch Epoch 400/500 Loss: 1.7208
+Mini_Batch Epoch 500/500 Loss: 1.6894
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.5098
+SGD Epoch 200/500 Loss: 1.3856
+SGD Epoch 300/500 Loss: 1.2491
+SGD Epoch 400/500 Loss: 1.1215
+SGD Epoch 500/500 Loss: 0.9709
+SGD Training complete!
+Batch Epoch 100/500 Loss: 2.5129
+Batch Epoch 200/500 Loss: 1.9473
+Batch Epoch 300/500 Loss: 1.7571
+Batch Epoch 400/500 Loss: 1.6955
+Batch Epoch 500/500 Loss: 1.6679
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 2.5273
+Mini_Batch Epoch 200/500 Loss: 1.9607
+Mini_Batch Epoch 300/500 Loss: 1.7582
+Mini_Batch Epoch 400/500 Loss: 1.6941
+Mini_Batch Epoch 500/500 Loss: 1.6665
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.6647
+SGD Epoch 200/500 Loss: 1.6423
+SGD Epoch 300/500 Loss: 1.6045
+SGD Epoch 400/500 Loss: 1.5855
+SGD Epoch 500/500 Loss: 1.5741
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.9707
+Batch Epoch 200/500 Loss: 1.9661
+Batch Epoch 300/500 Loss: 1.9620
+Batch Epoch 400/500 Loss: 1.9555
+Batch Epoch 500/500 Loss: 1.9439
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.9707
+Mini_Batch Epoch 200/500 Loss: 1.9662
+Mini_Batch Epoch 300/500 Loss: 1.9624
+Mini_Batch Epoch 400/500 Loss: 1.9564
+Mini_Batch Epoch 500/500 Loss: 1.9459
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.5926
+SGD Epoch 200/500 Loss: 1.5464
+SGD Epoch 300/500 Loss: 1.4922
+SGD Epoch 400/500 Loss: 1.4214
+SGD Epoch 500/500 Loss: 1.3522
+SGD Training complete!
+Batch Epoch 100/500 Loss: 2.5380
+Batch Epoch 200/500 Loss: 1.9203
+Batch Epoch 300/500 Loss: 1.7442
+Batch Epoch 400/500 Loss: 1.6961
+Batch Epoch 500/500 Loss: 1.6759
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 2.5340
+Mini_Batch Epoch 200/500 Loss: 1.9241
+Mini_Batch Epoch 300/500 Loss: 1.7468
+Mini_Batch Epoch 400/500 Loss: 1.6979
+Mini_Batch Epoch 500/500 Loss: 1.6776
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.5549
+SGD Epoch 200/500 Loss: 1.4025
+SGD Epoch 300/500 Loss: 1.1367
+SGD Epoch 400/500 Loss: 0.8190
+SGD Epoch 500/500 Loss: 0.6287
+SGD Training complete!
+Batch Epoch 100/500 Loss: 2.6597
+Batch Epoch 200/500 Loss: 2.2433
+Batch Epoch 300/500 Loss: 2.0721
+Batch Epoch 400/500 Loss: 2.0099
+Batch Epoch 500/500 Loss: 1.9871
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 2.6532
+Mini_Batch Epoch 200/500 Loss: 2.2216
+Mini_Batch Epoch 300/500 Loss: 2.0552
+Mini_Batch Epoch 400/500 Loss: 2.0012
+Mini_Batch Epoch 500/500 Loss: 1.9820
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.9727
+SGD Epoch 200/500 Loss: 1.9778
+SGD Epoch 300/500 Loss: 1.9690
+SGD Epoch 400/500 Loss: 1.6795
+SGD Epoch 500/500 Loss: 1.6665
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.9780
+Batch Epoch 200/500 Loss: 1.9715
+Batch Epoch 300/500 Loss: 1.9705
+Batch Epoch 400/500 Loss: 1.9702
+Batch Epoch 500/500 Loss: 1.9701
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.9779
+Mini_Batch Epoch 200/500 Loss: 1.9714
+Mini_Batch Epoch 300/500 Loss: 1.9704
+Mini_Batch Epoch 400/500 Loss: 1.9701
+Mini_Batch Epoch 500/500 Loss: 1.9700
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.6154
+SGD Epoch 200/500 Loss: 1.5635
+SGD Epoch 300/500 Loss: 1.5109
+SGD Epoch 400/500 Loss: 1.4271
+SGD Epoch 500/500 Loss: 1.2977
+SGD Training complete!
+Batch Epoch 100/500 Loss: 2.6275
+Batch Epoch 200/500 Loss: 2.1692
+Batch Epoch 300/500 Loss: 2.0292
+Batch Epoch 400/500 Loss: 1.9891
+Batch Epoch 500/500 Loss: 1.9706
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 2.6281
+Mini_Batch Epoch 200/500 Loss: 2.1696
+Mini_Batch Epoch 300/500 Loss: 2.0291
+Mini_Batch Epoch 400/500 Loss: 1.9889
+Mini_Batch Epoch 500/500 Loss: 1.9706
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.5209
+SGD Epoch 200/500 Loss: 1.3293
+SGD Epoch 300/500 Loss: 0.9794
+SGD Epoch 400/500 Loss: 0.5435
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 500/500 Loss: 0.2654
+SGD Training complete!
+Batch Epoch 100/500 Loss: 2.6264
+Batch Epoch 200/500 Loss: 2.1606
+Batch Epoch 300/500 Loss: 2.0208
+Batch Epoch 400/500 Loss: 1.9836
+Batch Epoch 500/500 Loss: 1.9681
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 2.6160
+Mini_Batch Epoch 200/500 Loss: 2.1445
+Mini_Batch Epoch 300/500 Loss: 2.0154
+Mini_Batch Epoch 400/500 Loss: 1.9822
+Mini_Batch Epoch 500/500 Loss: 1.9684
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.9721
+SGD Epoch 200/500 Loss: 1.9711
+SGD Epoch 300/500 Loss: 1.9506
+SGD Epoch 400/500 Loss: 1.6686
+SGD Epoch 500/500 Loss: 1.6618
+SGD Training complete!
+Batch Epoch 100/500 Loss: 1.9721
+Batch Epoch 200/500 Loss: 1.9704
+Batch Epoch 300/500 Loss: 1.9702
+Batch Epoch 400/500 Loss: 1.9702
+Batch Epoch 500/500 Loss: 1.9702
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 1.9720
+Mini_Batch Epoch 200/500 Loss: 1.9703
+Mini_Batch Epoch 300/500 Loss: 1.9701
+Mini_Batch Epoch 400/500 Loss: 1.9700
+Mini_Batch Epoch 500/500 Loss: 1.9700
+Mini_Batch Training complete!
+SGD Epoch 100/500 Loss: 1.6120
+SGD Epoch 200/500 Loss: 1.5636
+SGD Epoch 300/500 Loss: 1.5146
+SGD Epoch 400/500 Loss: 1.4274
+SGD Epoch 500/500 Loss: 1.3254
+SGD Training complete!
+Batch Epoch 100/500 Loss: 2.5842
+Batch Epoch 200/500 Loss: 2.1138
+Batch Epoch 300/500 Loss: 2.0044
+Batch Epoch 400/500 Loss: 1.9703
+Batch Epoch 500/500 Loss: 1.9329
+Batch Training complete!
+Mini_Batch Epoch 100/500 Loss: 2.5933
+Mini_Batch Epoch 200/500 Loss: 2.1216
+Mini_Batch Epoch 300/500 Loss: 2.0059
+Mini_Batch Epoch 400/500 Loss: 1.9675
+Mini_Batch Epoch 500/500 Loss: 1.9152
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.5221
+SGD Epoch 200/1000 Loss: 1.4080
+SGD Epoch 300/1000 Loss: 1.3215
+SGD Epoch 400/1000 Loss: 1.2163
+SGD Epoch 500/1000 Loss: 1.0949
+SGD Epoch 600/1000 Loss: 1.0163
+SGD Epoch 700/1000 Loss: 0.9169
+SGD Epoch 800/1000 Loss: 0.8427
+SGD Epoch 900/1000 Loss: 0.7945
+SGD Epoch 1000/1000 Loss: 0.7245
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 2.6025
+Batch Epoch 200/1000 Loss: 2.0633
+Batch Epoch 300/1000 Loss: 1.8070
+Batch Epoch 400/1000 Loss: 1.7149
+Batch Epoch 500/1000 Loss: 1.6792
+Batch Epoch 600/1000 Loss: 1.6592
+Batch Epoch 700/1000 Loss: 1.6449
+Batch Epoch 800/1000 Loss: 1.6335
+Batch Epoch 900/1000 Loss: 1.6238
+Batch Epoch 1000/1000 Loss: 1.6150
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 2.6143
+Mini_Batch Epoch 200/1000 Loss: 2.0872
+Mini_Batch Epoch 300/1000 Loss: 1.8213
+Mini_Batch Epoch 400/1000 Loss: 1.7180
+Mini_Batch Epoch 500/1000 Loss: 1.6781
+Mini_Batch Epoch 600/1000 Loss: 1.6564
+Mini_Batch Epoch 700/1000 Loss: 1.6411
+Mini_Batch Epoch 800/1000 Loss: 1.6292
+Mini_Batch Epoch 900/1000 Loss: 1.6194
+Mini_Batch Epoch 1000/1000 Loss: 1.6106
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.6597
+SGD Epoch 200/1000 Loss: 1.6215
+SGD Epoch 300/1000 Loss: 1.5979
+SGD Epoch 400/1000 Loss: 1.5839
+SGD Epoch 500/1000 Loss: 1.5752
+SGD Epoch 600/1000 Loss: 1.5553
+SGD Epoch 700/1000 Loss: 1.5422
+SGD Epoch 800/1000 Loss: 1.5248
+SGD Epoch 900/1000 Loss: 1.5024
+SGD Epoch 1000/1000 Loss: 1.4791
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.9790
+Batch Epoch 200/1000 Loss: 1.9682
+Batch Epoch 300/1000 Loss: 1.9639
+Batch Epoch 400/1000 Loss: 1.9593
+Batch Epoch 500/1000 Loss: 1.9527
+Batch Epoch 600/1000 Loss: 1.9417
+Batch Epoch 700/1000 Loss: 1.9233
+Batch Epoch 800/1000 Loss: 1.8947
+Batch Epoch 900/1000 Loss: 1.8558
+Batch Epoch 1000/1000 Loss: 1.8126
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.9793
+Mini_Batch Epoch 200/1000 Loss: 1.9683
+Mini_Batch Epoch 300/1000 Loss: 1.9637
+Mini_Batch Epoch 400/1000 Loss: 1.9589
+Mini_Batch Epoch 500/1000 Loss: 1.9515
+Mini_Batch Epoch 600/1000 Loss: 1.9394
+Mini_Batch Epoch 700/1000 Loss: 1.9193
+Mini_Batch Epoch 800/1000 Loss: 1.8887
+Mini_Batch Epoch 900/1000 Loss: 1.8486
+Mini_Batch Epoch 1000/1000 Loss: 1.8056
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.5844
+SGD Epoch 200/1000 Loss: 1.5365
+SGD Epoch 300/1000 Loss: 1.4680
+SGD Epoch 400/1000 Loss: 1.3904
+SGD Epoch 500/1000 Loss: 1.3059
+SGD Epoch 600/1000 Loss: 1.2286
+SGD Epoch 700/1000 Loss: 1.1241
+SGD Epoch 800/1000 Loss: 1.0383
+SGD Epoch 900/1000 Loss: 0.9649
+SGD Epoch 1000/1000 Loss: 0.9008
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 2.6065
+Batch Epoch 200/1000 Loss: 2.0192
+Batch Epoch 300/1000 Loss: 1.7838
+Batch Epoch 400/1000 Loss: 1.7136
+Batch Epoch 500/1000 Loss: 1.6857
+Batch Epoch 600/1000 Loss: 1.6705
+Batch Epoch 700/1000 Loss: 1.6601
+Batch Epoch 800/1000 Loss: 1.6520
+Batch Epoch 900/1000 Loss: 1.6452
+Batch Epoch 1000/1000 Loss: 1.6393
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 2.6188
+Mini_Batch Epoch 200/1000 Loss: 2.0432
+Mini_Batch Epoch 300/1000 Loss: 1.7984
+Mini_Batch Epoch 400/1000 Loss: 1.7216
+Mini_Batch Epoch 500/1000 Loss: 1.6913
+Mini_Batch Epoch 600/1000 Loss: 1.6753
+Mini_Batch Epoch 700/1000 Loss: 1.6643
+Mini_Batch Epoch 800/1000 Loss: 1.6556
+Mini_Batch Epoch 900/1000 Loss: 1.6482
+Mini_Batch Epoch 1000/1000 Loss: 1.6417
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.5112
+SGD Epoch 200/1000 Loss: 1.3844
+SGD Epoch 300/1000 Loss: 1.2493
+SGD Epoch 400/1000 Loss: 1.1020
+SGD Epoch 500/1000 Loss: 0.9860
+SGD Epoch 600/1000 Loss: 0.8671
+SGD Epoch 700/1000 Loss: 0.7510
+SGD Epoch 800/1000 Loss: 0.7278
+SGD Epoch 900/1000 Loss: 0.5689
+SGD Epoch 1000/1000 Loss: 0.5157
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 2.5357
+Batch Epoch 200/1000 Loss: 1.9628
+Batch Epoch 300/1000 Loss: 1.7599
+Batch Epoch 400/1000 Loss: 1.6955
+Batch Epoch 500/1000 Loss: 1.6669
+Batch Epoch 600/1000 Loss: 1.6492
+Batch Epoch 700/1000 Loss: 1.6361
+Batch Epoch 800/1000 Loss: 1.6255
+Batch Epoch 900/1000 Loss: 1.6163
+Batch Epoch 1000/1000 Loss: 1.6082
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 2.5278
+Mini_Batch Epoch 200/1000 Loss: 1.9534
+Mini_Batch Epoch 300/1000 Loss: 1.7587
+Mini_Batch Epoch 400/1000 Loss: 1.6968
+Mini_Batch Epoch 500/1000 Loss: 1.6689
+Mini_Batch Epoch 600/1000 Loss: 1.6511
+Mini_Batch Epoch 700/1000 Loss: 1.6379
+Mini_Batch Epoch 800/1000 Loss: 1.6268
+Mini_Batch Epoch 900/1000 Loss: 1.6172
+Mini_Batch Epoch 1000/1000 Loss: 1.6088
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.6592
+SGD Epoch 200/1000 Loss: 1.6341
+SGD Epoch 300/1000 Loss: 1.6048
+SGD Epoch 400/1000 Loss: 1.5888
+SGD Epoch 500/1000 Loss: 1.5733
+SGD Epoch 600/1000 Loss: 1.5713
+SGD Epoch 700/1000 Loss: 1.5575
+SGD Epoch 800/1000 Loss: 1.5397
+SGD Epoch 900/1000 Loss: 1.5228
+SGD Epoch 1000/1000 Loss: 1.4989
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.9708
+Batch Epoch 200/1000 Loss: 1.9663
+Batch Epoch 300/1000 Loss: 1.9624
+Batch Epoch 400/1000 Loss: 1.9562
+Batch Epoch 500/1000 Loss: 1.9452
+Batch Epoch 600/1000 Loss: 1.9261
+Batch Epoch 700/1000 Loss: 1.8956
+Batch Epoch 800/1000 Loss: 1.8540
+Batch Epoch 900/1000 Loss: 1.8083
+Batch Epoch 1000/1000 Loss: 1.7686
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.9709
+Mini_Batch Epoch 200/1000 Loss: 1.9663
+Mini_Batch Epoch 300/1000 Loss: 1.9624
+Mini_Batch Epoch 400/1000 Loss: 1.9561
+Mini_Batch Epoch 500/1000 Loss: 1.9449
+Mini_Batch Epoch 600/1000 Loss: 1.9256
+Mini_Batch Epoch 700/1000 Loss: 1.8950
+Mini_Batch Epoch 800/1000 Loss: 1.8534
+Mini_Batch Epoch 900/1000 Loss: 1.8079
+Mini_Batch Epoch 1000/1000 Loss: 1.7682
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.5893
+SGD Epoch 200/1000 Loss: 1.5366
+SGD Epoch 300/1000 Loss: 1.4634
+SGD Epoch 400/1000 Loss: 1.4001
+SGD Epoch 500/1000 Loss: 1.3428
+SGD Epoch 600/1000 Loss: 1.2794
+SGD Epoch 700/1000 Loss: 1.1937
+SGD Epoch 800/1000 Loss: 1.1113
+SGD Epoch 900/1000 Loss: 1.0400
+SGD Epoch 1000/1000 Loss: 0.9607
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 2.5557
+Batch Epoch 200/1000 Loss: 1.9356
+Batch Epoch 300/1000 Loss: 1.7490
+Batch Epoch 400/1000 Loss: 1.6978
+Batch Epoch 500/1000 Loss: 1.6764
+Batch Epoch 600/1000 Loss: 1.6638
+Batch Epoch 700/1000 Loss: 1.6547
+Batch Epoch 800/1000 Loss: 1.6474
+Batch Epoch 900/1000 Loss: 1.6412
+Batch Epoch 1000/1000 Loss: 1.6360
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 2.5502
+Mini_Batch Epoch 200/1000 Loss: 1.9349
+Mini_Batch Epoch 300/1000 Loss: 1.7503
+Mini_Batch Epoch 400/1000 Loss: 1.6993
+Mini_Batch Epoch 500/1000 Loss: 1.6784
+Mini_Batch Epoch 600/1000 Loss: 1.6661
+Mini_Batch Epoch 700/1000 Loss: 1.6571
+Mini_Batch Epoch 800/1000 Loss: 1.6498
+Mini_Batch Epoch 900/1000 Loss: 1.6436
+Mini_Batch Epoch 1000/1000 Loss: 1.6382
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.5469
+SGD Epoch 200/1000 Loss: 1.4104
+SGD Epoch 300/1000 Loss: 1.1447
+SGD Epoch 400/1000 Loss: 0.8057
+SGD Epoch 500/1000 Loss: 0.5175
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 600/1000 Loss: 0.3744
+SGD Epoch 700/1000 Loss: nan
+SGD Epoch 800/1000 Loss: nan
+SGD Epoch 900/1000 Loss: nan
+SGD Epoch 1000/1000 Loss: nan
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 2.6521
+Batch Epoch 200/1000 Loss: 2.2193
+Batch Epoch 300/1000 Loss: 2.0538
+Batch Epoch 400/1000 Loss: 2.0009
+Batch Epoch 500/1000 Loss: 1.9822
+Batch Epoch 600/1000 Loss: 1.9740
+Batch Epoch 700/1000 Loss: 1.9688
+Batch Epoch 800/1000 Loss: 1.9639
+Batch Epoch 900/1000 Loss: 1.9567
+Batch Epoch 1000/1000 Loss: 1.9428
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 2.6507
+Mini_Batch Epoch 200/1000 Loss: 2.2148
+Mini_Batch Epoch 300/1000 Loss: 2.0507
+Mini_Batch Epoch 400/1000 Loss: 1.9988
+Mini_Batch Epoch 500/1000 Loss: 1.9801
+Mini_Batch Epoch 600/1000 Loss: 1.9708
+Mini_Batch Epoch 700/1000 Loss: 1.9632
+Mini_Batch Epoch 800/1000 Loss: 1.9526
+Mini_Batch Epoch 900/1000 Loss: 1.9328
+Mini_Batch Epoch 1000/1000 Loss: 1.8922
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.9706
+SGD Epoch 200/1000 Loss: 1.9695
+SGD Epoch 300/1000 Loss: 1.9638
+SGD Epoch 400/1000 Loss: 1.6900
+SGD Epoch 500/1000 Loss: 1.6623
+SGD Epoch 600/1000 Loss: 1.6626
+SGD Epoch 700/1000 Loss: 1.6320
+SGD Epoch 800/1000 Loss: 1.6119
+SGD Epoch 900/1000 Loss: 1.6015
+SGD Epoch 1000/1000 Loss: 1.5915
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.9779
+Batch Epoch 200/1000 Loss: 1.9715
+Batch Epoch 300/1000 Loss: 1.9705
+Batch Epoch 400/1000 Loss: 1.9702
+Batch Epoch 500/1000 Loss: 1.9701
+Batch Epoch 600/1000 Loss: 1.9700
+Batch Epoch 700/1000 Loss: 1.9700
+Batch Epoch 800/1000 Loss: 1.9700
+Batch Epoch 900/1000 Loss: 1.9700
+Batch Epoch 1000/1000 Loss: 1.9700
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.9780
+Mini_Batch Epoch 200/1000 Loss: 1.9714
+Mini_Batch Epoch 300/1000 Loss: 1.9704
+Mini_Batch Epoch 400/1000 Loss: 1.9701
+Mini_Batch Epoch 500/1000 Loss: 1.9700
+Mini_Batch Epoch 600/1000 Loss: 1.9700
+Mini_Batch Epoch 700/1000 Loss: 1.9699
+Mini_Batch Epoch 800/1000 Loss: 1.9699
+Mini_Batch Epoch 900/1000 Loss: 1.9699
+Mini_Batch Epoch 1000/1000 Loss: 1.9699
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.6268
+SGD Epoch 200/1000 Loss: 1.5614
+SGD Epoch 300/1000 Loss: 1.5141
+SGD Epoch 400/1000 Loss: 1.4203
+SGD Epoch 500/1000 Loss: 1.2860
+SGD Epoch 600/1000 Loss: 1.1248
+SGD Epoch 700/1000 Loss: 1.0404
+SGD Epoch 800/1000 Loss: 0.7870
+SGD Epoch 900/1000 Loss: 0.6631
+SGD Epoch 1000/1000 Loss: 0.5229
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 2.6273
+Batch Epoch 200/1000 Loss: 2.1706
+Batch Epoch 300/1000 Loss: 2.0315
+Batch Epoch 400/1000 Loss: 1.9916
+Batch Epoch 500/1000 Loss: 1.9749
+Batch Epoch 600/1000 Loss: 1.9603
+Batch Epoch 700/1000 Loss: 1.9254
+Batch Epoch 800/1000 Loss: 1.8111
+Batch Epoch 900/1000 Loss: 1.7194
+Batch Epoch 1000/1000 Loss: 1.6902
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 2.6234
+Mini_Batch Epoch 200/1000 Loss: 2.1629
+Mini_Batch Epoch 300/1000 Loss: 2.0272
+Mini_Batch Epoch 400/1000 Loss: 1.9893
+Mini_Batch Epoch 500/1000 Loss: 1.9731
+Mini_Batch Epoch 600/1000 Loss: 1.9576
+Mini_Batch Epoch 700/1000 Loss: 1.9173
+Mini_Batch Epoch 800/1000 Loss: 1.7993
+Mini_Batch Epoch 900/1000 Loss: 1.7171
+Mini_Batch Epoch 1000/1000 Loss: 1.6898
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.5307
+SGD Epoch 200/1000 Loss: 1.3470
+SGD Epoch 300/1000 Loss: 0.9870
+SGD Epoch 400/1000 Loss: 0.5648
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: divide by zero encountered in log
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py:195: RuntimeWarning: invalid value encountered in multiply
+  loss = -1/m * np.sum(y_true * np.log(y_pred) + (1 - y_true) * np.log(1 - y_pred))
+SGD Epoch 500/1000 Loss: 0.2176
+SGD Epoch 600/1000 Loss: nan
+SGD Epoch 700/1000 Loss: 0.1504
+SGD Epoch 800/1000 Loss: nan
+SGD Epoch 900/1000 Loss: nan
+SGD Epoch 1000/1000 Loss: nan
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 2.6307
+Batch Epoch 200/1000 Loss: 2.1688
+Batch Epoch 300/1000 Loss: 2.0251
+Batch Epoch 400/1000 Loss: 1.9859
+Batch Epoch 500/1000 Loss: 1.9703
+Batch Epoch 600/1000 Loss: 1.9581
+Batch Epoch 700/1000 Loss: 1.9399
+Batch Epoch 800/1000 Loss: 1.9026
+Batch Epoch 900/1000 Loss: 1.8307
+Batch Epoch 1000/1000 Loss: 1.7506
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 2.6329
+Mini_Batch Epoch 200/1000 Loss: 2.1724
+Mini_Batch Epoch 300/1000 Loss: 2.0267
+Mini_Batch Epoch 400/1000 Loss: 1.9868
+Mini_Batch Epoch 500/1000 Loss: 1.9709
+Mini_Batch Epoch 600/1000 Loss: 1.9587
+Mini_Batch Epoch 700/1000 Loss: 1.9402
+Mini_Batch Epoch 800/1000 Loss: 1.9028
+Mini_Batch Epoch 900/1000 Loss: 1.8333
+Mini_Batch Epoch 1000/1000 Loss: 1.7550
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.9715
+SGD Epoch 200/1000 Loss: 1.9704
+SGD Epoch 300/1000 Loss: 1.9402
+SGD Epoch 400/1000 Loss: 1.6723
+SGD Epoch 500/1000 Loss: 1.6517
+SGD Epoch 600/1000 Loss: 1.6372
+SGD Epoch 700/1000 Loss: 1.6231
+SGD Epoch 800/1000 Loss: 1.6190
+SGD Epoch 900/1000 Loss: 1.6128
+SGD Epoch 1000/1000 Loss: 1.6088
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 1.9720
+Batch Epoch 200/1000 Loss: 1.9704
+Batch Epoch 300/1000 Loss: 1.9702
+Batch Epoch 400/1000 Loss: 1.9702
+Batch Epoch 500/1000 Loss: 1.9702
+Batch Epoch 600/1000 Loss: 1.9701
+Batch Epoch 700/1000 Loss: 1.9701
+Batch Epoch 800/1000 Loss: 1.9701
+Batch Epoch 900/1000 Loss: 1.9701
+Batch Epoch 1000/1000 Loss: 1.9701
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 1.9720
+Mini_Batch Epoch 200/1000 Loss: 1.9703
+Mini_Batch Epoch 300/1000 Loss: 1.9701
+Mini_Batch Epoch 400/1000 Loss: 1.9700
+Mini_Batch Epoch 500/1000 Loss: 1.9700
+Mini_Batch Epoch 600/1000 Loss: 1.9700
+Mini_Batch Epoch 700/1000 Loss: 1.9700
+Mini_Batch Epoch 800/1000 Loss: 1.9700
+Mini_Batch Epoch 900/1000 Loss: 1.9700
+Mini_Batch Epoch 1000/1000 Loss: 1.9700
+Mini_Batch Training complete!
+SGD Epoch 100/1000 Loss: 1.6031
+SGD Epoch 200/1000 Loss: 1.5607
+SGD Epoch 300/1000 Loss: 1.4981
+SGD Epoch 400/1000 Loss: 1.4305
+SGD Epoch 500/1000 Loss: 1.3343
+SGD Epoch 600/1000 Loss: 1.2045
+SGD Epoch 700/1000 Loss: 1.0629
+SGD Epoch 800/1000 Loss: 0.8331
+SGD Epoch 900/1000 Loss: 0.6298
+SGD Epoch 1000/1000 Loss: 0.4282
+SGD Training complete!
+Batch Epoch 100/1000 Loss: 2.5783
+Batch Epoch 200/1000 Loss: 2.1069
+Batch Epoch 300/1000 Loss: 1.9980
+Batch Epoch 400/1000 Loss: 1.9553
+Batch Epoch 500/1000 Loss: 1.8770
+Batch Epoch 600/1000 Loss: 1.7477
+Batch Epoch 700/1000 Loss: 1.6983
+Batch Epoch 800/1000 Loss: 1.6825
+Batch Epoch 900/1000 Loss: 1.6752
+Batch Epoch 1000/1000 Loss: 1.6708
+Batch Training complete!
+Mini_Batch Epoch 100/1000 Loss: 2.5881
+Mini_Batch Epoch 200/1000 Loss: 2.1167
+Mini_Batch Epoch 300/1000 Loss: 2.0045
+Mini_Batch Epoch 400/1000 Loss: 1.9674
+Mini_Batch Epoch 500/1000 Loss: 1.9179
+Mini_Batch Epoch 600/1000 Loss: 1.7891
+Mini_Batch Epoch 700/1000 Loss: 1.7106
+Mini_Batch Epoch 800/1000 Loss: 1.6870
+Mini_Batch Epoch 900/1000 Loss: 1.6775
+Mini_Batch Epoch 1000/1000 Loss: 1.6723
+Mini_Batch Training complete!
+Best model saved as 'best_model.pkl'
+Best hyperparameters: {'num_hidden_layers': 1, 'num_neurons': 128, 'activation': 'tanh', 'learning_rate': 0.01, 'batch_size': 32, 'num_epochs': 1000}
+Best accuracy: 1.0

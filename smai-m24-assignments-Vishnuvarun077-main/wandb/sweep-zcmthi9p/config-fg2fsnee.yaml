@@ -1,0 +1,10 @@
+wandb_version: 1
+
+activation:
+  value: tanh
+batch_size:
+  value: 64
+learning_rate:
+  value: 0.07008068319249453
+optimizer:
+  value: sgd

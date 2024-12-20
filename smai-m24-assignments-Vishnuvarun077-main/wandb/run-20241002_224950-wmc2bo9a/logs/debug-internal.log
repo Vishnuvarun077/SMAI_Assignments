@@ -1,0 +1,18 @@
+{"time":"2024-10-02T22:49:50.756463786+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-02T22:49:50.756483012+05:30","level":"INFO","msg":"created symlink","path":"/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_224950-wmc2bo9a/logs/debug-core.log"}
+{"time":"2024-10-02T22:49:50.766728743+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-02T22:49:50.771845327+05:30","level":"INFO","msg":"created new stream","id":"wmc2bo9a"}
+{"time":"2024-10-02T22:49:50.771915399+05:30","level":"INFO","msg":"stream: started","id":"wmc2bo9a"}
+{"time":"2024-10-02T22:49:50.771996772+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"wmc2bo9a"}}
+{"time":"2024-10-02T22:49:50.771999357+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wmc2bo9a"}}
+{"time":"2024-10-02T22:49:50.772084206+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"wmc2bo9a"}}
+{"time":"2024-10-02T22:49:51.145776103+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-02T22:49:51.146753403+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-02T22:49:54.420125729+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-02T22:49:54.420216339+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-02T22:49:55.648574175+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-02T22:49:57.01224221+05:30","level":"INFO","msg":"stream: closing","id":"wmc2bo9a"}
+{"time":"2024-10-02T22:49:57.012283919+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"wmc2bo9a"}}
+{"time":"2024-10-02T22:49:57.012323083+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wmc2bo9a"}}
+{"time":"2024-10-02T22:49:57.012358069+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"wmc2bo9a"}}
+{"time":"2024-10-02T22:49:57.012427339+05:30","level":"INFO","msg":"stream: closed","id":"wmc2bo9a"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-02T23:08:07.527021884+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-02T23:08:07.52703582+05:30","level":"INFO","msg":"created symlink","path":"/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241002_230807-fg2fsnee/logs/debug-core.log"}
+{"time":"2024-10-02T23:08:07.544119097+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-02T23:08:07.550874402+05:30","level":"INFO","msg":"created new stream","id":"fg2fsnee"}
+{"time":"2024-10-02T23:08:07.55096911+05:30","level":"INFO","msg":"stream: started","id":"fg2fsnee"}
+{"time":"2024-10-02T23:08:07.550979149+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"fg2fsnee"}}
+{"time":"2024-10-02T23:08:07.551000188+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"fg2fsnee"}}
+{"time":"2024-10-02T23:08:07.551017691+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fg2fsnee"}}
+{"time":"2024-10-02T23:08:07.94997373+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-02T23:08:07.95141186+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-02T23:08:10.46293047+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-02T23:08:10.463035247+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-02T23:08:11.690458381+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-02T23:08:13.138622803+05:30","level":"INFO","msg":"stream: closing","id":"fg2fsnee"}
+{"time":"2024-10-02T23:08:13.138649554+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"fg2fsnee"}}
+{"time":"2024-10-02T23:08:13.138704557+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fg2fsnee"}}
+{"time":"2024-10-02T23:08:13.138714125+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"fg2fsnee"}}
+{"time":"2024-10-02T23:08:13.138810977+05:30","level":"INFO","msg":"stream: closed","id":"fg2fsnee"}

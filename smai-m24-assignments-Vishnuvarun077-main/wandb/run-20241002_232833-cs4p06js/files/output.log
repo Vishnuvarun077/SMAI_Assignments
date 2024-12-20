@@ -1,0 +1,42 @@
+Epoch 0, Loss: 0.0006
+Early stopping at epoch 10
+Traceback (most recent call last):
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 308, in <module>
+    best_model.train(X_normalized, y_one_hot)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 204, in train
+    self.model.fit(X_train, y_train)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/models/MLP/MLP.py", line 275, in fit
+    activations = self._forward_propagation(X)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/models/MLP/MLP.py", line 223, in _forward_propagation
+    z = np.dot(activations[-1], self.weights[i]) + self.biases[i]
+ValueError: shapes (914,1598) and (12,64) not aligned: 1598 (dim 1) != 12 (dim 0)
+Traceback (most recent call last):
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 308, in <module>
+    best_model.train(X_normalized, y_one_hot)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 204, in train
+    self.model.fit(X_train, y_train)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/models/MLP/MLP.py", line 275, in fit
+    activations = self._forward_propagation(X)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/models/MLP/MLP.py", line 223, in _forward_propagation
+    z = np.dot(activations[-1], self.weights[i]) + self.biases[i]
+ValueError: shapes (914,1598) and (12,64) not aligned: 1598 (dim 1) != 12 (dim 0)
+Traceback (most recent call last):
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 308, in <module>
+    best_model.train(X_normalized, y_one_hot)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 204, in train
+    self.model.fit(X_train, y_train)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/models/MLP/MLP.py", line 275, in fit
+    activations = self._forward_propagation(X)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/models/MLP/MLP.py", line 223, in _forward_propagation
+    z = np.dot(activations[-1], self.weights[i]) + self.biases[i]
+ValueError: shapes (914,1598) and (12,64) not aligned: 1598 (dim 1) != 12 (dim 0)
+Traceback (most recent call last):
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 308, in <module>
+    best_model.train(X_normalized, y_one_hot)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py", line 204, in train
+    self.model.fit(X_train, y_train)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/models/MLP/MLP.py", line 275, in fit
+    activations = self._forward_propagation(X)
+  File "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/models/MLP/MLP.py", line 223, in _forward_propagation
+    z = np.dot(activations[-1], self.weights[i]) + self.biases[i]
+ValueError: shapes (914,1598) and (12,64) not aligned: 1598 (dim 1) != 12 (dim 0)

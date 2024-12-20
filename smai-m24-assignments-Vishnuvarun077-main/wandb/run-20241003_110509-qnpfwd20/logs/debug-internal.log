@@ -1,0 +1,18 @@
+{"time":"2024-10-03T11:05:09.355271335+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-03T11:05:09.355293614+05:30","level":"INFO","msg":"created symlink","path":"/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/wandb/run-20241003_110509-qnpfwd20/logs/debug-core.log"}
+{"time":"2024-10-03T11:05:09.419966351+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-03T11:05:09.425484404+05:30","level":"INFO","msg":"created new stream","id":"qnpfwd20"}
+{"time":"2024-10-03T11:05:09.425514506+05:30","level":"INFO","msg":"stream: started","id":"qnpfwd20"}
+{"time":"2024-10-03T11:05:09.425528614+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qnpfwd20"}}
+{"time":"2024-10-03T11:05:09.425538671+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"qnpfwd20"}}
+{"time":"2024-10-03T11:05:09.425554664+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"qnpfwd20"}}
+{"time":"2024-10-03T11:05:09.865437138+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-03T11:05:09.867066524+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-03T11:05:09.942116559+05:30","level":"INFO","msg":"stream: closing","id":"qnpfwd20"}
+{"time":"2024-10-03T11:05:09.942141842+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-03T11:05:09.942243251+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-03T11:05:11.900963279+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-03T11:05:12.248991039+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"qnpfwd20"}}
+{"time":"2024-10-03T11:05:12.249084695+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"qnpfwd20"}}
+{"time":"2024-10-03T11:05:12.249072822+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qnpfwd20"}}
+{"time":"2024-10-03T11:05:12.249212923+05:30","level":"INFO","msg":"stream: closed","id":"qnpfwd20"}

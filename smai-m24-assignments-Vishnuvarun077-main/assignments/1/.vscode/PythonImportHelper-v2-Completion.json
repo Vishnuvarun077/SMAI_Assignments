@@ -1,0 +1,496 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "KNN",
+        "importPath": "models.knn.knn",
+        "description": "models.knn.knn",
+        "isExtraImport": true,
+        "detail": "models.knn.knn",
+        "documentation": {}
+    },
+    {
+        "label": "initial_KNN",
+        "importPath": "models.knn.knn",
+        "description": "models.knn.knn",
+        "isExtraImport": true,
+        "detail": "models.knn.knn",
+        "documentation": {}
+    },
+    {
+        "label": "KNN",
+        "importPath": "models.knn.knn",
+        "description": "models.knn.knn",
+        "isExtraImport": true,
+        "detail": "models.knn.knn",
+        "documentation": {}
+    },
+    {
+        "label": "initial_KNN",
+        "importPath": "models.knn.knn",
+        "description": "models.knn.knn",
+        "isExtraImport": true,
+        "detail": "models.knn.knn",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceMeasures",
+        "importPath": "performance_measures.performance_measures",
+        "description": "performance_measures.performance_measures",
+        "isExtraImport": true,
+        "detail": "performance_measures.performance_measures",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceMeasures",
+        "importPath": "performance_measures.performance_measures",
+        "description": "performance_measures.performance_measures",
+        "isExtraImport": true,
+        "detail": "performance_measures.performance_measures",
+        "documentation": {}
+    },
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "KNeighborsClassifier",
+        "importPath": "sklearn.neighbors",
+        "description": "sklearn.neighbors",
+        "isExtraImport": true,
+        "detail": "sklearn.neighbors",
+        "documentation": {}
+    },
+    {
+        "label": "KNeighborsClassifier",
+        "importPath": "sklearn.neighbors",
+        "description": "sklearn.neighbors",
+        "isExtraImport": true,
+        "detail": "sklearn.neighbors",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def load_data(filename):\n     df = pd.read_csv(filename, index_col=0)\n     #Droping rows with missing values\n     df.dropna(inplace=True)\n     return df\ndef normalize_data(data):\n    data = (data - data.min()) / (data.max() - data.min())\n    return data\ndef plot_feature_distribution(data, feature):\n    plt.figure(figsize=(10, 6))",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_data",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def normalize_data(data):\n    data = (data - data.min()) / (data.max() - data.min())\n    return data\ndef plot_feature_distribution(data, feature):\n    plt.figure(figsize=(10, 6))\n    sns.histplot(data[feature], kde=True)\n    plt.title('Distribution of {}'.format(feature))\n    plt.xlabel('Value')\n    plt.ylabel('Frequency')\n    # Comments about observations",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_distribution",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def plot_feature_distribution(data, feature):\n    plt.figure(figsize=(10, 6))\n    sns.histplot(data[feature], kde=True)\n    plt.title('Distribution of {}'.format(feature))\n    plt.xlabel('Value')\n    plt.ylabel('Frequency')\n    # Comments about observations\n    skewness = data[feature].skew()\n    if abs(skewness) > 1:\n        plt.annotate('Skewed (skewness: {:.2f})'.format(skewness),",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "plot_correlation_heatmap",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def plot_correlation_heatmap(data):\n    numeric_features = data.select_dtypes(include=[np.number])\n    corr = numeric_features.corr()\n    plt.figure(figsize=(12, 10))\n    sns.heatmap(corr, annot=True, cmap='coolwarm', vmin=-1, vmax=1, center=0)\n    plt.title('Correlation Heatmap of Features')\n    plt.savefig('assignments/1/figures/EDA/correlation_heatmap.png')\n    plt.close()\n# Plot feature importance based on correlation with the target variable.\n# Args: data (pandas.DataFrame): The dataset target_column (str): Name of the target column",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_importance",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def plot_feature_importance(data, target_column):\n     numeric_features = data.select_dtypes(include=[np.number])\n     # Ensure target column is numeric for correlation calculation\n     if target_column in data.columns:\n        # Convert target variable to numeric labels if it's categorical\n        if data[target_column].dtype == 'object':\n            data[target_column] = data[target_column].astype('category').cat.codes\n     correlations = numeric_features.corrwith(data[target_column]).abs().sort_values(ascending=False)\n     plt.figure(figsize=(12, 6))\n     correlations.plot(kind='bar')",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "plot_pairplot",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def plot_pairplot(data, target_column):\n    sns.pairplot(data=data, hue='track_genre')\n    plt.savefig('assignments/1/figures/EDA/pairplot.png')\n    plt.close()\n# import numpy as np\n# import pandas as pd\n# import matplotlib.pyplot as plt\n# import seaborn as sns\ndef remove_outliers_zscore(data, columns, threshold=3):\n    cleaned_data = data.copy()",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "remove_outliers_zscore",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def remove_outliers_zscore(data, columns, threshold=3):\n    cleaned_data = data.copy()\n    for col in columns:\n        z_scores = np.abs((cleaned_data[col] - cleaned_data[col].mean()) / cleaned_data[col].std())\n        cleaned_data = cleaned_data[z_scores < threshold]\n    return cleaned_data\ndef normalize_data(data):\n    return (data - data.mean()) / data.std()\ndef exploratory_data_analysis(data, target_column):\n    print(\"Dataset Information:\")",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_data",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def normalize_data(data):\n    return (data - data.mean()) / data.std()\ndef exploratory_data_analysis(data, target_column):\n    print(\"Dataset Information:\")\n    print(data.info())\n    print(\"\\nSummary Statistics:\")\n    print(data.describe())\n    print(\"\\nMissing Values:\")\n    print(data.isnull().sum())\n    # Remove outliers using z-score method",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "exploratory_data_analysis",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def exploratory_data_analysis(data, target_column):\n    print(\"Dataset Information:\")\n    print(data.info())\n    print(\"\\nSummary Statistics:\")\n    print(data.describe())\n    print(\"\\nMissing Values:\")\n    print(data.isnull().sum())\n    # Remove outliers using z-score method\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    data_cleaned = remove_outliers_zscore(data, numeric_columns)",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def train_test_split(X, y, test_size=0.2, random_state=None):\n    if random_state is not None:\n        np.random.seed(random_state)\n    # Shuffle the data\n    indices = np.arange(X.shape[0])\n    np.random.shuffle(indices)\n    X = X.iloc[indices]\n    y = y.iloc[indices]\n    # Split the data\n    split_index = int(X.shape[0] * (1 - test_size))",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_data",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def prepare_data(data, target_column):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    numeric_data = data[numeric_columns]\n    normalized_data = normalize_data(numeric_data)\n    normalized_data[target_column] = data[target_column]\n    X = normalized_data.drop(columns=[target_column])\n    y = normalized_data[target_column]\n      # Map string labels to integers if necessary\n    if y.dtype == 'object':\n        label_mapping = {label: idx for idx, label in enumerate(np.unique(y))}",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "knn_classification",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def knn_classification(data, target_column, k, distance_metric, test_size, random_state):\n    X, y = prepare_data(data, target_column)\n    # Split the data\n    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=test_size, random_state=random_state)\n    # Initialize and fit KNN\n    knn = KNN(k=k, distance_metric=distance_metric)\n    knn.fit(X_train.values, y_train.values)\n    # Make predictions\n    y_pred = knn.predict(X_val.values)\n    # Calculate performance metrics",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "hyperparameter_tuning",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def hyperparameter_tuning(data, target_column):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    X, y = prepare_data(data, target_column)\n    # Split data into 80% training and 20% remaining\n    X_train, X_remaining, y_train, y_remaining = train_test_split(X, y, test_size=0.2, random_state=42)\n    # Split remaining 20% into 50% validation and 50% test (10% each of the original data)\n    X_val, X_test, y_val, y_test = train_test_split(X_remaining, y_remaining, test_size=0.5, random_state=42)\n    # Consider only odd k values\n    k_values = [k for k in range(1, 21) if k % 2 != 0]\n    distance_metrics = ['euclidean', 'manhattan', 'cosine']",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "greedy_forward_selection",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def greedy_forward_selection(X, y, best_k, best_metric):\n    remaining_features = list(X.columns)\n    selected_features = []\n    best_accuracy = 0\n    while remaining_features:\n        best_feature = None\n        for feature in remaining_features:\n            current_features = selected_features + [feature]\n            X_temp = X[current_features]\n            X_train_temp, X_val_temp, y_train_temp, y_val_temp = train_test_split(X_temp, y, test_size=0.2, random_state=42)",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "feature_selection",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def feature_selection(data, target_column, best_k, best_metric, use_greedy=False):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    numeric_data = data[numeric_columns]\n    normalized_data = normalize_data(numeric_data)\n    normalized_data[target_column] = data[target_column]\n    data = normalized_data\n    X = data.drop(columns=[target_column])\n    y = data[target_column]\n    if y.dtype == 'object':\n        label_mapping = {label: idx for idx, label in enumerate(np.unique(y))}",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "optimization_comparison",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def optimization_comparison(data, target_column, best_k, best_metric):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    numeric_data = data[numeric_columns]\n    normalized_data = normalize_data(numeric_data)\n    normalized_data[target_column] = data[target_column]\n    data = normalized_data\n    X = data.drop(columns=[target_column])\n    y = data[target_column]\n    if y.dtype == 'object':\n        label_mapping = {label: idx for idx, label in enumerate(np.unique(y))}",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def load_and_preprocess_data(file_path):\n    # Load the data\n    data = pd.read_csv(file_path)\n    # Separate features and target\n    X = data.drop(['track_genre'], axis=1)\n    y = data['track_genre']\n    # Convert non-numeric columns to numeric where possible\n    X = X.apply(pd.to_numeric, errors='coerce')\n    # Drop columns that cannot be converted to numeric or are boolean\n    X = X.select_dtypes(include=[np.number]).dropna(axis=1, how='any')",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_knn",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def evaluate_knn(X_train, y_train, X_val, y_val, k, distance_metric):\n    # Initialize and fit KNN\n    knn = KNN(k=k, distance_metric=distance_metric)\n    knn.fit(X_train.values, y_train.values)\n    # Make predictions\n    y_pred = knn.predict(X_val.values)\n    # Calculate performance metrics\n    pm = PerformanceMeasures()\n    accuracy = pm.accuracy(y_val.values, y_pred)\n    precision_macro = pm.precision(y_val.values, y_pred, average='macro')",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "main_1",
+        "kind": 2,
+        "importPath": "a1",
+        "description": "a1",
+        "peekOfCode": "def main_1():\n     # Load data\n    data = load_data('data/external/spotify.csv')\n    # Perform exploratory data analysis\n    target_column = 'track_genre'\n    # data_cleaned= exploratory_data_analysis(data, target_column)\n    # Perform KNN classification\n    # knn_classification(data, target_column, k=3, distance_metric='euclidean', test_size=0.2, random_state=42)\n    # best_k, best_metric = hyperparameter_tuning(data, target_column)\n    best_k = 19",
+        "detail": "a1",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def load_data(filename):\n     df = pd.read_csv(filename, index_col=0)\n     #Droping rows with missing values\n     df.dropna(inplace=True)\n     return df\ndef normalize_data(data):\n    data = (data - data.min()) / (data.max() - data.min())\n    return data\ndef plot_feature_distribution(data, feature):\n    plt.figure(figsize=(10, 6))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_data",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def normalize_data(data):\n    data = (data - data.min()) / (data.max() - data.min())\n    return data\ndef plot_feature_distribution(data, feature):\n    plt.figure(figsize=(10, 6))\n    sns.histplot(data[feature], kde=True)\n    plt.title('Distribution of {}'.format(feature))\n    plt.xlabel('Value')\n    plt.ylabel('Frequency')\n    # Comments about observations",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_distribution",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def plot_feature_distribution(data, feature):\n    plt.figure(figsize=(10, 6))\n    sns.histplot(data[feature], kde=True)\n    plt.title('Distribution of {}'.format(feature))\n    plt.xlabel('Value')\n    plt.ylabel('Frequency')\n    # Comments about observations\n    skewness = data[feature].skew()\n    if abs(skewness) > 1:\n        plt.annotate('Skewed (skewness: {:.2f})'.format(skewness),",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "plot_correlation_heatmap",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def plot_correlation_heatmap(data):\n    numeric_features = data.select_dtypes(include=[np.number])\n    corr = numeric_features.corr()\n    plt.figure(figsize=(12, 10))\n    sns.heatmap(corr, annot=True, cmap='coolwarm', vmin=-1, vmax=1, center=0)\n    plt.title('Correlation Heatmap of Features')\n    plt.savefig('assignments/1/figures/EDA/correlation_heatmap.png')\n    plt.close()\n# Plot feature importance based on correlation with the target variable.\n# Args: data (pandas.DataFrame): The dataset target_column (str): Name of the target column",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_importance",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def plot_feature_importance(data, target_column):\n     numeric_features = data.select_dtypes(include=[np.number])\n     # Ensure target column is numeric for correlation calculation\n     if target_column in data.columns:\n        # Convert target variable to numeric labels if it's categorical\n        if data[target_column].dtype == 'object':\n            data[target_column] = data[target_column].astype('category').cat.codes\n     correlations = numeric_features.corrwith(data[target_column]).abs().sort_values(ascending=False)\n     plt.figure(figsize=(12, 6))\n     correlations.plot(kind='bar')",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "plot_pairplot",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def plot_pairplot(data, target_column):\n    sns.pairplot(data=data, hue='track_genre')\n    plt.savefig('assignments/1/figures/EDA/pairplot.png')\n    plt.close()\n# import numpy as np\n# import pandas as pd\n# import matplotlib.pyplot as plt\n# import seaborn as sns\ndef remove_outliers_zscore(data, columns, threshold=3):\n    cleaned_data = data.copy()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "remove_outliers_zscore",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def remove_outliers_zscore(data, columns, threshold=3):\n    cleaned_data = data.copy()\n    for col in columns:\n        z_scores = np.abs((cleaned_data[col] - cleaned_data[col].mean()) / cleaned_data[col].std())\n        cleaned_data = cleaned_data[z_scores < threshold]\n    return cleaned_data\ndef normalize_data(data):\n    return (data - data.mean()) / data.std()\ndef exploratory_data_analysis(data, target_column):\n    print(\"Dataset Information:\")",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_data",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def normalize_data(data):\n    return (data - data.mean()) / data.std()\ndef exploratory_data_analysis(data, target_column):\n    print(\"Dataset Information:\")\n    print(data.info())\n    print(\"\\nSummary Statistics:\")\n    print(data.describe())\n    print(\"\\nMissing Values:\")\n    print(data.isnull().sum())\n    # Remove outliers using z-score method",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "exploratory_data_analysis",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def exploratory_data_analysis(data, target_column):\n    print(\"Dataset Information:\")\n    print(data.info())\n    print(\"\\nSummary Statistics:\")\n    print(data.describe())\n    print(\"\\nMissing Values:\")\n    print(data.isnull().sum())\n    # Remove outliers using z-score method\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    data_cleaned = remove_outliers_zscore(data, numeric_columns)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def train_test_split(X, y, test_size=0.2, random_state=None):\n    if random_state is not None:\n        np.random.seed(random_state)\n    # Shuffle the data\n    indices = np.arange(X.shape[0])\n    np.random.shuffle(indices)\n    X = X.iloc[indices]\n    y = y.iloc[indices]\n    # Split the data\n    split_index = int(X.shape[0] * (1 - test_size))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_data",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def prepare_data(data, target_column):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    numeric_data = data[numeric_columns]\n    normalized_data = normalize_data(numeric_data)\n    normalized_data[target_column] = data[target_column]\n    X = normalized_data.drop(columns=[target_column])\n    y = normalized_data[target_column]\n      # Map string labels to integers if necessary\n    if y.dtype == 'object':\n        label_mapping = {label: idx for idx, label in enumerate(np.unique(y))}",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "knn_classification",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def knn_classification(data, target_column, k, distance_metric, test_size, random_state):\n    X, y = prepare_data(data, target_column)\n    # Split the data\n    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=test_size, random_state=random_state)\n    # Initialize and fit KNN\n    knn = KNN(k=k, distance_metric=distance_metric)\n    knn.fit(X_train.values, y_train.values)\n    # Make predictions\n    y_pred = knn.predict(X_val.values)\n    # Calculate performance metrics",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "hyperparameter_tuning",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def hyperparameter_tuning(data, target_column):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    X, y = prepare_data(data, target_column)\n    # Split data into 80% training and 20% remaining\n    X_train, X_remaining, y_train, y_remaining = train_test_split(X, y, test_size=0.2, random_state=42)\n    # Split remaining 20% into 50% validation and 50% test (10% each of the original data)\n    X_val, X_test, y_val, y_test = train_test_split(X_remaining, y_remaining, test_size=0.5, random_state=42)\n    # Consider only odd k values\n    k_values = [k for k in range(1, 21) if k % 2 != 0]\n    distance_metrics = ['euclidean', 'manhattan', 'cosine']",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "greedy_forward_selection",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def greedy_forward_selection(X, y, best_k, best_metric):\n    remaining_features = list(X.columns)\n    selected_features = []\n    best_accuracy = 0\n    while remaining_features:\n        best_feature = None\n        for feature in remaining_features:\n            current_features = selected_features + [feature]\n            X_temp = X[current_features]\n            X_train_temp, X_val_temp, y_train_temp, y_val_temp = train_test_split(X_temp, y, test_size=0.2, random_state=42)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "feature_selection",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def feature_selection(data, target_column, best_k, best_metric, use_greedy=False):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    numeric_data = data[numeric_columns]\n    normalized_data = normalize_data(numeric_data)\n    normalized_data[target_column] = data[target_column]\n    data = normalized_data\n    X = data.drop(columns=[target_column])\n    y = data[target_column]\n    if y.dtype == 'object':\n        label_mapping = {label: idx for idx, label in enumerate(np.unique(y))}",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "optimization_comparison",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def optimization_comparison(data, target_column, best_k, best_metric):\n    numeric_columns = data.select_dtypes(include=[np.number]).columns.tolist()\n    numeric_data = data[numeric_columns]\n    normalized_data = normalize_data(numeric_data)\n    normalized_data[target_column] = data[target_column]\n    data = normalized_data\n    X = data.drop(columns=[target_column])\n    y = data[target_column]\n    if y.dtype == 'object':\n        label_mapping = {label: idx for idx, label in enumerate(np.unique(y))}",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def load_and_preprocess_data(file_path):\n    # Load the data\n    data = pd.read_csv(file_path)\n    # Separate features and target\n    X = data.drop(['track_genre'], axis=1)\n    y = data['track_genre']\n    # Convert non-numeric columns to numeric where possible\n    X = X.apply(pd.to_numeric, errors='coerce')\n    # Drop columns that cannot be converted to numeric or are boolean\n    X = X.select_dtypes(include=[np.number]).dropna(axis=1, how='any')",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_knn",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def evaluate_knn(X_train, y_train, X_val, y_val, k, distance_metric):\n    # Initialize and fit KNN\n    knn = KNN(k=k, distance_metric=distance_metric)\n    knn.fit(X_train.values, y_train.values)\n    # Make predictions\n    y_pred = knn.predict(X_val.values)\n    # Calculate performance metrics\n    pm = PerformanceMeasures()\n    accuracy = pm.accuracy(y_val.values, y_pred)\n    precision_macro = pm.precision(y_val.values, y_pred, average='macro')",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "main_1",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def main_1():\n     # Load data\n    data = load_data('data/external/spotify.csv')\n    # Perform exploratory data analysis\n    target_column = 'track_genre'\n    # data_cleaned= exploratory_data_analysis(data, target_column)\n    # Perform KNN classification\n    # knn_classification(data, target_column, k=3, distance_metric='euclidean', test_size=0.2, random_state=42)\n    # best_k, best_metric = hyperparameter_tuning(data, target_column)\n    best_k = 19",
+        "detail": "test",
+        "documentation": {}
+    }
+]

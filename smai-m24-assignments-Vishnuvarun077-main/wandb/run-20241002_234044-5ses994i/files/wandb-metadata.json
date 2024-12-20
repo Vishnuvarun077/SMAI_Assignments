@@ -1,0 +1,31 @@
+{
+  "os":  "Linux-6.8.0-45-generic-x86_64-with-glibc2.35",
+  "python":  "3.10.12",
+  "startedAt":  "2024-10-02T18:10:44.362575Z",
+  "program":  "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/assignments/3/mlpc.py",
+  "codePath":  "assignments/3/mlpc.py",
+  "git":  {
+    "remote":  "git@github.com:smai-monsoon-24/smai-m24-assignments-Vishnuvarun077.git",
+    "commit":  "cdb6671d0fd7690d6e54c35708144e611da6495a"
+  },
+  "root":  "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077",
+  "host":  "vishnu-ideapad",
+  "username":  "vishnu",
+  "executable":  "/home/vishnu/3rd year/SMAI/smai-m24-assignments-Vishnuvarun077/.venv/bin/python",
+  "codePathLocal":  "assignments/3/mlpc.py",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "215607775232",
+      "used":  "93419204608"
+    }
+  },
+  "memory":  {
+    "total":  "14489837568"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  }
+}

@@ -1,0 +1,1 @@
+This folder should contain all the models you have implemented. For each model, you should implement a class for it in the `<model>.py` file. Although you need not make separate files for it, train, val and test should be implemented in a clear distinctive way as separate routines within the class.

@@ -1,0 +1,98 @@
+# Exploratory Data Analysis Observations
+
+## Dataset Overview
+- Number of samples (original): 113999
+- Number of samples (after outlier removal): 104363
+- Number of features: 19
+- Target variable: track_genre
+
+## Feature Distributions
+- See individual distribution plots saved in the 'figures' directory.
+- popularity:
+  - Mean: 33.35
+  - Median: 35.00
+  - Skewness: 0.04
+
+- duration_ms:
+  - Mean: 224203.24
+  - Median: 213089.00
+  - Skewness: 0.97
+
+- danceability:
+  - Mean: 0.58
+  - Median: 0.59
+  - Skewness: -0.36
+
+- energy:
+  - Mean: 0.65
+  - Median: 0.69
+  - Skewness: -0.54
+
+- key:
+  - Mean: 5.33
+  - Median: 5.00
+  - Skewness: -0.02
+
+- loudness:
+  - Mean: -7.73
+  - Median: -6.84
+  - Skewness: -1.16
+  - Observation: Skewed distribution
+
+- mode:
+  - Mean: 0.63
+  - Median: 1.00
+  - Skewness: -0.56
+
+- speechiness:
+  - Mean: 0.07
+  - Median: 0.05
+  - Skewness: 2.42
+  - Observation: Skewed distribution
+
+- acousticness:
+  - Mean: 0.29
+  - Median: 0.15
+  - Skewness: 0.81
+
+- instrumentalness:
+  - Mean: 0.14
+  - Median: 0.00
+  - Skewness: 1.88
+  - Observation: Skewed distribution
+
+- liveness:
+  - Mean: 0.19
+  - Median: 0.13
+  - Skewness: 1.72
+  - Observation: Skewed distribution
+
+- valence:
+  - Mean: 0.48
+  - Median: 0.47
+  - Skewness: 0.11
+
+- tempo:
+  - Mean: 122.98
+  - Median: 122.87
+  - Skewness: 0.33
+
+- time_signature:
+  - Mean: 3.94
+  - Median: 4.00
+  - Skewness: -1.89
+  - Observation: Skewed distribution
+
+- track_genre:
+  - Mean: 56.56
+  - Median: 56.00
+  - Skewness: 0.00
+
+## Pairwise Relationships
+- See 'pairplot.png' for pairwise relationship visualizations.
+- Observations:
+  - [Add your observations about pairwise relationships here]
+
+## Feature Hierarchy for Classification
+Based on the correlation with the target variable and the feature distributions, here's a proposed hierarchy of feature importance:
+  - [Add your observations about feature importance here]

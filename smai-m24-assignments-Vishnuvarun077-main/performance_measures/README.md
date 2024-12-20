@@ -1,0 +1,1 @@
+This folder should contain the generalised implementations of all evaluation metrics, in a way such that they can be used for any model as and when needed.

@@ -1,0 +1,1 @@
+Use this folder to store processed data for each assignment.

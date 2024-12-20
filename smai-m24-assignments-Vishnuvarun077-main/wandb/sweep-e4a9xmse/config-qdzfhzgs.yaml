@@ -1,0 +1,10 @@
+wandb_version: 1
+
+activation:
+  value: relu
+batch_size:
+  value: 64
+learning_rate:
+  value: 0.09820062246713428
+optimizer:
+  value: adam
